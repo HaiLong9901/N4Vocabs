@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="vi" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flashcard N4</title>
+
+    <!-- Tailwind CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+      /* Flip animation */
+      .flip-card {
+        perspective: 1000px;
+      }
+      .flip-inner {
+        transition: transform 0.6s;
+        transform-style: preserve-3d;
+      }
+      .flipped {
+        transform: rotateY(180deg);
+      }
+      .flip-face {
+        backface-visibility: hidden;
+      }
+      .flip-back {
+        transform: rotateY(180deg);
+      }
+    </style>
+  </head>
+  <body class="bg-gray-100 dark:bg-gray-900 min-h-screen p-4">
+    <div class="max-w-xl mx-auto">
+      <!-- HEADER -->
+      <div class="flex justify-between items-center mb-4">
+        <h1 class="text-2xl font-bold dark:text-white">Flashcard Nhật N4</h1>
+
+        <!-- Dark Mode Toggle -->
+        <button
+          id="darkToggle"
+          class="px-3 py-1 rounded bg-gray-800 text-white dark:bg-yellow-400 dark:text-black"
+        >
+          🌙 / ☀️
+        </button>
+      </div>
+
+      <!-- Mode Buttons -->
+      <div class="flex gap-3 mb-4">
+        <button
+          id="modeFlashcard"
+          class="px-3 py-2 bg-blue-500 text-white rounded"
+        >
+          Flashcard
+        </button>
+        <button id="modeQuiz" class="px-3 py-2 bg-green-500 text-white rounded">
+          Quiz
+        </button>
+        <button
+          id="shuffleBtn"
+          class="px-3 py-2 bg-purple-500 text-white rounded"
+        >
+          🔀 Shuffle
+        </button>
+      </div>
+
+      <!-- Progress -->
+      <div class="mb-4 p-3 bg-white dark:bg-gray-800 rounded shadow">
+        <p class="dark:text-gray-200">
+          Đã học: <span id="progressLearned">0</span>/<span id="progressTotal"
+            >0</span
+          >
+        </p>
+        <p class="dark:text-gray-200">
+          Hoàn thành Quiz: <span id="progressQuiz">0</span>
+        </p>
+      </div>
+
+      <!-- FLASHCARD -->
+      <div id="flashcardPanel" class="hidden">
+        <div class="flip-card w-full">
+          <div
+            id="cardInner"
+            class="flip-inner relative w-full h-80 bg-white dark:bg-gray-800 shadow-lg rounded-xl p-5"
+          >
+            <!-- Front -->
+            <div
+              class="flip-face absolute inset-0 flex flex-col justify-center items-center"
+            >
+              <div
+                id="word"
+                class="text-3xl font-bold dark:text-white mb-3"
+              ></div>
+              <img id="frontImg" class="w-32 h-32 object-contain mb-3" />
+              <button
+                id="playAudio"
+                class="px-4 py-2 bg-blue-600 text-white rounded"
+              >
+                🔊 Nghe
+              </button>
+            </div>
+
+            <!-- Back -->
+            <div class="flip-face flip-back absolute inset-0 p-5 text-center">
+              <p
+                id="meaning"
+                class="text-xl font-semibold dark:text-white mb-3"
+              ></p>
+              <div class="text-sm text-gray-700 dark:text-gray-300">
+                <p class="font-medium mb-2">Ví dụ:</p>
+                <ul id="examples" class="list-disc text-left ml-4"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Controls -->
+        <div class="flex justify-between mt-4">
+          <button
+            id="prevBtn"
+            class="px-3 py-2 bg-gray-300 dark:bg-gray-700 dark:text-white rounded"
+          >
+            ⬅ Trước
+          </button>
+          <button
+            id="flipBtn"
+            class="px-3 py-2 bg-yellow-400 dark:text-black rounded"
+          >
+            🔄 Lật
+          </button>
+          <button
+            id="nextBtn"
+            class="px-3 py-2 bg-gray-300 dark:bg-gray-700 dark:text-white rounded"
+          >
+            Tiếp ➡
+          </button>
+        </div>
+      </div>
+
+      <!-- QUIZ PANEL -->
+      <div id="quizPanel" class="hidden">
+        <div class="p-5 bg-white dark:bg-gray-800 rounded shadow">
+          <p
+            id="quizWord"
+            class="text-2xl font-bold text-center dark:text-white mb-5"
+          ></p>
+
+          <!-- Options -->
+          <div id="quizOptions" class="flex flex-col gap-3"></div>
+        </div>
+
+        <button
+          id="nextQuiz"
+          class="mt-4 w-full px-3 py-2 bg-blue-500 text-white rounded hidden"
+        >
+          Câu tiếp ➡
+        </button>
+      </div>
+    </div>
+
+    <script>
+      /* ------------------ LOAD JSON ------------------ */
+      let cards = [];
+      let index = 0;
+      let shuffleMode = false;
+
+      // Progress
+      let learned = new Set(
+        JSON.parse(localStorage.getItem("learned") || "[]")
+      );
+      let quizDone = new Set(
+        JSON.parse(localStorage.getItem("quizDone") || "[]")
+      );
+
+      fetch("./data/words.json")
+        .then((res) => res.json())
+        .then((data) => {
+          cards = data;
+          document.getElementById("progressTotal").innerText = cards.length;
+          renderCard();
+          updateProgressUI();
+        });
+
+      /* ------------------ DARK MODE ------------------ */
+      const html = document.documentElement;
+      document.getElementById("darkToggle").onclick = () => {
+        html.classList.toggle("dark");
+        localStorage.setItem("darkmode", html.classList.contains("dark"));
+      };
+
+      if (localStorage.getItem("darkmode") === "false")
+        html.classList.remove("dark");
+
+      /* ------------------ FLASHCARD MODE ------------------ */
+
+      function renderCard() {
+        if (!cards.length) return;
+
+        const c = cards[index];
+
+        document.getElementById("word").innerHTML = c.word;
+        document.getElementById("frontImg").src =
+          "./images/" + (c.front_image || "");
+        document.getElementById("meaning").innerHTML = c.meaning;
+
+        // examples
+        const list = document.getElementById("examples");
+        list.innerHTML = "";
+        c.meaning_example.forEach((e) => {
+          const li = document.createElement("li");
+          li.innerHTML = e;
+          list.appendChild(li);
+        });
+
+        learned.add(index);
+        saveProgress();
+      }
+
+      document.getElementById("flipBtn").onclick = () =>
+        document.getElementById("cardInner").classList.toggle("flipped");
+
+      document.getElementById("nextBtn").onclick = () => {
+        index = shuffleMode ? randomIndex() : (index + 1) % cards.length;
+        renderCard();
+        document.getElementById("cardInner").classList.remove("flipped");
+      };
+
+      document.getElementById("prevBtn").onclick = () => {
+        index = shuffleMode
+          ? randomIndex()
+          : (index - 1 + cards.length) % cards.length;
+        renderCard();
+        document.getElementById("cardInner").classList.remove("flipped");
+      };
+
+      document.getElementById("playAudio").onclick = () => {
+        const audio = new Audio("./audio/" + cards[index].audio);
+        audio.play();
+      };
+
+      /* ------------------ SHUFFLE MODE ------------------ */
+      document.getElementById("shuffleBtn").onclick = () => {
+        shuffleMode = !shuffleMode;
+        alert("Shuffle: " + (shuffleMode ? "ON" : "OFF"));
+      };
+
+      function randomIndex() {
+        return Math.floor(Math.random() * cards.length);
+      }
+
+      /* ------------------ QUIZ MODE ------------------ */
+      /* ------------------ QUIZ MODE (VERSION 2 - NO ALERT) ------------------ */
+
+      function startQuiz() {
+        const c = cards[index];
+
+        document.getElementById("quizWord").innerHTML = c.word;
+
+        const options = [...c.quiz_question];
+        options.sort(() => Math.random() - 0.5);
+
+        const container = document.getElementById("quizOptions");
+        container.innerHTML = "";
+
+        // Ẩn nút "next"
+        const nextBtn = document.getElementById("nextQuiz");
+        nextBtn.classList.add("hidden");
+
+        options.forEach((opt) => {
+          const btn = document.createElement("button");
+          btn.className =
+            "px-3 py-2 bg-gray-200 dark:bg-gray-700 dark:text-white rounded transition";
+          btn.innerText = opt;
+
+          btn.onclick = () => handleQuizAnswer(btn, opt, c.meaning);
+          container.appendChild(btn);
+        });
+      }
+
+      function handleQuizAnswer(button, selected, correct) {
+        const container = document.getElementById("quizOptions");
+        const buttons = container.querySelectorAll("button");
+
+        // Disable tất cả nút
+        buttons.forEach((b) => (b.disabled = true));
+
+        if (selected === correct) {
+          // ĐÚNG → XANH
+          button.classList.remove("bg-gray-200", "dark:bg-gray-700");
+          button.classList.add("bg-green-500", "text-white");
+
+          quizDone.add(index);
+          saveProgress();
+        } else {
+          // SAI → ĐỎ
+          button.classList.remove("bg-gray-200", "dark:bg-gray-700");
+          button.classList.add("bg-red-500", "text-white");
+
+          // Tô màu nút đúng (màu xanh nhạt)
+          buttons.forEach((b) => {
+            if (b.innerText === correct) {
+              b.classList.remove("bg-gray-200", "dark:bg-gray-700");
+              b.classList.add("bg-green-400", "text-white");
+            }
+          });
+        }
+
+        // Hiện nút NEXT
+        document.getElementById("nextQuiz").classList.remove("hidden");
+      }
+
+      document.getElementById("nextQuiz").onclick = () => {
+        index = shuffleMode ? randomIndex() : (index + 1) % cards.length;
+        startQuiz();
+      };
+
+      /* ------------------ MODE SWITCH ------------------ */
+      document.getElementById("modeFlashcard").onclick = () => {
+        document.getElementById("flashcardPanel").classList.remove("hidden");
+        document.getElementById("quizPanel").classList.add("hidden");
+        renderCard();
+      };
+
+      document.getElementById("modeQuiz").onclick = () => {
+        document.getElementById("flashcardPanel").classList.add("hidden");
+        document.getElementById("quizPanel").classList.remove("hidden");
+        startQuiz();
+      };
+
+      /* ------------------ PROGRESS ------------------ */
+      function saveProgress() {
+        localStorage.setItem("learned", JSON.stringify([...learned]));
+        localStorage.setItem("quizDone", JSON.stringify([...quizDone]));
+        updateProgressUI();
+      }
+
+      function updateProgressUI() {
+        document.getElementById("progressLearned").innerText = learned.size;
+        document.getElementById("progressQuiz").innerText = quizDone.size;
+      }
+    </script>
+  </body>
+</html>
