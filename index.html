@@ -1,334 +1,376 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="vi" class="dark">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Flashcard N4</title>
+    <title>Flashcard Nhật Pro</title>
 
-    <!-- Tailwind CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
 
     <style>
-      /* Flip animation */
+      /* --- Hiệu ứng lật chuyên nghiệp từ file 2 --- */
       .flip-card {
         perspective: 1000px;
       }
       .flip-inner {
-        transition: transform 0.6s;
+        transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
         transform-style: preserve-3d;
+        position: relative;
+        width: 100%;
+        height: 100%;
       }
-      .flipped {
+      .flipped .flip-inner {
         transform: rotateY(180deg);
       }
       .flip-face {
         backface-visibility: hidden;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border-radius: 1.5rem;
       }
       .flip-back {
         transform: rotateY(180deg);
       }
+      /* Ẩn scrollbar cho danh sách ví dụ */
+      .no-scrollbar::-webkit-scrollbar {
+        display: none;
+      }
     </style>
   </head>
-  <body class="bg-gray-100 dark:bg-gray-900 min-h-screen p-4">
-    <div class="max-w-xl mx-auto">
-      <!-- HEADER -->
-      <div class="flex justify-between items-center mb-4">
-        <h1 class="text-2xl font-bold dark:text-white">Flashcard Nhật N4</h1>
 
-        <!-- Dark Mode Toggle -->
+  <body
+    class="bg-gray-100 dark:bg-gray-900 min-h-screen p-4 transition-colors duration-300 font-sans"
+  >
+    <div class="max-w-xl mx-auto">
+      <div class="flex justify-between items-center mb-4">
+        <h1 class="text-2xl font-bold dark:text-white">Flashcard Nhật</h1>
         <button
           id="darkToggle"
-          class="px-3 py-1 rounded bg-gray-800 text-white dark:bg-yellow-400 dark:text-black"
+          class="px-3 py-1 rounded-lg bg-gray-800 text-white dark:bg-yellow-400 dark:text-black font-medium text-sm transition shadow-sm"
         >
           🌙 / ☀️
         </button>
       </div>
 
-      <!-- Mode Buttons -->
+      <select
+        id="datasetSelect"
+        class="mb-4 w-full px-4 py-2 rounded-xl bg-white dark:bg-gray-800 dark:text-white border border-gray-200 dark:border-gray-700 outline-none focus:ring-2 focus:ring-blue-500 transition"
+      ></select>
+
       <div class="flex gap-3 mb-4">
         <button
           id="modeFlashcard"
-          class="px-3 py-2 bg-blue-500 text-white rounded"
+          class="flex-1 py-2 bg-blue-500 text-white rounded-xl font-medium shadow-md"
         >
           Flashcard
         </button>
-        <button id="modeQuiz" class="px-3 py-2 bg-green-500 text-white rounded">
+        <button
+          id="modeQuiz"
+          class="flex-1 py-2 bg-gray-200 dark:bg-gray-700 dark:text-white rounded-xl font-medium"
+        >
           Quiz
         </button>
         <button
           id="shuffleBtn"
-          class="px-3 py-2 bg-purple-500 text-white rounded"
+          class="px-4 py-2 bg-purple-500/20 text-purple-600 dark:text-purple-400 border border-purple-500/30 rounded-xl transition"
         >
-          🔀 Shuffle
+          🔀 Trộn
         </button>
       </div>
 
-      <!-- Progress -->
-      <div class="mb-4 p-3 bg-white dark:bg-gray-800 rounded shadow">
-        <p class="dark:text-gray-200">
-          Đã học: <span id="progressLearned">0</span>/<span id="progressTotal"
-            >0</span
-          >
-        </p>
-        <p class="dark:text-gray-200">
-          Hoàn thành Quiz: <span id="progressQuiz">0</span>
-        </p>
+      <div
+        class="mb-6 p-4 bg-white dark:bg-gray-800 rounded-2xl shadow-sm border border-gray-100 dark:border-gray-700 flex justify-between items-center"
+      >
+        <div>
+          <p class="dark:text-gray-200 text-sm">
+            Đã học:
+            <span id="progressLearned" class="font-bold text-blue-500">0</span>
+            / <span id="progressTotal">0</span>
+          </p>
+          <p class="dark:text-gray-400 text-xs mt-1">
+            Hoàn thành Quiz: <span id="progressQuiz">0</span>
+          </p>
+        </div>
+        <button
+          id="resetBtn"
+          class="px-3 py-1.5 bg-red-50 dark:bg-red-900/20 text-red-600 dark:text-red-400 rounded-lg text-xs font-bold hover:bg-red-600 hover:text-white transition uppercase tracking-wider"
+        >
+          🗑️ Reset
+        </button>
       </div>
 
-      <!-- FLASHCARD -->
-      <div id="flashcardPanel" class="hidden">
-        <div class="flip-card w-full">
-          <div
-            id="cardInner"
-            class="flip-inner relative w-full h-80 bg-white dark:bg-gray-800 shadow-lg rounded-xl p-5"
-          >
-            <!-- Front -->
+      <div id="flashcardPanel">
+        <div
+          id="cardWrapper"
+          class="flip-card w-full h-96 cursor-pointer group"
+          onclick="this.classList.toggle('flipped')"
+        >
+          <div id="cardInner" class="flip-inner">
             <div
-              class="flip-face absolute inset-0 flex flex-col justify-center items-center"
+              class="flip-face bg-white dark:bg-gray-800 shadow-xl flex flex-col justify-center items-center p-5 border border-gray-100 dark:border-gray-700"
             >
               <div
                 id="word"
-                class="text-3xl font-bold dark:text-white mb-3"
+                class="text-4xl font-bold dark:text-white mb-4"
               ></div>
-              <img id="frontImg" class="w-32 h-32 object-contain mb-3" />
+              <img id="frontImg" class="w-40 h-40 object-contain mb-6" />
               <button
-                id="playAudio"
-                class="px-4 py-2 bg-blue-600 text-white rounded"
+                onclick="
+                  event.stopPropagation();
+                  playCurrentAudio();
+                "
+                class="px-6 py-2 bg-blue-600 text-white rounded-full hover:bg-blue-700 transition-all flex items-center gap-2 shadow-lg shadow-blue-500/30"
               >
-                🔊 Nghe
+                <span>🔊</span> Nghe
               </button>
             </div>
 
-            <!-- Back -->
-            <div class="flip-face flip-back absolute inset-0 p-5 text-center">
+            <div
+              class="flip-face flip-back bg-white dark:bg-gray-800 shadow-xl p-6 flex flex-col border border-gray-100 dark:border-gray-700"
+            >
               <p
                 id="meaning"
-                class="text-xl font-semibold dark:text-white mb-3"
+                class="text-2xl font-bold text-blue-600 dark:text-blue-400 mb-4 text-center"
               ></p>
-              <div class="text-sm text-gray-700 dark:text-gray-300">
-                <p class="font-medium mb-2">Ví dụ:</p>
-                <ul id="examples" class="list-disc text-left ml-4"></ul>
+              <div class="w-full h-px bg-gray-100 dark:bg-gray-700 mb-4"></div>
+              <div
+                class="text-sm text-gray-700 dark:text-gray-300 overflow-y-auto no-scrollbar flex-1"
+              >
+                <p
+                  class="font-bold text-gray-400 uppercase text-[10px] tracking-widest mb-2"
+                >
+                  Ví dụ minh họa:
+                </p>
+                <ul
+                  id="examples"
+                  class="list-disc text-left ml-5 space-y-3 italic"
+                ></ul>
               </div>
             </div>
           </div>
         </div>
 
-        <!-- Controls -->
-        <div class="flex justify-between mt-4">
+        <div class="grid grid-cols-2 gap-4 mt-8">
           <button
             id="prevBtn"
-            class="px-3 py-2 bg-gray-300 dark:bg-gray-700 dark:text-white rounded"
+            class="bg-gray-200 dark:bg-gray-700 dark:text-white py-4 rounded-2xl font-bold transition active:scale-95 shadow-md border border-transparent dark:border-gray-600"
           >
-            ⬅ Trước
-          </button>
-          <button
-            id="flipBtn"
-            class="px-3 py-2 bg-yellow-400 dark:text-black rounded"
-          >
-            🔄 Lật
+            Lùi lại
           </button>
           <button
             id="nextBtn"
-            class="px-3 py-2 bg-gray-300 dark:bg-gray-700 dark:text-white rounded"
+            class="bg-blue-600 hover:bg-blue-500 text-white py-4 rounded-2xl font-bold transition active:scale-95 shadow-lg shadow-blue-500/20"
           >
-            Tiếp ➡
+            Tiếp tục
           </button>
         </div>
       </div>
 
-      <!-- QUIZ PANEL -->
       <div id="quizPanel" class="hidden">
-        <div class="p-5 bg-white dark:bg-gray-800 rounded shadow">
+        <div
+          class="p-6 bg-white dark:bg-gray-800 rounded-3xl shadow-xl border border-gray-100 dark:border-gray-700"
+        >
           <p
             id="quizWord"
-            class="text-2xl font-bold text-center dark:text-white mb-5"
+            class="text-3xl font-bold text-center dark:text-white mb-8"
           ></p>
-
-          <!-- Options -->
           <div id="quizOptions" class="flex flex-col gap-3"></div>
         </div>
-
         <button
           id="nextQuiz"
-          class="mt-4 w-full px-3 py-2 bg-blue-500 text-white rounded hidden"
+          class="mt-4 w-full py-4 bg-blue-600 text-white rounded-2xl font-bold hidden shadow-lg"
         >
-          Câu tiếp ➡
+          Câu tiếp theo ➡
         </button>
       </div>
     </div>
 
     <script>
-      /* ------------------ LOAD JSON ------------------ */
+      /* ================= DATASETS ================= */
+      const DATASETS = [
+        { name: "N4", file: "words.json" },
+        { name: "N3 Chap 1", file: "words_n3_chap1.json" },
+      ];
+
       let cards = [];
       let index = 0;
       let shuffleMode = false;
+      let currentFile = "";
+      let learned = new Set();
+      let quizDone = new Set();
 
-      // Progress
-      let learned = new Set(
-        JSON.parse(localStorage.getItem("learned") || "[]")
-      );
-      let quizDone = new Set(
-        JSON.parse(localStorage.getItem("quizDone") || "[]")
-      );
+      const select = document.getElementById("datasetSelect");
+      DATASETS.forEach((d) => {
+        const opt = document.createElement("option");
+        opt.value = d.file;
+        opt.innerText = d.name;
+        select.appendChild(opt);
+      });
 
-      fetch("./data/words.json")
-        .then((res) => res.json())
-        .then((data) => {
-          cards = data;
-          document.getElementById("progressTotal").innerText = cards.length;
-          renderCard();
-          updateProgressUI();
-        });
+      function loadDataset(file) {
+        currentFile = file;
+        fetch("./data/" + file)
+          .then((res) => res.json())
+          .then((data) => {
+            cards = data;
+            index = 0;
+            learned = new Set(
+              JSON.parse(localStorage.getItem("learned_" + file) || "[]"),
+            );
+            quizDone = new Set(
+              JSON.parse(localStorage.getItem("quizDone_" + file) || "[]"),
+            );
+            document.getElementById("progressTotal").innerText = cards.length;
 
-      /* ------------------ DARK MODE ------------------ */
+            // Nếu đang bật shuffle thì trộn luôn khi load dataset mới
+            if (shuffleMode) shuffleArray(cards);
+
+            renderCard();
+            updateProgressUI();
+          });
+      }
+
+      select.onchange = () => loadDataset(select.value);
+      loadDataset(DATASETS[0].file);
+
+      /* DARK MODE */
       const html = document.documentElement;
       document.getElementById("darkToggle").onclick = () => {
         html.classList.toggle("dark");
         localStorage.setItem("darkmode", html.classList.contains("dark"));
       };
-
       if (localStorage.getItem("darkmode") === "false")
         html.classList.remove("dark");
 
-      /* ------------------ FLASHCARD MODE ------------------ */
-
+      /* RENDER CARD */
       function renderCard() {
         if (!cards.length) return;
-
         const c = cards[index];
+
+        // Reset về mặt trước
+        document.getElementById("cardWrapper").classList.remove("flipped");
 
         document.getElementById("word").innerHTML = c.word;
         document.getElementById("frontImg").src =
           "./images/" + (c.front_image || "");
         document.getElementById("meaning").innerHTML = c.meaning;
 
-        // examples
         const list = document.getElementById("examples");
         list.innerHTML = "";
-        c.meaning_example.forEach((e) => {
+        (c.meaning_example || []).forEach((e) => {
           const li = document.createElement("li");
           li.innerHTML = e;
           list.appendChild(li);
         });
 
-        learned.add(index);
+        // Tự động đánh dấu đã học
+        learned.add(c.word); // Lưu theo từ để không bị lệch khi shuffle
         saveProgress();
       }
 
-      document.getElementById("flipBtn").onclick = () =>
-        document.getElementById("cardInner").classList.toggle("flipped");
+      function playCurrentAudio() {
+        if (!cards[index]?.audio) return;
+        new Audio("./audio/" + cards[index].audio).play();
+      }
+
+      /* ĐIỀU KHIỂN & SHUFFLE */
+      function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [array[i], array[j]] = [array[j], array[i]];
+        }
+      }
+
+      document.getElementById("shuffleBtn").onclick = () => {
+        shuffleMode = !shuffleMode;
+        const btn = document.getElementById("shuffleBtn");
+        if (shuffleMode) {
+          shuffleArray(cards);
+          btn.classList.replace("bg-purple-500/20", "bg-purple-600");
+          btn.classList.replace("text-purple-600", "text-white");
+        } else {
+          loadDataset(select.value); // Tải lại để lấy thứ tự gốc
+          btn.classList.replace("bg-purple-600", "bg-purple-500/20");
+          btn.classList.replace("text-white", "text-purple-600");
+        }
+        index = 0;
+        renderCard();
+      };
 
       document.getElementById("nextBtn").onclick = () => {
-        index = shuffleMode ? randomIndex() : (index + 1) % cards.length;
+        if (!cards.length) return;
+        index = (index + 1) % cards.length;
         renderCard();
-        document.getElementById("cardInner").classList.remove("flipped");
       };
 
       document.getElementById("prevBtn").onclick = () => {
-        index = shuffleMode
-          ? randomIndex()
-          : (index - 1 + cards.length) % cards.length;
+        if (!cards.length) return;
+        index = (index - 1 + cards.length) % cards.length;
         renderCard();
-        document.getElementById("cardInner").classList.remove("flipped");
       };
 
-      document.getElementById("playAudio").onclick = () => {
-        const audio = new Audio("./audio/" + cards[index].audio);
-        audio.play();
-      };
-
-      /* ------------------ SHUFFLE MODE ------------------ */
-      document.getElementById("shuffleBtn").onclick = () => {
-        shuffleMode = !shuffleMode;
-        alert("Shuffle: " + (shuffleMode ? "ON" : "OFF"));
-      };
-
-      function randomIndex() {
-        return Math.floor(Math.random() * cards.length);
-      }
-
-      /* ------------------ QUIZ MODE ------------------ */
-      /* ------------------ QUIZ MODE (VERSION 2 - NO ALERT) ------------------ */
-
+      /* QUIZ LOGIC */
       function startQuiz() {
         const c = cards[index];
-
         document.getElementById("quizWord").innerHTML = c.word;
-
-        const options = [...c.quiz_question];
-        options.sort(() => Math.random() - 0.5);
-
+        const options = [...(c.quiz_question || [])].sort(
+          () => Math.random() - 0.5,
+        );
         const container = document.getElementById("quizOptions");
         container.innerHTML = "";
-
-        // Ẩn nút "next"
-        const nextBtn = document.getElementById("nextQuiz");
-        nextBtn.classList.add("hidden");
+        document.getElementById("nextQuiz").classList.add("hidden");
 
         options.forEach((opt) => {
           const btn = document.createElement("button");
           btn.className =
-            "px-3 py-2 bg-gray-200 dark:bg-gray-700 dark:text-white rounded transition";
+            "px-4 py-4 bg-gray-100 dark:bg-gray-700 dark:text-white rounded-2xl text-left font-medium transition active:scale-95 border border-transparent";
           btn.innerText = opt;
-
-          btn.onclick = () => handleQuizAnswer(btn, opt, c.meaning);
+          btn.onclick = () => {
+            const btns = container.querySelectorAll("button");
+            btns.forEach((b) => (b.disabled = true));
+            if (opt === c.meaning) {
+              btn.classList.add(
+                "bg-green-500",
+                "text-white",
+                "border-green-400",
+              );
+              quizDone.add(c.word);
+              saveProgress();
+            } else {
+              btn.classList.add("bg-red-500", "text-white", "border-red-400");
+              btns.forEach((b) => {
+                if (b.innerText === c.meaning)
+                  b.classList.add(
+                    "border-green-500",
+                    "text-green-600",
+                    "dark:text-green-400",
+                  );
+              });
+            }
+            document.getElementById("nextQuiz").classList.remove("hidden");
+          };
           container.appendChild(btn);
         });
       }
 
-      function handleQuizAnswer(button, selected, correct) {
-        const container = document.getElementById("quizOptions");
-        const buttons = container.querySelectorAll("button");
-
-        // Disable tất cả nút
-        buttons.forEach((b) => (b.disabled = true));
-
-        if (selected === correct) {
-          // ĐÚNG → XANH
-          button.classList.remove("bg-gray-200", "dark:bg-gray-700");
-          button.classList.add("bg-green-500", "text-white");
-
-          quizDone.add(index);
-          saveProgress();
-        } else {
-          // SAI → ĐỎ
-          button.classList.remove("bg-gray-200", "dark:bg-gray-700");
-          button.classList.add("bg-red-500", "text-white");
-
-          // Tô màu nút đúng (màu xanh nhạt)
-          buttons.forEach((b) => {
-            if (b.innerText === correct) {
-              b.classList.remove("bg-gray-200", "dark:bg-gray-700");
-              b.classList.add("bg-green-400", "text-white");
-            }
-          });
-        }
-
-        // Hiện nút NEXT
-        document.getElementById("nextQuiz").classList.remove("hidden");
-      }
-
       document.getElementById("nextQuiz").onclick = () => {
-        index = shuffleMode ? randomIndex() : (index + 1) % cards.length;
+        index = (index + 1) % cards.length;
         startQuiz();
       };
 
-      /* ------------------ MODE SWITCH ------------------ */
-      document.getElementById("modeFlashcard").onclick = () => {
-        document.getElementById("flashcardPanel").classList.remove("hidden");
-        document.getElementById("quizPanel").classList.add("hidden");
-        renderCard();
-      };
-
-      document.getElementById("modeQuiz").onclick = () => {
-        document.getElementById("flashcardPanel").classList.add("hidden");
-        document.getElementById("quizPanel").classList.remove("hidden");
-        startQuiz();
-      };
-
-      /* ------------------ PROGRESS ------------------ */
+      /* PROGRESS & RESET */
       function saveProgress() {
-        localStorage.setItem("learned", JSON.stringify([...learned]));
-        localStorage.setItem("quizDone", JSON.stringify([...quizDone]));
+        localStorage.setItem(
+          "learned_" + currentFile,
+          JSON.stringify([...learned]),
+        );
+        localStorage.setItem(
+          "quizDone_" + currentFile,
+          JSON.stringify([...quizDone]),
+        );
         updateProgressUI();
       }
 
@@ -336,6 +378,43 @@
         document.getElementById("progressLearned").innerText = learned.size;
         document.getElementById("progressQuiz").innerText = quizDone.size;
       }
+
+      document.getElementById("resetBtn").onclick = () => {
+        if (confirm("Xóa toàn bộ tiến độ học của bộ này?")) {
+          learned.clear();
+          quizDone.clear();
+          localStorage.removeItem("learned_" + currentFile);
+          localStorage.removeItem("quizDone_" + currentFile);
+          updateProgressUI();
+          index = 0;
+          renderCard();
+        }
+      };
+
+      /* MODE SWITCH */
+      document.getElementById("modeFlashcard").onclick = () => {
+        document.getElementById("flashcardPanel").classList.remove("hidden");
+        document.getElementById("quizPanel").classList.add("hidden");
+        document
+          .getElementById("modeFlashcard")
+          .classList.replace("bg-gray-200", "bg-blue-500");
+        document
+          .getElementById("modeQuiz")
+          .classList.replace("bg-green-500", "bg-gray-200");
+        renderCard();
+      };
+
+      document.getElementById("modeQuiz").onclick = () => {
+        document.getElementById("flashcardPanel").classList.add("hidden");
+        document.getElementById("quizPanel").classList.remove("hidden");
+        document
+          .getElementById("modeFlashcard")
+          .classList.replace("bg-blue-500", "bg-gray-200");
+        document
+          .getElementById("modeQuiz")
+          .classList.replace("bg-gray-200", "bg-green-500");
+        startQuiz();
+      };
     </script>
   </body>
 </html>
