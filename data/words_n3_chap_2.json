@@ -1,0 +1,5067 @@
+[
+  {
+    "word": "<p><ruby>汗</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>あせ</p><p>mồ h&ocirc;i</p>",
+    "audio": "2026-01-19/1.汗.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>汗</ruby></span>で<ruby>服<rt>ふく</rt></ruby>がびしょびしょになった。</p>",
+        "audio": "2026-01-19/1.汗-例1.mp3"
+      },
+      {
+        "example": "<p>お<ruby>風呂<rt>ふろ</rt></ruby>で<span style=\"color:#ef6d13\"><ruby>汗</ruby></span>を<ruby>流<rt>なが</rt></ruby>す。</p>",
+        "audio": "2026-01-19/1.汗-例2.mp3"
+      },
+      {
+        "example": "<p><ruby>運動<rt>うんどう</rt></ruby>をして、たくさん<span style=\"color:#ef6d13\"><ruby>汗</ruby></span>をかいた。</p>",
+        "audio": "2026-01-19/1.汗-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Quần áo tôi ướt sũng vì <span style=\"color:#EF6D13\">mồ hôi</span>.",
+      "Tôi xả sạch <span style=\"color:#EF6D13\">mồ hôi</span> trong bồn tắm.",
+      "Tôi đã tập thể dục và ra rất nhiều <span style=\"color:#EF6D13\">mồ hôi</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HÃN"
+  },
+  {
+    "word": "<p><ruby>週刊</ruby><ruby>誌</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>しゅうかんし</p><p>tạp ch&iacute; h&agrave;ng tuần</p>",
+    "audio": "2026-01-19/2.週刊誌.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>週刊</ruby><ruby>誌</ruby></span>で、<ruby>有名<rt>ゆうめい</rt></ruby>な<ruby>歌手<rt>かしゅ</rt></ruby>が<ruby>結婚<rt>けっこん</rt></ruby>したことを<ruby>知<rt>し</rt></ruby>った。</p>",
+        "audio": "2026-01-19/2.週刊誌-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>姉<rt>あね</rt></ruby>は<ruby>毎週、</ruby><span style=\"color:#ef6d13\"><ruby>週刊</ruby><ruby>誌</ruby></span>を<ruby>買</ruby>って<ruby>読</ruby>んでいる。</p>",
+        "audio": "2026-01-19/2.週刊誌-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã biết tin một ca sĩ nổi tiếng đã kết hôn qua <span style=\"color:#EF6D13\">tạp chí tuần</span>.",
+      "Chị tôi mua và đọc <span style=\"color:#EF6D13\">tạp chí tuần</span> mỗi tuần."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CHU SAN CHÍ"
+  },
+  {
+    "word": "<p><ruby>朝</ruby><ruby>刊</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ちょうかん</p><p>b&aacute;o s&aacute;ng</p>",
+    "audio": "2026-01-19/3.朝刊.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>父<rt>ちち</rt></ruby>は<ruby>毎朝</ruby>コーヒーを<ruby>飲</ruby>みながら<ruby>新聞<rt>しんぶん</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>朝</ruby><ruby>刊</ruby></span>を<ruby>読む</ruby>。</p>",
+        "audio": "2026-01-19/3.朝刊-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Sáng nào bố tôi cũng vừa uống cà phê vừa đọc <span style=\"color:#EF6D13\">báo sáng</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRIỀU SAN"
+  },
+  {
+    "word": "<p><ruby>辞</ruby><ruby>書</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>じしょ</p><p>từ điển</p>",
+    "audio": "2026-01-19/4.辞書.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>辞</ruby><ruby>書</ruby></span>を<ruby>引<rt>ひ</rt></ruby>いて<ruby>言葉<rt>ことば</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べる。</p>",
+        "audio": "2026-01-19/4.辞書-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi tra <span style=\"color:#EF6D13\">từ điển</span> để tìm nghĩa của từ."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỪ THƯ"
+  },
+  {
+    "word": "<p><ruby>生活</ruby><ruby>費</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>せいかつひ</p><p>chi ph&iacute; sinh hoạt</p>",
+    "audio": "2026-01-19/5.生活費.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>もらったボーナスは、<span style=\"color:#ef6d13\"><ruby>生活</ruby><ruby>費</ruby></span>にするつもりだ。</p>",
+        "audio": "2026-01-19/5.生活費-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tiền thưởng nhận được tôi dự định sẽ dùng vào <span style=\"color:#EF6D13\">chi phí sinh hoạt</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "SINH HOẠT PHÍ"
+  },
+  {
+    "word": "<p><ruby>個</ruby><ruby>人</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>こじん</p><p>c&aacute; nh&acirc;n, ri&ecirc;ng tư</p>",
+    "audio": "2026-01-19/6.個人.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>チーム<ruby>競<rt>きょう</rt></ruby><ruby>技<rt>ぎ</rt></ruby>よりも<span style=\"color:#ef6d13\"><ruby>個</ruby><ruby>人</ruby></span><ruby>競<rt>きょう</rt></ruby><ruby>技<rt>ぎ</rt></ruby>のほうが<ruby>好<rt>す</rt></ruby>きだ。</p>",
+        "audio": "2026-01-19/6.個人-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi thích môn thể thao <span style=\"color:#EF6D13\">cá nhân</span> hơn là môn thể thao đồng đội."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CÁ NHÂN"
+  },
+  {
+    "word": "<p><ruby>人間</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>にんげん</p><p>nh&acirc;n loại, con người</p>",
+    "audio": "2026-01-19/7.人間.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby><span style=\"color:#ef6d13\">人間</span>は一人では生きていけないと言われている。</ruby></p>",
+        "audio": "2026-01-19/7.人間-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Người ta n&oacute;i rằng <span style=\"color:#ef6d13\">con người</span> kh&ocirc;ng thể sống đơn độc một m&igrave;nh.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "NHÂN GIAN"
+  },
+  {
+    "word": "<p><ruby>馬</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>うま</p><p>con ngựa</p>",
+    "audio": "2026-01-19/8.馬.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>牧<rt>ぼく</rt></ruby><ruby>場<rt>じょう</rt></ruby>では、<span style=\"color:#ef6d13\">馬</span>に<ruby>乗<rt>の</rt></ruby>る<ruby>体験<rt>たいけん</rt></ruby>ができる。</p>",
+        "audio": "2026-01-19/8.馬-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Ở n&ocirc;ng trại n&agrave;y, bạn c&oacute; thể trải nghiệm cưỡi <span style=\"color:#ef6d13\">ngựa</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MÃ"
+  },
+  {
+    "word": "<p><ruby>体温</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>たいおん</p><p>nhiệt độ cơ thể</p>",
+    "audio": "2026-01-19/9.体温.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>体温</ruby></span>を<ruby>上<rt>あ</rt></ruby>げると、<ruby>病<rt>びょう</rt></ruby><ruby>気<rt>き</rt></ruby>になりにくいそうだ。</p>",
+        "audio": "2026-01-19/9.体温-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Nghe nói nếu tăng <span style=\"color:#EF6D13\">nhiệt độ cơ thể</span> sẽ khó mắc bệnh hơn."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỂ ÔN"
+  },
+  {
+    "word": "<p><ruby>違</ruby>い</p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ちがい</p><p>sự kh&aacute;c nhau</p>",
+    "audio": "2026-01-19/10.違い.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>違</ruby>い</span>からけんかになることがある。</p>",
+        "audio": "2026-01-19/10.違い-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Đôi khi có thể xảy ra cãi vã vì <span style=\"color:#EF6D13\">sự khác biệt</span> trong cách suy nghĩ."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "VI"
+  },
+  {
+    "word": "<p><ruby>文</ruby><ruby>化</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ぶんか</p><p>văn h&oacute;a</p>",
+    "audio": "2026-01-19/11.文化.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>日本人の恋人といると、<span style=\"color:#ef6d13\">文化</span>の違いを感じる。</ruby></p>",
+        "audio": "2026-01-19/11.文化-例1.mp3"
+      },
+      {
+        "example": "<p>日本のお<ruby>城<rt>しろ</rt></ruby>が<span style=\"color:#ef6d13\"><ruby>文</ruby><ruby>化</ruby></span><ruby>遺<rt>い</rt></ruby><ruby>産<rt>さん</rt></ruby>として<ruby>登録<rt>とうろく</rt></ruby>されている。</p>",
+        "audio": "2026-01-19/11.文化-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Khi ở b&ecirc;n người y&ecirc;u l&agrave; người Nhật, t&ocirc;i cảm nhận được sự kh&aacute;c biệt về <span style=\"color:#ef6d13\">văn h&oacute;a</span>.</p>",
+      "Những lâu đài ở Nhật Bản được đăng ký là di sản <span style=\"color:#EF6D13\">văn hóa</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "VĂN HÓA"
+  },
+  {
+    "word": "<p><ruby>考</ruby>え</p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>かんがえ</p><p>suy nghĩ</p>",
+    "audio": "2026-01-19/12.考え.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>散<rt>さん</rt></ruby><ruby>歩<rt>ぽ</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>によくいい<span style=\"color:#ef6d13\"><ruby>考</ruby>え</span>が<ruby>浮<rt>う</rt></ruby>かぶ。</p>",
+        "audio": "2026-01-19/12.考え-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>彼女<rt>かのじょ</rt></ruby>はちゃんと<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>考</ruby>え</span>を<ruby>持<rt>も</rt></ruby>っている。</p>",
+        "audio": "2026-01-19/12.考え-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Những <span style=\"color:#EF6D13\">ý tưởng</span> hay nảy ra trong đầu lúc đang đi dạo.",
+      "<p>C&ocirc; ấy c&oacute; <span style=\"color:#ef6d13\">suy nghĩ (quan điểm) </span>ri&ecirc;ng của bản th&acirc;n.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KHẢO"
+  },
+  {
+    "word": "<p><ruby>思</ruby>い</p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>おもい</p><p>cảm x&uacute;c, suy nghĩ</p>",
+    "audio": "2026-01-19/13.思い.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>母<rt>はは</rt></ruby>に<ruby>感謝<rt>かんしゃ</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>思</ruby>い</span>を<ruby>伝<rt>つた</rt></ruby>える。</p>",
+        "audio": "2026-01-19/13.思い-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Bày tỏ lòng biết ơn tới mẹ."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TƯ"
+  },
+  {
+    "word": "<p><ruby>風景</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ふうけい</p><p>phong cảnh, khung cảnh</p>",
+    "audio": "2026-01-19/14.風景.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>窓から見える<span style=\"color:#ef6d13\">風景</span>が好きです。</p>",
+        "audio": "2026-01-19/14.風景-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i th&iacute;ch <span style=\"color:#ef6d13\">phong cảnh</span> nh&igrave;n từ cửa sổ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "PHONG CẢNH"
+  },
+  {
+    "word": "<p><ruby>年齢</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ねんれい</p><p>tuổi t&aacute;c</p>",
+    "audio": "2026-01-19/15.年齢.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>年齢</ruby></span><ruby>制限<rt>せいげん</rt></ruby>はありません。</p>",
+        "audio": "2026-01-19/15.年齢-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Công việc này không giới hạn độ <span style=\"color:#EF6D13\">tuổi</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "NIÊN LINH"
+  },
+  {
+    "word": "<p><ruby>料</ruby><ruby>金</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>りょうきん</p><p>ph&iacute;, tiền cước</p>",
+    "audio": "2026-01-19/16.料金.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>子供は<span style=\"color:#ef6d13\">料金</span>が<ruby>半額<rt>はんがく</rt></ruby>です。</p>",
+        "audio": "2026-01-19/16.料金-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Trẻ em được giảm một nửa <span style=\"color:#ef6d13\">ph&iacute;</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "LIỆU KIM"
+  },
+  {
+    "word": "<p><ruby>両</ruby><ruby>親</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>りょうしん</p><p>bố mẹ</p>",
+    "audio": "2026-01-19/17.両親.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>両</ruby><ruby>親</ruby></span>は<ruby>厳<rt>きび</rt></ruby>しいので、<ruby>私<rt>わたし</rt></ruby>に<ruby>一人<rt>ひとり</rt></ruby><ruby>暮<rt>ぐ</rt></ruby>らしをさせてくれません。</p>",
+        "audio": "2026-01-19/17.両親-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>V&igrave; <span style=\"color:#ef6d13\">bố mẹ</span> t&ocirc;i nghi&ecirc;m khắc n&ecirc;n họ kh&ocirc;ng cho t&ocirc;i sống một m&igrave;nh.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "LƯỠNG THÂN"
+  },
+  {
+    "word": "<p><ruby>職業</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>しょくぎょう</p><p>nghề nghiệp</p>",
+    "audio": "2026-01-19/18.職業.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>将<rt>しょう</rt></ruby><ruby>来<rt>らい</rt></ruby>、どんな<span style=\"color:#ef6d13\"><ruby>職業</ruby></span>に<ruby>就<rt>つ</rt></ruby>きたいですか。</p>",
+        "audio": "2026-01-19/18.職業-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Trong tương lai, bạn muốn làm <span style=\"color:#EF6D13\">nghề</span> gì?"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CHỨC NGHIỆP"
+  },
+  {
+    "word": "<p><ruby>大雪</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>おおゆき</p><p>tuyết rơi nhiều</p>",
+    "audio": "2026-01-19/19.大雪.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>昨日<rt>きのう</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>大雪</ruby></span>で<ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>止<rt>と</rt></ruby>まりました。</p>",
+        "audio": "2026-01-19/19.大雪-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Hôm qua tàu bị dừng vì <span style=\"color:#EF6D13\">tuyết rơi dày</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐẠI TUYẾT"
+  },
+  {
+    "word": "<p><ruby>大雨</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>おおあめ</p><p>mưa to</p>",
+    "audio": "2026-01-19/20.大雨.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>天<rt>てん</rt></ruby><ruby>気予<rt>きよ</rt></ruby><ruby>報<rt>ほう</rt></ruby>が<ruby>外<rt>はず</rt></ruby>れて<span style=\"color:#ef6d13\"><ruby>大雨</ruby></span>が<ruby>降<rt>ふ</rt></ruby>った。</p>",
+        "audio": "2026-01-19/20.大雨-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Dự báo thời tiết bị sai, trời đã <span style=\"color:#EF6D13\">mưa to</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐẠI VŨ"
+  },
+  {
+    "word": "<p><ruby>環</ruby><ruby>境</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>かんきょう</p><p>m&ocirc;i trường</p>",
+    "audio": "2026-01-19/21.環境.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>今<rt>いま</rt></ruby>の<ruby>職<rt>しょく</rt></ruby><ruby>場<rt>ば</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>環</ruby><ruby>境</ruby></span>はとてもいい。</p>",
+        "audio": "2026-01-19/21.環境-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>自<rt>し</rt></ruby><ruby>然<rt>ぜん</rt></ruby><span style=\"color:#ef6d13\"><ruby>環</ruby><ruby>境</ruby></span>を<ruby>保護<rt>ほご</rt></ruby>する。</p>",
+        "audio": "2026-01-19/21.環境-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Môi trường</span> làm việc hiện tại rất tốt.",
+      "Bảo vệ <span style=\"color:#EF6D13\">môi trường</span> tự nhiên."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HOÀN CẢNH"
+  },
+  {
+    "word": "<p><ruby>点数</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>てんすう</p><p>điểm số</p>",
+    "audio": "2026-01-19/22.点数.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>テストの<span style=\"color:#ef6d13\"><ruby>点数</ruby></span>が<ruby>悪<rt>わる</rt></ruby>くて、がっかりした。</p>",
+        "audio": "2026-01-19/22.点数-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi thất vọng vì <span style=\"color:#EF6D13\">điểm</span> kiểm tra kém."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><ruby>香</ruby>り</p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>かおり</p><p>hương thơm</p>",
+    "audio": "2026-01-19/23.香り.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>彼女<rt>かのじょ</rt></ruby>の<ruby>髪<rt>かみ</rt></ruby>からシャンプーの<span style=\"color:#ef6d13\"><ruby>香</ruby>り</span>がした。</p>",
+        "audio": "2026-01-19/23.香り-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Từ tóc cô ấy tỏa ra <span style=\"color:#EF6D13\">mùi thơm</span> của dầu gội."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HƯƠNG"
+  },
+  {
+    "word": "<p><ruby>身</ruby><ruby>長</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>しんちょう</p><p>chiều cao</p>",
+    "audio": "2026-01-19/24.身長.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>去年<rt>きょねん</rt></ruby>よりも<span style=\"color:#ef6d13\"><ruby>身</ruby><ruby>長</ruby></span>が<ruby>伸<rt>の</rt></ruby>びていた。</p>",
+        "audio": "2026-01-19/24.身長-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>病<rt>びょう</rt></ruby><ruby>院<rt>いん</rt></ruby>で、<span style=\"color:#ef6d13\">身長</span>と<ruby>体<rt>たい</rt></ruby><ruby>重<rt>じゅう</rt></ruby>を<ruby>測<rt>はか</rt></ruby>る。</p>",
+        "audio": "2026-01-19/24.身長-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Chiều cao</span> đã tăng hơn hẳn so với năm ngoái.",
+      "Đo <span style=\"color:#EF6D13\">chiều cao</span>, cân nặng ở bệnh viện."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THÂN TRƯỞNG"
+  },
+  {
+    "word": "<p><ruby>体重</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>たいじゅう</p><p>c&acirc;n nặng</p>",
+    "audio": "2026-01-19/25.体重.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>食べすぎて、<span style=\"color:#ef6d13\">体重</span>が<ruby>増<rt>ふ</rt></ruby>えた。&nbsp;</p>",
+        "audio": "2026-01-19/25.体重-例1.mp3"
+      },
+      {
+        "example": "<p>医者に、<span style=\"color:#ef6d13\">体重</span>が重いので、<ruby>運動<rt>うんどう</rt></ruby>するように言われた。&nbsp;</p>",
+        "audio": "2026-01-19/25.体重-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i đ&atilde; tăng <span style=\"color:#ef6d13\">c&acirc;n</span> v&igrave; ăn qu&aacute; nhiều.</p>",
+      "<p>Bị b&aacute;c sĩ nhắc nhở l&agrave; v&igrave; nặng<span style=\"color:#ef6d13\"> c&acirc;n</span> n&ecirc;n cố gắng vận động.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỂ TRỌNG"
+  },
+  {
+    "word": "<p><ruby>舌</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>した</p><p>lưỡi</p>",
+    "audio": "2026-01-19/26.舌.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>熱<rt>あつ</rt></ruby>いお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲ん</ruby>で、<span style=\"color:#ef6d13\"><ruby>舌</ruby></span>をやけどしてしまった。</p>",
+        "audio": "2026-01-19/26.舌-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>舌</ruby></span>は<ruby>食べ物</ruby>の<ruby>味<rt>あじ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じるところだ。</p>",
+        "audio": "2026-01-19/26.舌-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi uống trà nóng và đã bị bỏng <span style=\"color:#EF6D13\">lưỡi</span>.",
+      "<span style=\"color:#EF6D13\">Lưỡi</span> là nơi cảm nhận vị của thức ăn."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THIỆT"
+  },
+  {
+    "word": "<p><ruby>胸</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>むね</p><p>ngực</p>",
+    "audio": "2026-01-19/1.胸.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>首<rt>しゅ</rt></ruby><ruby>相<rt>しょう</rt></ruby>はナイフで<span style=\"color:#ef6d13\"><ruby>胸</ruby></span>を<ruby>刺<rt>さ</rt></ruby>されて<ruby>死<rt>し</rt></ruby><ruby>亡<rt>ぼう</rt></ruby>した。</p>",
+        "audio": "2026-01-19/1.胸-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Thủ tướng bị đ&acirc;m dao v&agrave;o <span style=\"color:#ef6d13\">ngực</span> rồi qua đời.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HUNG"
+  },
+  {
+    "word": "<p><ruby>量</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>りょう</p><p>lượng</p><p>(khối lượng, số lượng, thể t&iacute;ch,....)</p>",
+    "audio": "2026-01-19/2.量.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>米<rt>こめ</rt></ruby>の<ruby>生産<rt>せいさん</rt></ruby><span style=\"color:#ef6d13\"><ruby>量</ruby></span>が<ruby>一番<rt>いちばん</rt></ruby><ruby>多<rt>おお</rt></ruby>い<ruby>国<rt>くに</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>だ。</p>",
+        "audio": "2026-01-19/2.量-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Quốc gia c&oacute; sản <span style=\"color:#ef6d13\">lượng</span> gạo lớn nhất l&agrave; Trung Quốc.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "LƯỢNG"
+  },
+  {
+    "word": "<p><ruby>以</ruby><ruby>降</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>いこう</p><p>sau đ&oacute;, từ đ&oacute; trở đi</p>",
+    "audio": "2026-01-19/3.以降.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>11月25日<span style=\"color:#ef6d13\"><ruby>以</ruby><ruby>降</ruby></span>、<ruby>新<rt>あたら</rt></ruby>しい<ruby>社屋<rt>しゃおく</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ることができる。</p>",
+        "audio": "2026-01-19/3.以降-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Từ ng&agrave;y</span> 25/11, sẽ bắt đầu c&oacute; thể sử dụng t&ograve;a nh&agrave; c&ocirc;ng ty mới.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DĨ GIÁNG"
+  },
+  {
+    "word": "<p><ruby>以</ruby><ruby>外</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>いがい</p><p>ngo&agrave;i ra, ngoại trừ</p>",
+    "audio": "2026-01-19/4.以外.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>野菜<rt>やさい</rt></ruby>はにんじん<span style=\"color:#ef6d13\"><ruby>以外何でも</ruby></span>食べられます。</p>",
+        "audio": "2026-01-19/4.以外-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Rau th&igrave; loại n&agrave;o t&ocirc;i cũng ăn được, <span style=\"color:#ef6d13\">trừ </span>c&agrave; rốt.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DĨ NGOẠI"
+  },
+  {
+    "word": "マナー",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "phép lịch sự, cách ứng xử, lễ \r\nnghi",
+    "audio": "2026-01-19/5.マナー.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では電話しないのが日本の<span style=\"color:#ef6d13\">マナー</span>です。</p>",
+        "audio": "2026-01-19/5.マナー-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Việc kh&ocirc;ng n&oacute;i chuyện điện thoại tr&ecirc;n t&agrave;u điện l&agrave; <span style=\"color:#ef6d13\">quy tắc ứng xử</span> của Nhật Bản.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "manner"
+  },
+  {
+    "word": "アンケート",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>bảng điều tra, khảo s&aacute;t</p>",
+    "audio": "2026-01-19/6.アンケート.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">アンケート</span>に<ruby>答<rt>こた</rt></ruby>えるとポイントがもらえる。</p>",
+        "audio": "2026-01-19/6.アンケート-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Bạn sẽ nhận được điểm bằng cách trả lời <span style=\"color:#EF6D13\">bảng khảo sát</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "enquête"
+  },
+  {
+    "word": "メニュー",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "thực đơn",
+    "audio": "2026-01-19/7.メニュー.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>アレルギーがあるお<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>には<ruby>特別<rt>とくべつ</rt></ruby>な<span style=\"color:#ef6d13\">メニュー</span>をご<ruby>用<rt>よう</rt></ruby><ruby>意<rt>い</rt></ruby>します。</p>",
+        "audio": "2026-01-19/7.メニュー-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Chúng tôi sẽ chuẩn bị <span style=\"color:#EF6D13\">thực đơn</span> đặc biệt cho khách hàng bị dị ứng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "menu"
+  },
+  {
+    "word": "ストレス",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>căng thẳng</p>",
+    "audio": "2026-01-19/8.ストレス.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>最近<rt>さいきん</rt></ruby><ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しくて<span style=\"color:#ef6d13\">ストレス</span>が<ruby>溜まっている。</ruby></p>",
+        "audio": "2026-01-19/8.ストレス-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Gần đ&acirc;y, c&ocirc;ng việc bận rộn n&ecirc;n t&ocirc;i bị <span style=\"color:#ef6d13\">căng thẳng.</span></p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "stress"
+  },
+  {
+    "word": "<p><ruby>貧乏</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ/ Tính từ đuôi な",
+    "meaning": "<p>びんぼう</p><p>ngh&egrave;o</p>",
+    "audio": "2026-01-19/9.貧乏.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>貧乏</ruby></span>な<ruby>家<rt>か</rt></ruby><ruby>庭<rt>てい</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>ちました。</p>",
+        "audio": "2026-01-19/9.貧乏-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã lớn lên trong một gia đình <span style=\"color:#EF6D13\">nghèo</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BẦN PHẠP"
+  },
+  {
+    "word": "<p><ruby>不</ruby><ruby>満</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ/ Tính từ đuôi な",
+    "meaning": "<p>ふまん</p><p>bất m&atilde;n, kh&ocirc;ng h&agrave;i l&ograve;ng</p>",
+    "audio": "2026-01-19/10.不満.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>今<rt>いま</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>不</ruby><ruby>満</ruby></span>な<ruby>点<rt>てん</rt></ruby>はない。</p>",
+        "audio": "2026-01-19/10.不満-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>連絡<rt>れんらく</rt></ruby>をくれない<ruby>恋人<rt>こいびと</rt></ruby>に<ruby>対<rt>たい</rt></ruby>し、<span style=\"color:#ef6d13\"><ruby>不</ruby><ruby>満</ruby></span>を<ruby>持<rt>も</rt></ruby>っている。</p>",
+        "audio": "2026-01-19/10.不満-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi không có gì <span style=\"color:#EF6D13\">bất mãn</span> về cuộc sống hiện tại.",
+      "Tôi <span style=\"color:#EF6D13\">không hài lòng</span> với việc người yêu không liên lạc với tôi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BẤT MÃN"
+  },
+  {
+    "word": "<p><ruby>平凡</ruby></p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi な",
+    "meaning": "<p>へいぼん</p><p>b&igrave;nh thường, tầm thường</p>",
+    "audio": "2026-01-19/11.平凡.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>私</ruby>はお<ruby>金<rt>かね</rt></ruby><ruby>持<rt>も</rt></ruby>ちではない、<span style=\"color:#ef6d13\"><ruby>平凡</ruby></span>な<ruby>家<rt>か</rt></ruby><ruby>庭<rt>てい</rt></ruby>で<ruby>育<rt>そだ</rt></ruby>った。</p>",
+        "audio": "2026-01-19/11.平凡-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>平凡</ruby></span>な<ruby>日常<rt>にちじょう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いて、つまらない。</p>",
+        "audio": "2026-01-19/11.平凡-例2.mp3"
+      },
+      {
+        "example": "<p><ruby>彼<rt>かれ</rt></ruby>はどこにでもいる<span style=\"color:#ef6d13\"><ruby>平凡</ruby></span>な<ruby>人<rt>ひと</rt></ruby>です。</p>",
+        "audio": "2026-01-19/11.平凡-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi lớn lên trong một gia đình <span style=\"color:#EF6D13\">bình thường</span>, không giàu có.",
+      "Cuộc sống <span style=\"color:#EF6D13\">tầm thường</span> cứ tiếp diễn, thật nhàm chán.",
+      "Anh ấy là một người <span style=\"color:#EF6D13\">bình thường</span> ta có thể gặp ở bất cứ đâu."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BÌNH PHÀM"
+  },
+  {
+    "word": "<p><ruby>適当</ruby></p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi な",
+    "meaning": "<p>てきとう</p><p>ph&ugrave; hợp, th&iacute;ch hợp; qua loa, đại kh&aacute;i</p>",
+    "audio": "2026-01-19/12.適当.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>その<ruby>本<rt>ほん</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>適当</ruby></span>な<ruby>場<rt>ば</rt></ruby><ruby>所<rt>しょ</rt></ruby>にしまってください。</p>",
+        "audio": "2026-01-19/12.適当-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>適当</ruby></span>な<ruby>人<rt>ひと</rt></ruby>には<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>を<ruby>任<rt>まか</rt></ruby>せられない。</p>",
+        "audio": "2026-01-19/12.適当-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Hãy cất quyển sách đó vào chỗ <span style=\"color:#EF6D13\">phù hợp</span>.",
+      "<p>Kh&ocirc;ng thể giao c&ocirc;ng việc cho người <span style=\"color:#ef6d13\">v&ocirc; tr&aacute;ch nhiệm</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THÍCH ĐƯƠNG"
+  },
+  {
+    "word": "<p><ruby>様々</ruby></p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi な",
+    "meaning": "<p>さまざま</p><p>đa dạng</p>",
+    "audio": "2026-01-19/13.様々.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>世<rt>せ</rt></ruby><ruby>界<rt>かい</rt></ruby>には<span style=\"color:#ef6d13\"><ruby>様々</ruby></span>な<ruby>言<rt>げん</rt></ruby><ruby>語<rt>ご</rt></ruby>がある。</p>",
+        "audio": "2026-01-19/13.様々-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Trên thế giới có <span style=\"color:#EF6D13\">nhiều</span> ngôn ngữ khác nhau."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DẠNG"
+  },
+  {
+    "word": "<p><ruby>美</ruby>しい</p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi い",
+    "meaning": "<p>うつくしい</p><p>đẹp</p>",
+    "audio": "2026-01-19/14.美しい.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>島<rt>しま</rt></ruby>の<ruby>景<rt>け</rt></ruby><ruby>色<rt>しき</rt></ruby>はとても<span style=\"color:#ef6d13\"><ruby>美</ruby>しい</span>。</p>",
+        "audio": "2026-01-19/14.美しい-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Phong cảnh hòn đảo này rất <span style=\"color:#EF6D13\">đẹp</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MĨ"
+  },
+  {
+    "word": "<p><ruby>苦</ruby>しい</p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi い",
+    "meaning": "<p>くるしい</p><p>kh&oacute; chịu, đau đớn, khổ sở (về thể chất, tinh thần);</p><p>kh&oacute; m&agrave; ~, kh&ocirc;ng thoải m&aacute;i để ~ (khi kết hợp với 「聞く」「見る」「寝る」)</p>",
+    "audio": "2026-01-19/15.苦しい.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>仕事がなくて、<ruby>生活<rt>せいかつ</rt></ruby>が<span style=\"color:#ef6d13\">苦しい</span>。</p>",
+        "audio": "2026-01-19/15.苦しい-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>暑<rt>あつ</rt></ruby>い夜は、<ruby>寝<rt>ね</rt></ruby><span style=\"color:#ef6d13\"><ruby>苦</ruby>しい</span>。</p>",
+        "audio": "2026-01-19/15.苦しい-例2.mp3"
+      },
+      {
+        "example": "<p><ruby>いいわけをするなんて、<span style=\"color:#ef6d13\">見苦しい。</span></ruby></p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p>Kh&ocirc;ng c&oacute; việc l&agrave;m n&ecirc;n cuộc sống <span style=\"color:#ef6d13\">chật vật.</span></p>",
+      "<p>Đ&ecirc;m n&oacute;ng bức <span style=\"color:#ef6d13\">kh&oacute;</span> ngủ.</p>",
+      "<p>Bao biện, l&yacute; do nọ kia tr&ocirc;ng <span style=\"color:#ef6d13\">kh&oacute;</span> coi qu&aacute;.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KHỔ"
+  },
+  {
+    "word": "<p><ruby>決</ruby>める</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>きめる</p><p>quyết định, ấn định</p>",
+    "audio": "2026-01-19/16.決める.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>残<rt>のこ</rt></ruby>り<ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>1分でゴールを<span style=\"color:#ef6d13\"><ruby>決</ruby>めた</span>。</p>",
+        "audio": "2026-01-19/16.決める-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>朝<rt>あさ</rt></ruby>はパンを食べると<span style=\"color:#ef6d13\"><ruby>決</ruby>めて</span>いる。</p>",
+        "audio": "2026-01-19/16.決める-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i đ&atilde; ghi b&agrave;n khi thời gian chỉ c&ograve;n một ph&uacute;t.</p>",
+      "<p>T&ocirc;i <span style=\"color:#ef6d13\">quyết định</span> s&aacute;ng sẽ ăn b&aacute;nh mỳ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "QUYẾT"
+  },
+  {
+    "word": "<p><ruby>表</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>あらわす</p><p>biểu thị, thể hiện</p>",
+    "audio": "2026-01-19/17.表す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>彼女<rt>かのじょ</rt></ruby>への<ruby>気持<rt>きも</rt></ruby>ちを<ruby>歌<rt>うた</rt></ruby>で<span style=\"color:#ef6d13\"><ruby>表</ruby>します</span>。</p>",
+        "audio": "2026-01-19/17.表す-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Thể hiện</span> tình cảm với bạn gái bằng bài hát."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BIỂU"
+  },
+  {
+    "word": "<p><ruby>守</ruby>る</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>まもる</p><p>bảo vệ</p>",
+    "audio": "2026-01-19/18.守る.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>紫外線<rt></rt></ruby>から<ruby>肌<rt>はだ</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>守</ruby>る</span>。</p>",
+        "audio": "2026-01-19/18.守る-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>親<rt>おや</rt></ruby>が<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>守</ruby>る</span>のは<ruby>当然<rt>とうぜん</rt></ruby>のことだ。</p>",
+        "audio": "2026-01-19/18.守る-例2.mp3"
+      },
+      {
+        "example": "<p><ruby>約束<rt>やくそく</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<span style=\"color:#ef6d13\"><ruby>守</ruby>り</span>ましょう。</p>",
+        "audio": "2026-01-19/18.守る-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Bảo vệ</span> da khỏi&nbsp;tia cực t&iacute;m.</p>",
+      "Cha mẹ <span style=\"color:#EF6D13\">bảo vệ</span> con cái là điều đương nhiên.",
+      "Hãy chắc chắn <span style=\"color:#EF6D13\">giữ</span> lời hứa."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỦ"
+  },
+  {
+    "word": "<p><ruby>下</ruby>げる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>さげる</p><p>giảm, hạ; c&uacute;i xuống, dọn xuống</p>",
+    "audio": "2026-01-19/19.下げる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>勉強しているので、テレビの<ruby>音量<rt>おんりょう</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>下</ruby>げて</span>ください。</p>",
+        "audio": "2026-01-19/19.下げる-例1.mp3"
+      },
+      {
+        "example": "<p>食べ<ruby>終<rt>お</rt></ruby>わった<ruby>皿<rt>さら</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>下</ruby>げる</span>。</p>",
+        "audio": "2026-01-19/19.下げる-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i đang học, n&ecirc;n h&atilde;y <span style=\"color:#ef6d13\">vặn nhỏ</span> tiếng ti vi xuống gi&uacute;p t&ocirc;i.</p>",
+      "<span style=\"color:#EF6D13\">Dọn</span> đĩa sau khi ăn xong."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HẠ"
+  },
+  {
+    "word": "<p><ruby>減</ruby>らす</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>へらす</p><p>l&agrave;m giảm</p>",
+    "audio": "2026-01-19/20.減らす.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>無駄<rt>むだ</rt></ruby>な<ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>減</ruby>らす</span>。</p>",
+        "audio": "2026-01-19/20.減らす-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>健康<rt>けんこう</rt></ruby>のためにお<ruby>酒<rt>さけ</rt></ruby>を<ruby>飲む</ruby><ruby>量<rt>りょう</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>減</ruby>らした</span>。</p>",
+        "audio": "2026-01-19/20.減らす-例2.mp3"
+      },
+      {
+        "example": "<p><ruby>太<rt>ふと</rt></ruby>ってしまったから、3キロくらい<ruby>体重<rt>たいじゅう</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>減</ruby>らしたい</span>。</p>",
+        "audio": "2026-01-19/20.減らす-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Cắt <span style=\"color:#EF6D13\">giảm</span> thời gian vô ích.",
+      "Tôi đã <span style=\"color:#EF6D13\">giảm</span> lượng rượu uống để tốt cho sức khỏe.",
+      "Vì tôi đã béo lên, nên tôi muốn <span style=\"color:#EF6D13\">giảm</span> khoảng 3kg."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "GIẢM"
+  },
+  {
+    "word": "<p><ruby>味</ruby>わう</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>あじわう</p><p>nếm, thưởng thức; trải nghiệm</p>",
+    "audio": "2026-01-19/21.味わう.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>久<rt>ひさ</rt></ruby>しぶりに日本<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>味</ruby>わう</span>。</p>",
+        "audio": "2026-01-19/21.味わう-例1.mp3"
+      },
+      {
+        "example": "<p>大きな<ruby>苦<rt>くる</rt></ruby>しみを<span style=\"color:#ef6d13\"><ruby>味</ruby>わう</span>。</p>",
+        "audio": "2026-01-19/21.味わう-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Lâu rồi mới <span style=\"color:#EF6D13\">nếm</span> món ăn Nhật.",
+      "<span style=\"color:#EF6D13\">Trải</span> qua nỗi đau lớn."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "VỊ"
+  },
+  {
+    "word": "<p><ruby>違</ruby>う</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>ちがう</p><p>kh&aacute;c, sai</p>",
+    "audio": "2026-01-19/22.違う.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>は<ruby>人<rt>ひと</rt></ruby>によって<span style=\"color:#ef6d13\">違う</span>。</p>",
+        "audio": "2026-01-19/22.違う-例1.mp3"
+      },
+      {
+        "example": "<p>この<ruby>服<rt>ふく</rt></ruby>の<ruby>色<rt>いろ</rt></ruby>は、<ruby>写真<rt>しゃしん</rt></ruby>で<ruby>見<rt>み</rt></ruby>たのと<span style=\"color:#ef6d13\"><ruby>違</ruby>う</span>。</p>",
+        "audio": "2026-01-19/22.違う-例2.mp3"
+      },
+      {
+        "example": "<p>この<ruby>道<rt>みち</rt></ruby>は<ruby>目的<rt>もくてき</rt></ruby><ruby>地<rt>ち</rt></ruby>へ行く<ruby>道<rt>みち</rt></ruby>とは<span style=\"color:#ef6d13\"><ruby>違</ruby>う</span>。</p>",
+        "audio": "2026-01-19/22.違う-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Cách suy nghĩ của mỗi người là <span style=\"color:#EF6D13\">khác</span> nhau.",
+      "Màu sắc của chiếc áo này <span style=\"color:#EF6D13\">khác</span> với những gì tôi thấy trong bức ảnh.",
+      "Con đường này <span style=\"color:#EF6D13\">không phải</span> là đường đến đích."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "VI"
+  },
+  {
+    "word": "<p><ruby>払</ruby>う</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>はらう</p><p>trả (tiền);<br />phủi, xua tan, xua đi;<br />d&agrave;nh (sự ch&uacute; &yacute;, quan t&acirc;m), thể hiện (sự lễ ph&eacute;p, k&iacute;nh trọng)</p>",
+    "audio": "2026-01-19/23.払う.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>コンビニで<ruby>電<rt>でん</rt></ruby><ruby>気<rt>き</rt></ruby><ruby>代<rt>だい</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>払</ruby>った</span>。</p>",
+        "audio": "2026-01-19/23.払う-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>服<rt>ふく</rt></ruby>に<ruby>付<rt>つ</rt></ruby>いたほこりを<span style=\"color:#ef6d13\"><ruby>払</ruby>って</span><ruby>落<rt>お</rt></ruby>とした。</p>",
+        "audio": "2026-01-19/23.払う-例2.mp3"
+      },
+      {
+        "example": "<p><ruby>父親<rt>ちちおや</rt></ruby>なら、<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>の<ruby>様<rt>よう</rt></ruby><ruby>子<rt>す</rt></ruby>にもっと<ruby>注<rt>ちゅう</rt></ruby><ruby>意<rt>い</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>払</ruby>う</span>べきだ。</p>",
+        "audio": "2026-01-19/23.払う-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã <span style=\"color:#EF6D13\">trả</span> tiền điện ở cửa hàng tiện lợi.",
+      "Tôi đã <span style=\"color:#EF6D13\">phủi</span> bụi bám trên quần áo xuống.",
+      "Nếu là cha, thì nên chú ý nhiều hơn đến tình trạng của con cái."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "PHẤT"
+  },
+  {
+    "word": "<p><ruby>深</ruby>まる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>ふかまる</p><p>trở n&ecirc;n s&acirc;u sắc hơn</p>",
+    "audio": "2026-01-19/24.深まる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>友達<rt>ともだち</rt></ruby>とのきずなが<span style=\"color:#ef6d13\"><ruby>深</ruby>まる</span>。</p>",
+        "audio": "2026-01-19/24.深まる-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>話<rt>はなし</rt></ruby>を聞いて<ruby>理<rt>り</rt></ruby><ruby>解<rt>かい</rt></ruby>が<span style=\"color:#ef6d13\"><ruby>深</ruby>まった</span>。</p>",
+        "audio": "2026-01-19/24.深まる-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Mối quan hệ với bạn bè <span style=\"color:#EF6D13\">trở nên sâu sắc hơn</span>.",
+      "Tôi đã <span style=\"color:#EF6D13\">hiểu hơn</span> sau khi nghe câu chuyện."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THÂM"
+  },
+  {
+    "word": "<p><ruby>集</ruby>める</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>あつめる</p><p>gom, thu thập, tập hợp (người, tiền của, t&agrave;i liệu...)</p>",
+    "audio": "2026-01-19/25.集める.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>外国<rt>がいこく</rt></ruby>の<ruby>切手<rt>きって</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>集</ruby>めて</span>おります。</p>",
+        "audio": "2026-01-19/25.集める-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>研究<rt>けんきゅう</rt></ruby>のためにデータを<span style=\"color:#ef6d13\"><ruby>集</ruby>める</span>。</p>",
+        "audio": "2026-01-19/25.集める-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đang <span style=\"color:#EF6D13\">sưu tầm</span> tem nước ngoài.",
+      "<span style=\"color:#EF6D13\">Thu thập</span> dữ liệu cho nghiên cứu."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TẬP"
+  },
+  {
+    "word": "<p><ruby>高</ruby>まる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>たかまる</p><p>tăng l&ecirc;n, cao l&ecirc;n</p>",
+    "audio": "2026-01-19/26.高まる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>あの歌手はテレビに出たことで<ruby>人<rt>にん</rt></ruby><ruby>気<rt>き</rt></ruby>が<span style=\"color:#ef6d13\">高まった</span>。</p>",
+        "audio": "2026-01-19/26.高まる-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Ca sĩ đ&oacute; đ&atilde; trở n&ecirc;n nổi tiếng <span style=\"color:#ef6d13\">hơn </span>nhờ xuất hiện tr&ecirc;n ti vi.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CAO"
+  },
+  {
+    "word": "<p><ruby>高</ruby>める</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>たかめる</p><p>l&agrave;m tăng l&ecirc;n, l&agrave;m cao l&ecirc;n</p>",
+    "audio": "2026-01-19/1.高める.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>試<rt>し</rt></ruby><ruby>合<rt>あい</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>気持<rt>きも</rt></ruby>ちを<span style=\"color:#ef6d13\"><ruby>高</ruby>める</span>。</p>",
+        "audio": "2026-01-19/1.高める-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>運動<rt>うんどう</rt></ruby>をして<ruby>身体<rt>しんたい</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>高</ruby>める</span>。</p>",
+        "audio": "2026-01-19/1.高める-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Nâng cao</span> tinh thần trước trận đấu.",
+      "Tập thể dục để <span style=\"color:#EF6D13\">nâng cao</span> thể chất."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CAO"
+  },
+  {
+    "word": "<p><ruby>泊</ruby>まる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>とまる</p><p>trọ lại, ở lại qua đ&ecirc;m</p>",
+    "audio": "2026-01-19/2.泊まる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>私が<span style=\"color:#ef6d13\"><ruby>泊</ruby>まっている</span>ホテルの<ruby>部屋<rt>へや</rt></ruby>から、<ruby>富士<rt>ふじ</rt></ruby><ruby>山<rt>さん</rt></ruby>が見えます。</p>",
+        "audio": "2026-01-19/2.泊まる-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>&nbsp;Từ ph&ograve;ng kh&aacute;ch sạn t&ocirc;i <span style=\"color:#ef6d13\">đang trọ</span> c&oacute; thể nh&igrave;n thấy n&uacute;i Ph&uacute; Sĩ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BẠC"
+  },
+  {
+    "word": "<p><ruby>干</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>ほす</p><p>phơi</p>",
+    "audio": "2026-01-19/3.干す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>雨の日が<ruby>続<rt>つづ</rt></ruby>いて、なかなか<ruby>洗濯物<rt>せんたくもの</rt></ruby>が外に<span style=\"color:#ef6d13\"><ruby>干</ruby>せない</span>。</p>",
+        "audio": "2026-01-19/3.干す-例1.mp3"
+      },
+      {
+        "example": "<p>私は<ruby>下<rt>した</rt></ruby><ruby>着<rt>ぎ</rt></ruby>や<ruby>靴下<rt>くつした</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>の中に<span style=\"color:#ef6d13\"><ruby>干</ruby>している</span>。</p>",
+        "audio": "2026-01-19/3.干す-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Những ng&agrave;y mưa k&eacute;o d&agrave;i n&ecirc;n m&atilde;i kh&ocirc;ng thể <span style=\"color:#ef6d13\">phơi </span>quần &aacute;o ngo&agrave;i trời được.</p>",
+      "Tôi <span style=\"color:#EF6D13\">phơi</span> đồ lót và tất trong phòng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CAN"
+  },
+  {
+    "word": "<p><ruby>得</ruby>る</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>える</p><p>đạt được, c&oacute; được, nhận được</p>",
+    "audio": "2026-01-19/4.得る.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>参<rt>さん</rt></ruby><ruby>加<rt>か</rt></ruby><ruby>者<rt>しゃ</rt></ruby>全員の<ruby>了承<rt>りょうしょう</rt></ruby>を<span style=\"color:#ef6d13\">得て</span>、<ruby>委<rt>い</rt>員<rt>いん</rt></ruby><ruby>長<rt>ちょう</rt></ruby>になった。</p>",
+        "audio": "2026-01-19/4.得る-例1.mp3"
+      },
+      {
+        "example": "<p>お<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>からの<ruby>信頼<rt>しんらい</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>得</ruby>る</span>。</p>",
+        "audio": "2026-01-19/4.得る-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i đ&atilde; trở th&agrave;nh ủy vi&ecirc;n trưởng sau khi<span style=\"color:#ef6d13\"> nhận được</span> sự đồng &yacute; của tất cả c&aacute;c th&agrave;nh vi&ecirc;n tham gia.</p>",
+      "<span style=\"color:#EF6D13\">Có được</span> sự tín nhiệm từ khách hàng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐẮC"
+  },
+  {
+    "word": "<p><ruby>眠</ruby>る</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>ねむる</p><p>ngủ</p>",
+    "audio": "2026-01-19/5.眠る.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>猫<rt>ねこ</rt></ruby>は<ruby>毎日<rt>まいにち</rt></ruby>12<ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>から16<ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby><span style=\"color:#ef6d13\"><ruby>眠</ruby>る</span>らしい。</p>",
+        "audio": "2026-01-19/5.眠る-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Mèo hình như <span style=\"color:#EF6D13\">ngủ</span> 12 đến 16 tiếng một ngày."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MIÊN"
+  },
+  {
+    "word": "<p><ruby>固</ruby>まる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>かたまる</p><p>đ&ocirc;ng lại, cứng lại, trở n&ecirc;n vững chắc</p>",
+    "audio": "2026-01-19/6.固まる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>ゼリーが<ruby>冷蔵庫<rt>れいぞうこう</rt></ruby>で<span style=\"color:#ef6d13\">固まった</span>。</p>",
+        "audio": "2026-01-19/6.固まる-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>発<rt>はっ</rt></ruby><ruby>表<rt>ぴょう</rt></ruby>のとき、<ruby>緊<rt>きん</rt></ruby><ruby>張<rt>ちょう</rt></ruby><ruby>で<rt></rt></ruby>体が<span style=\"color:#ef6d13\">固まった</span>。</p>",
+        "audio": "2025-07-02/58.固まる-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Thạch đ&atilde; <span style=\"color:#ef6d13\">đ&ocirc;ng cứng lại </span>trong tủ lạnh.</p>",
+      "<p>L&uacute;c thuyết tr&igrave;nh, v&igrave; căng thẳng n&ecirc;n cơ thể bị <span style=\"color:#ef6d13\">đơ</span> lu&ocirc;n.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CỐ"
+  },
+  {
+    "word": "<p><ruby>指</ruby><ruby>導</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>しどう</p><p>chỉ đạo, hướng dẫn</p>",
+    "audio": "2026-01-19/8.指導.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>先生<rt>せんせい</rt></ruby>にスピーチコンテストの<span style=\"color:#ef6d13\"><ruby>指</ruby><ruby>導</ruby></span>をしてもらった。</p>",
+        "audio": "2026-01-19/8.指導-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã được giáo viên <span style=\"color:#EF6D13\">hướng dẫn</span> cho cuộc thi diễn thuyết."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CHỈ ĐẠO"
+  },
+  {
+    "word": "<p><ruby>協力</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>きょうりょく</p><p>hợp t&aacute;c, chung sức</p>",
+    "audio": "2026-01-19/9.協力.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>友達<rt>ともだち</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>協力</ruby></span>を<ruby>求<rt>もと</rt></ruby>める。</p>",
+        "audio": "2026-01-19/9.協力-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>協力</ruby></span>して早く<ruby>仕<rt>し</rt>事<rt>ごと</rt></ruby>を<ruby>終<rt>お</rt></ruby>わらせる。</p>",
+        "audio": "2026-01-19/9.協力-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tìm kiếm sự <span style=\"color:#EF6D13\">giúp sức</span> từ bạn bè.",
+      "<p><span style=\"color:#ef6d13\">Hiệp lực</span> với nhau để nhanh ch&oacute;ng&nbsp;ho&agrave;n th&agrave;nh c&ocirc;ng việc.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HIỆP LỰC"
+  },
+  {
+    "word": "<p><ruby>交</ruby><ruby>流</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>こうりゅう</p><p>giao lưu, trao đổi</p>",
+    "audio": "2026-01-19/11.交流.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>県<rt>けん</rt></ruby>は、<ruby>隣<rt>となり</rt></ruby>の<ruby>県<rt>けん</rt></ruby>との<span style=\"color:#ef6d13\"><ruby>交流</ruby></span>が<ruby>盛<rt>さか</rt></ruby>んだ。</p>",
+        "audio": "2026-01-19/11.交流-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>私</ruby>の<ruby>町<rt>まち</rt></ruby>では、<ruby>外国<rt>がいこく</rt></ruby><ruby>人<rt>じん</rt></ruby>と<span style=\"color:#ef6d13\"><ruby>交流</ruby>する</span>イベントがよく<ruby>開<rt>ひら</rt></ruby>かれている。</p>",
+        "audio": "2026-01-19/11.交流-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tỉnh này có nhiều hoạt động <span style=\"color:#EF6D13\">giao lưu</span> sôi nổi với tỉnh lân cận.",
+      "Thành phố tôi thường xuyên tổ chức những sự kiện <span style=\"color:#EF6D13\">giao lưu</span> với người nước ngoài."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "GIAO LƯU"
+  },
+  {
+    "word": "<p><ruby>注</ruby><ruby>目</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>ちゅうもく</p><p>sự ch&uacute; &yacute;, quan t&acirc;m</p>",
+    "audio": "2026-01-19/12.注目.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>新<rt>あたら</rt></ruby>しいスマートフォンに<span style=\"color:#ef6d13\"><ruby>注</ruby><ruby>目</ruby></span>が<ruby>集<rt>あつ</rt></ruby>まる。</p>",
+        "audio": "2026-01-19/12.注目-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>彼女<rt>かのじょ</rt></ruby>はとてもきれいなので、<ruby>どこに行っても<span style=\"color:#ef6d13\">注目</span>される。</ruby></p>",
+        "audio": "2026-01-19/12.注目-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Chiếc điện thoại thông minh đời mới đang thu hút được <span style=\"color:#EF6D13\">sự quan tâm</span>.",
+      "<p>V&igrave; c&ocirc; ấy rất xinh đẹp n&ecirc;n đi đ&acirc;u cũng&nbsp;thu h&uacute;t <span style=\"color:#ef6d13\">sự ch&uacute; &yacute;</span> của mọi người.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CHÚ MỤC"
+  },
+  {
+    "word": "<p><ruby>計算</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>けいさん</p><p>t&iacute;nh to&aacute;n</p>",
+    "audio": "2026-01-19/13.計算.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>会計<rt>かいけい</rt>の前に支払う<rt></rt>金額<rt>きんがく</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>計算</ruby></span>する。</p>",
+        "audio": "2026-01-19/13.計算-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>簡単<rt>かんたん</rt></ruby>な<span style=\"color:#ef6d13\"><ruby>計算</ruby></span>にも<ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby>がかかってしまう。</p>",
+        "audio": "2026-01-19/13.計算-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">T&iacute;nh </span>số tiền phải trả trước khi thanh to&aacute;n.</p>",
+      "Mất thời gian với ngay cả những phép <span style=\"color:#EF6D13\">tính</span> đơn giản."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KẾ TOÁN"
+  },
+  {
+    "word": "<p><ruby>出場</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>しゅつじょう</p><p>tham gia</p><p>(thi đấu, tr&igrave;nh diễn)</p>",
+    "audio": "2026-01-19/14.出場.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>サッカーの<ruby>試<rt>し</rt></ruby><ruby>合<rt>あい</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>出場</ruby></span>する。</p>",
+        "audio": "2026-01-19/14.出場-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Tham dự</span> trận đấu bóng đá."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "XUẤT TRƯỜNG"
+  },
+  {
+    "word": "キャンセル",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "hủy",
+    "audio": "2026-01-19/15.キャンセル.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>具<rt>ぐ</rt></ruby><ruby>合<rt>あい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなったので、レストランの<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>を<span style=\"color:#ef6d13\">キャンセル</span>した。</p>",
+        "audio": "2026-01-19/15.キャンセル-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>飛行機<rt>ひこうき</rt></ruby>の<ruby>予<rt>よ</rt></ruby><ruby>約<rt>やく</rt></ruby>を<span style=\"color:#ef6d13\">キャンセル</span>した<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>、<span style=\"color:#ef6d13\">キャンセル</span><ruby>料<rt>りょう</rt></ruby>が<ruby>発生<rt>はっせい</rt></ruby>します。</p>",
+        "audio": "2026-01-19/15.キャンセル-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi cảm thấy không khỏe nên đã <span style=\"color:#EF6D13\">hủy</span> đặt chỗ tại nhà hàng.",
+      "<p>Nếu <span style=\"color:#ef6d13\">hủy</span> đặt v&eacute; m&aacute;y bay, ph&iacute; <span style=\"color:#ef6d13\">hủy</span> sẽ ph&aacute;t sinh.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "cancel"
+  },
+  {
+    "word": "<p><ruby>平均</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>へいきん</p><p>b&igrave;nh qu&acirc;n, trung b&igrave;nh</p>",
+    "audio": "2026-01-20/16.平均.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>テストはいつも<span style=\"color:#ef6d13\"><ruby>平均</ruby></span><ruby>点<rt>てん</rt></ruby>くらいだ。</p>",
+        "audio": "2026-01-20/16.平均-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Điểm kiểm tra luôn ở mức <span style=\"color:#EF6D13\">trung bình</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BÌNH QUÂN"
+  },
+  {
+    "word": "<p><ruby>活動</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>かつどう</p><p>hoạt động</p>",
+    "audio": "2026-01-20/17.活動.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>春<rt>はる</rt></ruby>になると<ruby>虫<rt>むし</rt></ruby>が<span style=\"color:#ef6d13\"><ruby>活動</ruby></span>を<ruby>始める</ruby>。</p>",
+        "audio": "2026-01-20/17.活動-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>彼<rt>かれ</rt></ruby>は、<ruby>日本人</ruby>にベトナムの<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>する<span style=\"color:#ef6d13\"><ruby>活動</ruby></span>をしている。</p>",
+        "audio": "2026-01-20/17.活動-例2.mp3"
+      },
+      {
+        "example": "<p>この<ruby>音楽<rt>おんがく</rt></ruby>グループは<ruby>昔は</ruby><ruby>人気</ruby>があったが、<ruby>今</ruby>は<span style=\"color:#ef6d13\"><ruby>活動</ruby></span>していない。</p>",
+        "audio": "2026-01-20/17.活動-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Xuân đến, các loài côn trùng bắt đầu <span style=\"color:#EF6D13\">hoạt động</span>.",
+      "Anh ấy đang tham gia vào các <span style=\"color:#EF6D13\">hoạt động</span> giới thiệu văn hóa Việt Nam cho người Nhật.",
+      "Nhóm nhạc này ngày xưa từng rất nổi tiếng, nhưng giờ họ không còn <span style=\"color:#EF6D13\">hoạt động</span> nữa."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HOẠT ĐỘNG"
+  },
+  {
+    "word": "<p><ruby>活躍</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>かつやく</p><p>hoạt động năng nổ, th&agrave;nh c&ocirc;ng trong lĩnh vực n&agrave;o đ&oacute;</p>",
+    "audio": "2026-01-20/18.活躍.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>今日<rt>きょう</rt></ruby>の<ruby>試<rt>し</rt></ruby><ruby>合<rt>あい</rt></ruby>では<span style=\"color:#ef6d13\">活躍</span>できた。</p>",
+        "audio": "2026-01-20/18.活躍-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>娘<rt>むすめ</rt></ruby>は<ruby>運動会<rt>うんどうかい</rt></ruby>で<ruby>大<rt>だい</rt></ruby><span style=\"color:#ef6d13\"><ruby>活躍</ruby></span>した。</p>",
+        "audio": "2026-01-20/18.活躍-例2.mp3"
+      },
+      {
+        "example": "<p><ruby>彼<rt>かれ</rt></ruby>はアメリカで、<ruby>野<rt>や</rt></ruby><ruby>球<rt>きゅう</rt></ruby><ruby>選手<rt>せんしゅ</rt></ruby>として<span style=\"color:#ef6d13\"><ruby>活躍</ruby></span>している。</p>",
+        "audio": "2026-01-20/18.活躍-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i đ&atilde; <span style=\"color:#ef6d13\">thể hiện tốt </span>trong trận đấu h&ocirc;m nay.</p>",
+      "Con gái tôi <span style=\"color:#EF6D13\">hoạt động rất năng nổ</span> trong hội thi thể thao.",
+      "<p>Anh ấy đang <span style=\"color:#ef6d13\">hoạt động</span> với vai tr&ograve; l&agrave; cầu thủ b&oacute;ng ch&agrave;y tại Mỹ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HOẠT DƯỢC"
+  },
+  {
+    "word": "<p>お<ruby>辞儀</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>おじぎ</p><p>c&uacute;i ch&agrave;o</p>",
+    "audio": "2026-01-20/19.お辞儀.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>社長<rt>しゃちょう</rt></ruby>がお<ruby>見</ruby>えになったので、いすから<ruby>立ち上がっ</ruby>て<span style=\"color:#ef6d13\">お<ruby>辞儀</ruby></span>をしました。</p>",
+        "audio": "2026-01-20/19.お辞儀-例1.mp3"
+      },
+      {
+        "example": "<p>時と<ruby>場<rt>ば</rt></ruby><ruby>合<rt>あい</rt></ruby>によって、<span style=\"color:#ef6d13\">お辞儀</span>の<ruby>深<rt>ふか</rt></ruby>さを変える必要がある。</p>",
+        "audio": "2026-01-20/19.お辞儀-例2.mp3"
+      },
+      {
+        "example": "<p><ruby>腰<rt>こし</rt></ruby>を<ruby>痛<rt>いた</rt></ruby>めたので、<span style=\"color:#ef6d13\">お<ruby>辞儀</ruby></span>ができない。</p>",
+        "audio": "2026-01-20/19.お辞儀-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Giám đốc đến nên tôi đứng dậy khỏi ghế và <span style=\"color:#EF6D13\">cúi chào</span>.",
+      "<p>T&ugrave;y v&agrave;o thời điểm v&agrave; ho&agrave;n cảnh m&agrave; cần điều chỉnh độ <span style=\"color:#ef6d13\">c&uacute;i ch&agrave;o</span>.</p>",
+      "Vì bị đau lưng, tôi không thể <span style=\"color:#EF6D13\">cúi chào</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỪ NGHI"
+  },
+  {
+    "word": "<p><ruby>苦</ruby><ruby>労</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>くろう</p><p>gian khổ, vất vả, kh&oacute; khăn</p>",
+    "audio": "2026-01-20/20.苦労.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>子供のころは、<ruby>家<rt>いえ</rt></ruby>が<ruby>貧乏<rt>びんぼう</rt></ruby>で<span style=\"color:#ef6d13\">苦労</span>した。</p>",
+        "audio": "2026-01-20/20.苦労-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>今</ruby>の<ruby>仕事</ruby>を<ruby>見つける</ruby>のに<span style=\"color:#ef6d13\"><ruby>苦</ruby><ruby>労</ruby></span>した。</p>",
+        "audio": "2026-01-20/20.苦労-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Hồi t&ocirc;i c&ograve;n nhỏ, v&igrave;&nbsp;gia cảnh <span style=\"color:#ef6d13\">ngh&egrave;o kh&oacute;</span> n&ecirc;n đ&atilde; rất vất vả.</p>",
+      "Tôi đã phải <span style=\"color:#EF6D13\">vất vả</span> mới tìm được công việc hiện tại."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KHỔ LAO"
+  },
+  {
+    "word": "<p><ruby>調</ruby><ruby>査</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>ちょうさ</p><p>điều tra, khảo s&aacute;t</p>",
+    "audio": "2026-01-20/21.調査.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>日本に来る<ruby>留<rt>りゅう</rt></ruby><ruby>学生<rt>がくせい</rt></ruby>について<span style=\"color:#ef6d13\"><ruby>調</ruby><ruby>査</ruby></span>を<ruby>行<rt>おこな</rt></ruby>った。</p>",
+        "audio": "2026-01-20/21.調査-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Chúng tôi đã thực hiện một cuộc <span style=\"color:#EF6D13\">khảo sát</span> về các du học sinh đến Nhật Bản."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐIỀU TRA"
+  },
+  {
+    "word": "<p><ruby>選挙</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>せんきょ</p><p>bầu cử</p>",
+    "audio": "2026-01-20/22.選挙.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この国では、20<ruby>歳</ruby>を<ruby>過<rt>す</rt></ruby>ぎると、<span style=\"color:#ef6d13\"><ruby>選挙</ruby></span><ruby>権<rt>けん</rt></ruby>がある。</p>",
+        "audio": "2026-01-20/22.選挙-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>&nbsp;Ở đất nước n&agrave;y, qua 20 tuổi,&nbsp;c&ocirc;ng d&acirc;n sẽ c&oacute; quyền <span style=\"color:#ef6d13\">bầu cử</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TUYÊN CỬ"
+  },
+  {
+    "word": "<p><ruby>優</ruby><ruby>勝</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>ゆうしょう</p><p>v&ocirc; địch, qu&aacute;n qu&acirc;n</p>",
+    "audio": "2026-01-25/26.優勝.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>優</ruby><ruby>勝</ruby></span>を<ruby>目指<rt>めざ</rt></ruby>して毎日<ruby>厳<rt>きび</rt></ruby>しい<ruby>練<rt>れん</rt></ruby><ruby>習<rt>しゅう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>ける。</p>",
+        "audio": "2026-01-25/26.優勝-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi tiếp tục luyện tập nghiêm ngặt mỗi ngày với mục tiêu giành chức <span style=\"color:#EF6D13\">vô địch</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ƯU THẮNG"
+  },
+  {
+    "word": "<p><ruby>不</ruby><ruby>足</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>ふそく</p><p>thiếu hụt, thiếu thốn</p>",
+    "audio": "2026-01-20/23.不足.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>栄養<rt>えいよう</rt></ruby>が<span style=\"color:#ef6d13\"><ruby>不</ruby><ruby>足</ruby></span>すると<ruby>病<rt>びょう</rt></ruby><ruby>気<rt>き</rt></ruby>になりやすくなる。</p>",
+        "audio": "2026-01-20/23.不足-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Nếu <span style=\"color:#EF6D13\">thiếu</span> dinh dưỡng thì sẽ dễ bị ốm hơn."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BẤT TÚC"
+  },
+  {
+    "word": "<p><ruby>急</ruby>に</p>",
+    "word_stress": null,
+    "word_type": "Phó từ",
+    "meaning": "<p>きゅうに</p><p>bất chợt, đột ngột, đột nhi&ecirc;n</p>",
+    "audio": "2026-01-20/24.急に.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>赤<rt>あか</rt></ruby>ちゃんは<span style=\"color:#ef6d13\"><ruby>急</ruby>に</span><ruby>泣<rt>な</rt></ruby>き出した。</p>",
+        "audio": "2026-01-20/24.急に-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Em bé <span style=\"color:#EF6D13\">bỗng dưng</span> bật khóc."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CẤP"
+  },
+  {
+    "word": "<p><ruby>決</ruby>して</p>",
+    "word_stress": null,
+    "word_type": "Phó từ",
+    "meaning": "<p>けっして</p><p>quyết ~ kh&ocirc;ng, nhất định</p>",
+    "audio": "2026-01-20/25.決して.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>試<rt>し</rt></ruby><ruby>合<rt>あい</rt></ruby>だけは、<span style=\"color:#ef6d13\"><ruby>決</ruby>して</span><ruby>最<rt>さい</rt></ruby><ruby>後<rt>ご</rt></ruby>まで<ruby>諦<rt>あきら</rt></ruby>めない。</p>",
+        "audio": "2026-01-20/25.決して-例1.mp3"
+      },
+      {
+        "example": "<p>彼女は<ruby>私</ruby>を<span style=\"color:#ef6d13\"><ruby>決</ruby>して</span>うらぎらない。</p>",
+        "audio": "2026-01-20/25.決して-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Ri&ecirc;ng trận đấu n&agrave;y, t&ocirc;i <span style=\"color:#ef6d13\">nhất định sẽ kh&ocirc;ng </span>bỏ cuộc cho đến ph&uacute;t cuối c&ugrave;ng.</p>",
+      "<p>C&ocirc; ấy <span style=\"color:#ef6d13\">nhất định</span> kh&ocirc;ng phản bội t&ocirc;i.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "QUYẾT"
+  },
+  {
+    "word": "<p><ruby>休</ruby><ruby>憩</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>きゅうけい</p><p>giải lao</p>",
+    "audio": "2026-01-19/10.休憩.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>あそこのカフェで<span style=\"color:#ef6d13\"><ruby>休</ruby><ruby>憩</ruby></span>しましょう。</p>",
+        "audio": "2026-01-19/10.休憩-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Nghỉ <span style=\"color:#EF6D13\">giải lao</span> ở quán cà phê kia nhé?"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HƯU KHẾ"
+  },
+  {
+    "word": "<p><ruby>意志</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>いし</p><p>&yacute; ch&iacute;, quyết t&acirc;m</p>",
+    "audio": "2026-01-20/1.意志.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>彼<rt>かれ</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>意志</ruby></span>は<ruby>固<rt>かた</rt></ruby>いから<ruby>変<rt>か</rt></ruby>わらないだろう。</p>",
+        "audio": "2026-01-20/1.意志-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Ý chí</span> của anh ta rất vững nên chắc sẽ không thay đổi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "Ý CHÍ"
+  },
+  {
+    "word": "<p><ruby>知</ruby><ruby>識</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ちしき</p><p>tri thức, kiến thức</p>",
+    "audio": "2026-01-20/2.知識.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>勉強<rt>べんきょう</rt></ruby>して、<span style=\"color:#ef6d13\"><ruby>知</ruby><ruby>識</ruby></span>を<ruby>身<rt>み</rt></ruby>に<ruby>付<rt>つ</rt></ruby>ける。</p>",
+        "audio": "2026-01-20/2.知識-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>母<rt>はは</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>知</ruby><ruby>識</ruby></span>が<ruby>豊<rt>ほう</rt></ruby><ruby>富<rt>ふ</rt></ruby>で、<ruby>何<rt>なん</rt></ruby>でも<ruby>知<rt>し</rt></ruby>ってる。</p>",
+        "audio": "2026-01-28/2.知識-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Học tập và trang bị <span style=\"color:#EF6D13\">kiến thức</span>.",
+      "Mẹ tôi có <span style=\"color:#EF6D13\">kiến thức</span> phong phú, cái gì cũng biết."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRI THỨC"
+  },
+  {
+    "word": "<p><ruby>就職</ruby><ruby>活動</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>しゅうしょくかつどう</p><p>hoạt động t&igrave;m việc</p>",
+    "audio": "2026-01-20/3.就職活動.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>来年<rt>らいねん</rt></ruby><ruby>卒業<rt>そつぎょう</rt></ruby>するので、<span style=\"color:#ef6d13\"><ruby>就職</ruby><ruby>活動</ruby></span>を<ruby>始<rt>はじ</rt></ruby>めました。</p>",
+        "audio": "2026-01-20/3.就職活動-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Vì sang năm sẽ tốt nghiệp nên tôi đã bắt đầu <span style=\"color:#EF6D13\">tìm việc</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỰU CHỨC HOẠT ĐỘNG"
+  },
+  {
+    "word": "<p><ruby>気</ruby><ruby>候</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>きこう</p><p>kh&iacute; hậu</p>",
+    "audio": "2026-01-20/5.気候.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>日本の<span style=\"color:#ef6d13\">気候</span>は四季がはっきりしている。</p>",
+        "audio": "2026-01-20/5.気候-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Kh&iacute; hậu</span> Nhật Bản c&oacute; bốn m&ugrave;a r&otilde; rệt.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KHÍ HẬU"
+  },
+  {
+    "word": "<p><ruby>責任</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>せきにん</p><p>tr&aacute;ch nhiệm</p>",
+    "audio": "2026-01-20/6.責任.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>学校<rt>がっこう</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>責任</ruby></span><ruby>者<rt>しゃ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>です。</p>",
+        "audio": "2026-01-20/6.責任-例1.mp3"
+      },
+      {
+        "example": "<p>ミスの<span style=\"color:#ef6d13\"><ruby>責任</ruby></span>を<ruby>取<rt>と</rt></ruby>って、<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>めることになった。</p>",
+        "audio": "2026-01-20/6.責任-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi là người chịu <span style=\"color:#EF6D13\">trách nhiệm</span> của trường này.",
+      "Tôi nhận <span style=\"color:#EF6D13\">trách nhiệm</span> cho sai sót nên đã nghỉ việc ở công ty."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRÁCH NHIỆM"
+  },
+  {
+    "word": "<p><ruby>条</ruby><ruby>件</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>じょうけん</p><p>điều kiện, điều khoản</p>",
+    "audio": "2026-01-20/7.条件.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>条件</ruby></span>がいい<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ。</p>",
+        "audio": "2026-01-20/7.条件-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>条件</ruby></span>が<ruby>厳<rt>きび</rt></ruby>しくて、<ruby>契約<rt>けいやく</rt></ruby>を<ruby>諦<rt>あきら</rt></ruby>めた。</p>",
+        "audio": "2026-01-20/7.条件-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Lựa chọn công ty có những <span style=\"color:#EF6D13\">điều kiện</span> tốt.",
+      "Vì <span style=\"color:#EF6D13\">điều kiện</span> quá khắt khe nên tôi đã từ bỏ hợp đồng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐIỀU KIỆN"
+  },
+  {
+    "word": "<p><ruby>勇</ruby><ruby>気</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ゆうき</p><p>dũng kh&iacute;, can đảm</p>",
+    "audio": "2026-01-20/8.勇気.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>彼<rt>かれ</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>勇</ruby><ruby>気</ruby></span>ある<ruby>青年<rt>せいねん</rt></ruby>だ。</p>",
+        "audio": "2026-01-20/8.勇気-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>母<rt>はは</rt></ruby>に<ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>づけられ、<span style=\"color:#ef6d13\"><ruby>勇</ruby><ruby>気</ruby></span>が<ruby>出<rt>で</rt></ruby>た。</p>",
+        "audio": "2026-01-20/8.勇気-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Cậu ấy là một thanh niên <span style=\"color:#EF6D13\">dũng cảm</span>.",
+      "Được mẹ cổ vũ, tôi trở nên <span style=\"color:#EF6D13\">can đảm</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DŨNG KHÍ"
+  },
+  {
+    "word": "<p><ruby>従兄弟</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>いとこ</p><p>anh em họ</p>",
+    "audio": "2026-01-20/9.従兄弟.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>夏休みに、<span style=\"color:#ef6d13\"><ruby>従兄弟</ruby></span>たちとプールに行きました。</p>",
+        "audio": "2026-01-20/9.従兄弟-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>V&agrave;o kỳ nghỉ h&egrave;, t&ocirc;i đ&atilde; đi bơi c&ugrave;ng c&aacute;c <span style=\"color:#ef6d13\">anh/chị/em họ</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TÙNG HUYNH ĐỆ"
+  },
+  {
+    "word": "<p><ruby>長</ruby><ruby>女</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ちょうじょ</p><p>trưởng nữ, con g&aacute;i cả</p>",
+    "audio": "2026-01-20/10.長女.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>三人<rt>さんにん</rt></ruby><ruby>姉<rt>し</rt></ruby><ruby>妹<rt>まい</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>長女</ruby></span>です。</p>",
+        "audio": "2026-01-20/10.長女-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Cô ấy là <span style=\"color:#EF6D13\">con gái cả</span> trong ba chị em."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRƯỞNG NỮ"
+  },
+  {
+    "word": "<p><ruby>長男</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ちょうなん</p><p>trưởng nam, con trai cả</p>",
+    "audio": "2026-01-20/11.長男.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">長男</span>が親の財産の大半を受け取った。</p>",
+        "audio": "2026-01-20/11.長男-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Con trai cả</span> đ&atilde; nhận phần lớn t&agrave;i sản của cha mẹ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRƯỞNG NAM"
+  },
+  {
+    "word": "<p><ruby>夫</ruby><ruby>妻</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ふさい</p><p>vợ chồng</p>",
+    "audio": "2026-01-20/12.夫妻.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>兄<span style=\"color:#ef6d13\"><ruby>夫</ruby><ruby>妻</ruby></span>は<ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>をして、<ruby>健康<rt>けんこう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>っています。</p>",
+        "audio": "2026-01-20/12.夫妻-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Vợ chồng</span> anh trai tôi tập thể dục mỗi ngày và đang sống một cuộc sống lành mạnh."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "PHU THÊ"
+  },
+  {
+    "word": "<p><ruby>双</ruby><ruby>子</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ふたご</p><p>song sinh, sinh đ&ocirc;i</p>",
+    "audio": "2026-01-20/13.双子.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>双</ruby><ruby>子</ruby></span>は<ruby>見分けが</ruby>つかない。</p>",
+        "audio": "2026-01-20/13.双子-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Khó phân biệt được cặp <span style=\"color:#EF6D13\">song sinh</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "SONG TỬ"
+  },
+  {
+    "word": "<p><ruby>孫</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>まご</p><p>ch&aacute;u</p><p>(con của con c&aacute;i m&igrave;nh)</p>",
+    "audio": "2026-01-20/14.孫.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby style=\"\">祖父母というものは<span style=\"color:#ef6d13\">孫</span></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶのが<ruby>大<rt>だい</rt></ruby><ruby>好<rt>す</rt></ruby>きです。</p>",
+        "audio": "2026-01-28/14.孫-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>&Ocirc;ng b&agrave; thường rất th&iacute;ch chơi với c&aacute;c <span style=\"color:#ef6d13\">ch&aacute;u</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TÔN"
+  },
+  {
+    "word": "<p><ruby>姪</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>めい</p><p>ch&aacute;u g&aacute;i (con của anh/chị/em m&igrave;nh)</p>",
+    "audio": "2026-01-20/15.姪.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>姪</ruby></span>はまだ<ruby>小学生<rt>しょうがくせい</rt></ruby>です。</p>",
+        "audio": "2026-01-20/15.姪-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Cháu gái</span> tôi vẫn là học sinh tiểu học."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐIỆT"
+  },
+  {
+    "word": "<p><ruby>直</ruby><ruby>前</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ちょくぜん</p><p>ngay trước khi</p>",
+    "audio": "2026-01-20/16.直前.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>結婚式<rt>けっこんしき</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>直前</ruby></span>にお<ruby>腹<rt>なか</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>くなった。</p>",
+        "audio": "2026-01-20/16.直前-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Ngay trước khi</span> đám cưới bắt đầu thì tôi bị đau bụng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỰC TIỀN"
+  },
+  {
+    "word": "<p><ruby>直</ruby><ruby>後</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ちょくご</p><p>ngay sau khi</p>",
+    "audio": "2026-01-20/17.直後.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>手<rt>しゅ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby><span style=\"color:#ef6d13\"><ruby>直</ruby><ruby>後</ruby></span>はあまり<ruby>動<rt>うご</rt></ruby>かないほうがいい。</p>",
+        "audio": "2026-01-20/17.直後-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Ngay sau khi</span> phẫu thuật, tốt nhất là không nên vận động quá nhiều."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỰC HẬU"
+  },
+  {
+    "word": "<p><ruby>価値</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>かち</p><p>gi&aacute; trị</p>",
+    "audio": "2026-01-20/18.価値.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>宝石<rt>ほうせき</rt></ruby>は1<ruby>億<rt>おく</rt></ruby><ruby>円<rt>えん</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>価値</ruby></span>がある。</p>",
+        "audio": "2026-01-20/18.価値-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Viên đá quý này có <span style=\"color:#EF6D13\">giá trị</span> lên tới 100 triệu yên."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "GIÁ TRỊ"
+  },
+  {
+    "word": "<p><ruby>年末</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ねんまつ</p><p>cuối năm</p>",
+    "audio": "2026-01-20/19.年末.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>うちの<ruby>会社<rt>かいしゃ</rt></ruby>は、<span style=\"color:#ef6d13\"><ruby>年末</ruby></span>になると<ruby>必<rt>かなら</rt></ruby>ず<ruby>忘年会<rt>ぼうねんかい</rt></ruby>をやる。</p>",
+        "audio": "2026-01-20/19.年末-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>年末</ruby></span>は、お<ruby>正月<rt>しょうがつ</rt></ruby>の<ruby>準<rt>じゅん</rt></ruby><ruby>備<rt>び</rt></ruby>でみんな<ruby>忙<rt>いそが</rt></ruby>しい。</p>",
+        "audio": "2026-01-20/19.年末-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Công ty tôi <span style=\"color:#EF6D13\">cuối năm</span> nào cũng tổ chức tiệc tất niên.",
+      "<span style=\"color:#EF6D13\">Cuối năm</span>, mọi người đều bận rộn với việc chuẩn bị Tết."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "NIÊN MẠT"
+  },
+  {
+    "word": "<p><ruby>相</ruby><ruby>手</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>あいて</p><p>đối phương, đối tượng</p>",
+    "audio": "2026-01-20/20.相手.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼は、私の話し<span style=\"color:#ef6d13\"><ruby>相</ruby><ruby>手</ruby></span>になってくれるので<ruby>助<rt>たす</rt></ruby>かる。</p>",
+        "audio": "2026-01-20/20.相手-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>結婚<rt>けっこん</rt></ruby><span style=\"color:#ef6d13\"><ruby>相</ruby><ruby>手</ruby></span>は、<ruby>優<rt>やさ</rt></ruby>しくてお<ruby>金<rt>かね</rt></ruby><ruby>持<rt>も</rt></ruby>ちの<ruby>人<rt>ひと</rt></ruby>がいい。</p>",
+        "audio": "2026-01-20/20.相手-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Thật may v&igrave; c&oacute; anh ấy l&agrave; <span style=\"color:#ef6d13\">người </span>n&oacute;i chuyện c&ugrave;ng.</p>",
+      "<span style=\"color:#EF6D13\">Đối tượng</span> kết hôn là người tốt bụng và nhiều tiền thì tốt."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TƯƠNG THỦ"
+  },
+  {
+    "word": "<p><ruby>成績</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>せいせき</p><p>th&agrave;nh t&iacute;ch; kết quả học tập</p>",
+    "audio": "2026-01-20/21.成績.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>中<rt>ちゅう</rt></ruby><ruby>学生<rt>がくせい</rt></ruby>のころはクラスで<span style=\"color:#ef6d13\"><ruby>成績</ruby></span>が<ruby>一番<rt>いちばん</rt></ruby>だった。</p>",
+        "audio": "2026-01-20/21.成績-例1.mp3"
+      },
+      {
+        "example": "<p>マラソンの<ruby>大会<rt>たいかい</rt></ruby>でいい<span style=\"color:#ef6d13\"><ruby>成績</ruby></span>を<ruby>残<rt>のこ</rt></ruby>すことができた。</p>",
+        "audio": "2026-01-20/21.成績-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Hồi cấp hai, tôi là học sinh có <span style=\"color:#EF6D13\">thành tích</span> học tập tốt nhất lớp.",
+      "Tôi đã đạt <span style=\"color:#EF6D13\">thành tích</span> tốt trong cuộc thi marathon."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THÀNH TÍCH"
+  },
+  {
+    "word": "<p><ruby>食器</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>しょっき</p><p>b&aacute;t đũa, dụng cụ ăn uống</p>",
+    "audio": "2026-01-20/22.食器.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>食器</ruby></span>を<ruby>洗<rt>あら</rt></ruby>うのを<ruby>手<rt>て</rt></ruby><ruby>伝<rt>つだ</rt></ruby>ってくれない？</p>",
+        "audio": "2026-01-20/22.食器-例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Con giúp mẹ rửa <span style=\"color:#EF6D13\">bát</span> nhé?"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỰC KHÍ"
+  },
+  {
+    "word": "<p><ruby>収入</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>しゅうにゅう</p><p>thu nhập</p>",
+    "audio": "2026-01-20/23.収入.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>収入</ruby></span>に<ruby>見合う</ruby><ruby>生活<rt>せいかつ</rt></ruby>をする。</p>",
+        "audio": "2026-01-28/23.収入-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Sống phù hợp với mức <span style=\"color:#EF6D13\">thu nhập</span> của mình."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THU NHẬP"
+  },
+  {
+    "word": "<p><ruby>看</ruby><ruby>護</ruby><ruby>師</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>かんごし</p><p>điều dưỡng</p>",
+    "audio": "2026-01-20/1.看護師.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>入院<rt>にゅういん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>、<span style=\"color:#ef6d13\"><ruby>看</ruby><ruby>護</ruby><ruby>師</ruby></span>が<ruby>親切<rt>しんせつ</rt></ruby>にしてくれた。</p>",
+        "audio": "2026-01-20/1.看護師-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>将来<rt>しょうらい</rt></ruby>の<ruby>夢<rt>ゆめ</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>看</ruby><ruby>護</ruby><ruby>師</ruby></span>です。</p>",
+        "audio": "2026-01-20/1.看護師-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Trong thời gian nhập viện, c&aacute;c <span style=\"color:#ef6d13\">điều dưỡng vi&ecirc;n</span>&nbsp;đ&atilde; rất &acirc;n cần với t&ocirc;i.</p>",
+      "<p>Ước mơ trong tương lai của t&ocirc;i l&agrave; trở th&agrave;nh <span style=\"color:#ef6d13\">điều dưỡng vi&ecirc;n</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KHÁN HỘ SỰ"
+  },
+  {
+    "word": "<p><ruby>直</ruby><ruby>接</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ/Phó từ",
+    "meaning": "<p>ちょくせつ</p><p>trực tiếp</p>",
+    "audio": "2026-01-20/2.直接.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>直接</ruby></span><ruby>見<rt>み</rt></ruby>て、<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>する。</p>",
+        "audio": "2026-01-20/2.直接-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>友達<rt>ともだち</rt></ruby>と<ruby>待<rt>ま</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせをせずに、<span style=\"color:#ef6d13\"><ruby>直接</ruby></span><ruby>学校<rt>がっこう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かう。</p>",
+        "audio": "2026-01-20/2.直接-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Xem <span style=\"color:#EF6D13\">trực tiếp</span> rồi mua sản phẩm.",
+      "Đến <span style=\"color:#EF6D13\">thẳng</span> trường luôn mà không đợi bạn."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỰC TIẾP"
+  },
+  {
+    "word": "<p><ruby>当然</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ/Tính từ đuôi な",
+    "meaning": "<p>とうぜん</p><p>đương nhi&ecirc;n</p>",
+    "audio": "2026-01-20/3.当然.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>借<rt>か</rt></ruby>りた<ruby>物<rt>もの</rt></ruby>を<ruby>返<rt>かえ</rt></ruby>すのは<span style=\"color:#ef6d13\"><ruby>当然</ruby></span>だ。</p>",
+        "audio": "2026-01-20/3.当然-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>勉強<rt>べんきょう</rt></ruby>しなかったので、テストの<ruby>点数<rt>てんすう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いのは<span style=\"color:#ef6d13\"><ruby>当然</ruby></span>の<ruby>結果<rt>けっか</rt></ruby>だ。</p>",
+        "audio": "2026-01-20/3.当然-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Trả lại đồ đã mượn là điều <span style=\"color:#EF6D13\">đương nhiên</span>.",
+      "Bởi vì không học nên điểm số không tốt là kết quả <span style=\"color:#EF6D13\">đương nhiên</span> rồi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐƯƠNG NHIÊN"
+  },
+  {
+    "word": "<p><ruby>意</ruby><ruby>外</ruby></p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi な",
+    "meaning": "<p>いがい</p><p>ngo&agrave;i dự kiến, bất ngờ</p>",
+    "audio": "2026-01-20/4.意外.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>弱いほうのチームが<ruby>勝<rt>か</rt></ruby>つという<span style=\"color:#ef6d13\">意外</span>な<ruby>結果<rt>けっか</rt></ruby>になった。</p>",
+        "audio": "2026-01-20/4.意外-例1.mp3"
+      },
+      {
+        "example": "<p>初めて<ruby>納豆<rt>なっとう</rt>を食べてみたら、<span style=\"color:#ef6d13\">意外</span>においしかった。</ruby></p>",
+        "audio": "2026-01-20/4.意外-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Việc đội yếu hơn chiến thắng l&agrave; một kết quả <span style=\"color:#ef6d13\">ngo&agrave;i dự t&iacute;nh</span>.</p>",
+      "<p>Khi lần đầu ăn thử natto, t&ocirc;i thấy n&oacute; ngon <span style=\"color:#ef6d13\">hơn m&igrave;nh tưởng</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "Ý NGOẠI"
+  },
+  {
+    "word": "<p><ruby>得</ruby><ruby>意</ruby></p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi な",
+    "meaning": "<p>とくい</p><p>giỏi, tự tin</p><p>(về lĩnh vực n&agrave;o đ&oacute;)</p>",
+    "audio": "2026-01-20/7.得意.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>私はバドミントンが<span style=\"color:#ef6d13\">得意</span>です。</p>",
+        "audio": "2026-01-20/7.得意-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i <span style=\"color:#ef6d13\">giỏi </span>cầu l&ocirc;ng.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐẮC Ý"
+  },
+  {
+    "word": "<p><ruby>間接</ruby><ruby>的</ruby></p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi な",
+    "meaning": "<p>かんせつてき</p><p>một c&aacute;ch gi&aacute;n tiếp</p>",
+    "audio": "2026-01-20/8.間接的.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>課<rt>か</rt></ruby><ruby>長<rt>ちょう</rt></ruby>はいつも<span style=\"color:#ef6d13\">間接的</span>な言い方ばかりで、<ruby>直<rt>ちょく</rt></ruby><ruby>接的<rt>せつてき</rt></ruby>な言い方はしない。</p>",
+        "audio": "2026-01-20/8.間接的-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Trưởng ph&ograve;ng to&agrave;n n&oacute;i <span style=\"color:#ef6d13\">v&ograve;ng vo</span>, chẳng bao giờ n&oacute;i thẳng cả.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "GIAN TIẾP ĐÍCH"
+  },
+  {
+    "word": "<p><ruby>正直</ruby></p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi な",
+    "meaning": "<p>しょうじき</p><p>th&agrave;nh thật, trung thực</p>",
+    "audio": "2026-01-20/5.正直.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>怒<rt>おこ</rt></ruby><ruby>らないから、<span style=\"color:#ef6d13\">正直</span>に言いなさい。</ruby></p>",
+        "audio": "2026-01-20/5.正直-例1.mp3"
+      },
+      {
+        "example": "<p>マイさんは<span style=\"color:#ef6d13\"><ruby>正直</ruby></span>だから、<ruby>嘘<rt>うそ</rt></ruby>はつかないよ。</p>",
+        "audio": "2026-01-20/5.正直-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Mẹ sẽ kh&ocirc;ng nổi giận đ&acirc;u n&ecirc;n h&atilde;y n&oacute;i <span style=\"color:#ef6d13\">thật </span>đi.</p>",
+      "Mai là người <span style=\"color:#EF6D13\">thật thà</span>, nên sẽ không nói dối đâu."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CHÍNH TRỰC"
+  },
+  {
+    "word": "<p><ruby>眠</ruby>たい</p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi い",
+    "meaning": "<p>ねむたい</p><p>buồn ngủ</p>",
+    "audio": "2026-01-20/9.眠たい.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>昨夜<rt>さくや</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くまで<ruby>起<rt>お</rt></ruby>きていたので、<ruby>今<rt>いま</rt></ruby>とても<span style=\"color:#ef6d13\"><ruby>眠</ruby>たい</span>です。</p>",
+        "audio": "2026-01-20/9.眠たい-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Vì đêm qua thức khuya, bây giờ tôi rất <span style=\"color:#EF6D13\">buồn ngủ</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MIÊN"
+  },
+  {
+    "word": "<p><ruby>怖</ruby>い</p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi い",
+    "meaning": "<p>こわい</p><p>sợ, đ&aacute;ng sợ</p>",
+    "audio": "2026-01-20/10.怖い.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>スマホを<ruby>見<rt>み</rt></ruby>ながら<ruby>歩<rt>ある</rt></ruby>いていたら、<span style=\"color:#ef6d13\"><ruby>怖</ruby>い</span><ruby>人<rt>ひと</rt></ruby>にぶつかった。</p>",
+        "audio": "2026-01-20/10.怖い-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Đang vừa đi vừa nhìn điện thoại thì tôi va phải một người trông rất <span style=\"color:#EF6D13\">đáng sợ</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "PHỐ"
+  },
+  {
+    "word": "<p><ruby>受</ruby>け<ruby>入</ruby>れる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>うけいれる</p><p>chấp nhận, tiếp nhận</p>",
+    "audio": "2026-01-20/11.受け入れる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>私<rt>わたし</rt></ruby>の<ruby>大学<rt>だいがく</rt></ruby>は、<ruby>毎年<rt>まいとし</rt></ruby><ruby>留学生<rt>りゅうがくせい</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>受</ruby>け<ruby>入</ruby>れている</span>。</p>",
+        "audio": "2026-01-20/11.受け入れる-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>鈴木<rt>すずき</rt></ruby>さんの<ruby>提案<rt>ていあん</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>受</ruby>け<ruby>入</ruby>れる</span>ことにした。</p>",
+        "audio": "2026-01-20/11.受け入れる-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Trường đại học của tôi năm nào cũng <span style=\"color:#EF6D13\">tiếp nhận</span> du học sinh.",
+      "Tôi đã quyết định <span style=\"color:#EF6D13\">chấp nhận</span> đề xuất của anh Suzuki."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỤ NHẬP"
+  },
+  {
+    "word": "<p><ruby>失</ruby>う</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>うしなう</p><p>mất, đ&aacute;nh mất</p>",
+    "audio": "2026-01-20/12.失う.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>約束<rt>やくそく</rt></ruby>を<ruby>守<rt>まも</rt></ruby>らないと、<ruby>信用<rt>しんよう</rt></ruby>を<span style=\"color:#ef6d13\">失って</span>しまう。</p>",
+        "audio": "2026-01-20/12.失う-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Nếu kh&ocirc;ng giữ lời hứa th&igrave; sẽ <span style=\"color:#ef6d13\">mất</span> đi sự tin tưởng.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THẤT"
+  },
+  {
+    "word": "<p><ruby>悩</ruby>む</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>なやむ</p><p>lo lắng, phiền n&atilde;o</p>",
+    "audio": "2026-01-20/13.悩む.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>人生<rt>じんせい</rt></ruby>について<ruby><span style=\"color:#ef6d13\">悩</span></ruby><span style=\"color:#ef6d13\">んでいる</span>。</p>",
+        "audio": "2026-01-20/13.悩む-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>母<rt>はは</rt></ruby>は<ruby>最近<rt>さいきん</rt></ruby><ruby>頭痛<rt>ずつう</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>悩</ruby>んでいる</span>。</p>",
+        "audio": "2026-01-20/13.悩む-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi <span style=\"color:#EF6D13\">trăn trở</span> về cuộc đời của mình.",
+      "Dạo gần đây mẹ tôi <span style=\"color:#EF6D13\">khổ sở</span> vì chứng đau đầu."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "NÃO"
+  },
+  {
+    "word": "<p><ruby>打</ruby>つ</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>うつ</p><p>đ&aacute;nh, đập, g&otilde;, ti&ecirc;m</p>",
+    "audio": "2026-01-20/14.打つ.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>転<rt>ころ</rt></ruby>んで<ruby>頭<rt>あたま</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>く<span style=\"color:#ef6d13\"><ruby>打</ruby>った</span>。</p>",
+        "audio": "2026-01-20/14.打つ-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>病<rt>びょう</rt></ruby><ruby>気<rt>き</rt></ruby>の<ruby>予<rt>よ</rt></ruby><ruby>防<rt>ぼう</rt></ruby>のために、赤ちゃんは1か<ruby>月<rt>げつ</rt></ruby>に<ruby>何<rt>なん</rt></ruby><ruby>本<rt>ぼん</rt></ruby>も<ruby>注射<rt>ちゅうしゃ</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>打</ruby>つ</span>らしい。</p>",
+        "audio": "2026-01-20/14.打つ-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi bị ngã và <span style=\"color:#EF6D13\">đập</span> đầu rất mạnh.",
+      "<p>Nghe n&oacute;i để ph&ograve;ng bệnh, em b&eacute; phải <span style=\"color:#ef6d13\">ti&ecirc;m </span>rất nhiều mũi trong một th&aacute;ng.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐẢ"
+  },
+  {
+    "word": "<p><ruby>産</ruby>む</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>うむ</p><p>sinh, đẻ</p>",
+    "audio": "2026-01-20/15.産む.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>姉<rt>あね</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>な<ruby>女<rt>おんな</rt></ruby>の<ruby>子<rt>こ</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>産</ruby>んだ</span>。</p>",
+        "audio": "2026-01-20/15.産む-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>鶏<rt>にわとり</rt></ruby>が<ruby>卵<rt>たまご</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>産</ruby>む</span>。</p>",
+        "audio": "2026-01-20/15.産む-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Chị gái tôi đã <span style=\"color:#EF6D13\">sinh</span> một bé gái khỏe mạnh.",
+      "Con gà <span style=\"color:#EF6D13\">đẻ</span> ra quả trứng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "SẢN"
+  },
+  {
+    "word": "<p><ruby>諦</ruby>める</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>あきらめる</p><p>từ bỏ, bỏ cuộc</p>",
+    "audio": "2026-01-20/16.諦める.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>彼女<rt>かのじょ</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>するつもりだったが、<ruby>両親<rt>りょうしん</rt></ruby>に<ruby>反対<rt>はんたい</rt></ruby>されて<span style=\"color:#ef6d13\"><ruby>諦</ruby>めた</span>。</p>",
+        "audio": "2026-01-20/16.諦める-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi định kết hôn với cô ấy nhưng bị bố mẹ phản đối nên đã <span style=\"color:#EF6D13\">từ bỏ</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐẾ"
+  },
+  {
+    "word": "<p><ruby>嫌</ruby>がる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>いやがる</p><p>gh&eacute;t, kh&ocirc;ng ưa ra mặt</p>",
+    "audio": "2026-01-20/17.嫌がる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>犬<rt>いぬ</rt></ruby>はお<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入られる</ruby>のを<span style=\"color:#ef6d13\"><ruby>嫌</ruby>がる</span>ことが<ruby>多<rt>おお</rt></ruby>い。</p>",
+        "audio": "2026-01-20/17.嫌がる-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Ch&oacute; thường<span style=\"color:#ef6d13\"> kh&ocirc;ng th&iacute;ch</span>&nbsp;tắm.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HIỀM"
+  },
+  {
+    "word": "<p><ruby>踏</ruby>む</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>ふむ</p><p>dẫm, đạp</p>",
+    "audio": "2026-01-20/18.踏む.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>目<rt>め</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>子供<rt>こども</rt></ruby>が<ruby>飛<rt>と</rt></ruby>び<ruby>出<rt>だ</rt></ruby>してきて、<ruby>急<rt>きゅう</rt></ruby>ブレーキを<span style=\"color:#ef6d13\"><ruby>踏</ruby>んだ</span>。</p>",
+        "audio": "2026-01-20/18.踏む-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Một đứa trẻ lao ra ngay phía trước nên tôi phải <span style=\"color:#EF6D13\">đạp</span> phanh gấp."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐẠP"
+  },
+  {
+    "word": "<p><ruby>間</ruby><ruby>違</ruby>う</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>まちがう</p><p>nhầm lẫn, sai s&oacute;t</p>",
+    "audio": "2026-01-20/19.間違う.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>間</ruby><ruby>違</ruby>った</span><ruby>問題<rt>もんだい</rt></ruby>を<ruby>復習<rt>ふくしゅう</rt></ruby>する。</p>",
+        "audio": "2026-01-20/19.間違う-例1.mp3"
+      },
+      {
+        "example": "<p>あなたの<ruby>言<rt>い</rt></ruby>ったことは<span style=\"color:#ef6d13\"><ruby>間</ruby><ruby>違</ruby></span>っている。</p>",
+        "audio": "2026-01-20/19.間違う-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Ôn tập lại những câu làm <span style=\"color:#EF6D13\">sai</span>.",
+      "Những điều bạn vừa nói là <span style=\"color:#EF6D13\">sai</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "GIAN VI"
+  },
+  {
+    "word": "<p><ruby>繰</ruby>り<ruby>返</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>くりかえす</p><p>lặp đi lặp lại</p>",
+    "audio": "2026-01-20/20.繰り返す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>練習<rt>れんしゅう</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>繰</ruby>り<ruby>返</ruby>せば</span>、<ruby>上手<rt>じょうず</rt></ruby>になりますよ。</p>",
+        "audio": "2026-01-20/20.繰り返す-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>歴史<rt>れきし</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>繰</ruby>り<ruby>返</ruby>す</span>。</p>",
+        "audio": "2026-01-20/20.繰り返す-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Nếu bạn luyện tập <span style=\"color:#EF6D13\">lặp đi lặp lại</span>, sẽ tiến bộ thôi.",
+      "Lịch sử luôn <span style=\"color:#EF6D13\">lặp lại</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "SÀO PHẢN"
+  },
+  {
+    "word": "<p><ruby>立</ruby>てる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>たてる</p><p>dựng đứng; g&acirc;y ra, tạo ra, lập ra</p>",
+    "audio": "2026-01-20/21.立てる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>机<rt>つくえ</rt></ruby>に<ruby>本<rt>ほん</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>立</ruby>てて</span><ruby>置<rt>お</rt></ruby>く。</p>",
+        "audio": "2026-01-20/21.立てる-例1.mp3"
+      },
+      {
+        "example": "<p>ケーキにろうそくを<span style=\"color:#ef6d13\"><ruby>立</ruby>てる。</span></p>",
+        "audio": "2026-01-20/21.立てる-例2.mp3"
+      },
+      {
+        "example": "<p>旅行の前に<ruby>計画<rt>けいかく</rt></ruby>を<span style=\"color:#ef6d13\">立てる</span>。</p>",
+        "audio": "2026-01-20/21.立てる-例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Đặt quyển sách <span style=\"color:#EF6D13\">dựng đứng</span> ở trên bàn.",
+      "<span style=\"color:#EF6D13\">Cắm</span> nến lên bánh.",
+      "<p><span style=\"color:#ef6d13\">Lập</span> kế hoạch trước khi đi du lịch.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "LẬP"
+  },
+  {
+    "word": "<p><ruby>気</ruby>がつく</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>きがつく</p><p>nhận ra, để &yacute;</p>",
+    "audio": "2026-01-20/22.気がつく.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>Tシャツの<ruby>前<rt>まえ</rt></ruby>と<ruby>後<rt>うし</rt></ruby>ろを<ruby>反対<rt>はんたい</rt></ruby>に<ruby>着<rt>き</rt></ruby>ていたことに<span style=\"color:#ef6d13\"><ruby>気</ruby>がついた</span>。</p>",
+        "audio": "2026-01-20/22.気がつく-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i <span style=\"color:#ef6d13\">nhận ra</span> rằng m&igrave;nh mặc &aacute;o ph&ocirc;ng&nbsp;ngược trước sau.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KHÍ"
+  },
+  {
+    "word": "<p><ruby>気</ruby>になる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>きになる</p><p>lo lắng, bận t&acirc;m;</p><p>quan t&acirc;m (v&igrave; t&ograve; m&ograve;)</p>",
+    "audio": "2026-01-20/23.気になる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>昨日<rt>きのう</rt></ruby>のドラマの<ruby>続<rt>つづ</rt></ruby>きが<span style=\"color:#ef6d13\"><ruby>気</ruby>になる</span>。</p>",
+        "audio": "2026-01-20/23.気になる-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi rất <span style=\"color:#EF6D13\">tò mò</span> về phần tiếp theo của bộ phim hôm qua."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KHÍ"
+  },
+  {
+    "word": "<p><ruby>任</ruby>せる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>まかせる</p><p>giao ph&oacute;, ủy th&aacute;c</p>",
+    "audio": "2026-01-20/24.任せる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>将来<rt>しょうらい</rt></ruby>は、<ruby>息子<rt>むすこ</rt></ruby>に<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>経営<rt>けいえい</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>任</ruby>せる</span>つもりだ。</p>",
+        "audio": "2026-01-20/24.任せる-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Sau này tôi định <span style=\"color:#EF6D13\">giao</span> việc điều hành công ty cho con trai."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "NHÂM"
+  },
+  {
+    "word": "<p>素直</p>",
+    "word_stress": null,
+    "word_type": "Tính từ đuôi な",
+    "meaning": "<p>すなお</p><p>ngoan ngo&atilde;n, thẳng thắn</p>",
+    "audio": "2026-01-21/6.素直.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>妹は<span style=\"color:#ef6d13\">素直</span>な<ruby>性格<rt>せいかく</rt></ruby>で、あまり<ruby>文<rt>もん</rt></ruby><ruby>句<rt>く</rt></ruby>を言わない。</p>",
+        "audio": "2026-01-21/6.素直-例1.mp3"
+      },
+      {
+        "example": "<p>自分の間違いを<span style=\"color:#ef6d13\">素直</span>に<ruby>認<rt>みと</rt></ruby>めるのは難しい。</p>",
+        "audio": "2026-01-21/6.素直-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Em g&aacute;i t&ocirc;i c&oacute; t&iacute;nh c&aacute;ch <span style=\"color:#ef6d13\">ngoan ngo&atilde;n</span>, &iacute;t khi than phiền.</p>",
+      "<p>Thừa nhận sai lầm của bản th&acirc;n một c&aacute;ch<span style=\"color:#ef6d13\"> thẳng thắn</span> l&agrave; điều kh&ocirc;ng dễ d&agrave;ng.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỐ TRỰC"
+  },
+  {
+    "word": "<p><ruby>位置</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ, Danh động từ",
+    "meaning": "<p>いち</p><p>vị tr&iacute;, địa điểm, nằm ở</p>",
+    "audio": "2026-01-21/6.位置.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>千葉<rt>ちば</rt></ruby><ruby>県<rt>けん</rt></ruby>は<ruby>東京<rt>とうきょう</rt></ruby>の<ruby>東<rt>ひがし</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>位置</ruby></span>している。</p>",
+        "audio": "2026-01-21/6.位置-例1.mp3"
+      },
+      {
+        "example": "<p>この<ruby>駅<rt>えき</rt></ruby>は<ruby>町<rt>まち</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>位置</ruby></span>している。</p>",
+        "audio": "2026-01-21/6.位置-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tỉnh Chiba <span style=\"color:#EF6D13\">nằm ở</span> phía đông của Tokyo.",
+      "Ga này <span style=\"color:#EF6D13\">nằm</span> ngay trung tâm của thành phố."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "VỊ TRÍ"
+  },
+  {
+    "word": "<p><ruby>直</ruby>る</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>なおる</p><p>được sửa</p>",
+    "audio": "2026-01-20/2.直る.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>壊<rt>こわ</rt></ruby>れたギターが<ruby><span style=\"color:#ef6d13\">直</span></ruby><span style=\"color:#ef6d13\">った</span>。</p>",
+        "audio": "2026-01-20/2.直る-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>息子はつめをかむ癖がなかなか<span style=\"color:#ef6d13\">直らない</span>。</ruby></p>",
+        "audio": "2026-01-20/2.直る-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Đ&agrave;n ghita hỏng đ&atilde;<span style=\"color:#ef6d13\"> được sửa</span>.&nbsp;</p>",
+      "<p>Con trai t&ocirc;i c&oacute; th&oacute;i quen cắn m&oacute;ng tay m&atilde;i m&agrave; kh&ocirc;ng <span style=\"color:#ef6d13\">sửa</span> được.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỰC"
+  },
+  {
+    "word": "<p>〜<ruby>直</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>〜なおす</p><p>l&agrave;m lại</p>",
+    "audio": "2026-01-20/3.〜直す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>言い<span style=\"color:#ef6d13\"><ruby>直</ruby>す</span></p>",
+        "audio": "2026-01-20/3.〜直す-例1.mp3"
+      },
+      {
+        "example": "<p>書き<span style=\"color:#ef6d13\"><ruby>直</ruby>す</span></p>",
+        "audio": "2026-01-20/3.〜直す-例2.mp3"
+      },
+      {
+        "example": "<p>聞き<span style=\"color:#ef6d13\"><ruby>直</ruby>す</span></p>",
+        "audio": "2026-01-20/3.〜直す-例3.mp3"
+      },
+      {
+        "example": "<p>やり<span style=\"color:#ef6d13\">直す</span></p>",
+        "audio": "2026-01-20/3.〜直す-例4.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>n&oacute;i <span style=\"color:#ef6d13\">lại</span>, sửa <span style=\"color:#ef6d13\">lại</span> lời n&oacute;i</p>",
+      "<p>viết <span style=\"color:#ef6d13\">lại</span></p>",
+      "<p>nghe <span style=\"color:#ef6d13\">lại</span>, hỏi <span style=\"color:#ef6d13\">lại</span></p>",
+      "<p><span style=\"color:#ef6d13\">l&agrave;m lại</span></p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỰC"
+  },
+  {
+    "word": "<p><ruby>仲</ruby><ruby>直</ruby>り</p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>なかなおり</p><p>l&agrave;m l&agrave;nh, h&ograve;a giải</p>",
+    "audio": "2026-01-20/4.仲直り.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>友達<rt>ともだち</rt></ruby>とけんかしたが、<ruby>次<rt>つぎ</rt></ruby>の<ruby>日<rt>ひ</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>仲直</ruby>り</span>した。</p>",
+        "audio": "2026-01-20/4.仲直り-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>彼女<rt>かのじょ</rt></ruby>と<span style=\"color:#ef6d13\"><ruby>仲直</ruby>り</span>するのに１<ruby>週間<rt>しゅうかん</rt></ruby>かかった。</p>",
+        "audio": "2026-01-20/4.仲直り-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i đ&atilde; <span style=\"color:#ef6d13\">l&agrave;m h&ograve;a</span> với bạn v&agrave;o ng&agrave;y h&ocirc;m sau sau khi c&atilde;i nhau.&nbsp;</p>",
+      "<p>Phải mất một tuần t&ocirc;i mới <span style=\"color:#ef6d13\">l&agrave;m h&ograve;a </span>được với c&ocirc; ấy.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỌNG TRỰC"
+  },
+  {
+    "word": "<p><ruby>見</ruby><ruby>直</ruby>し</p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>みなおし</p><p>xem lại, đ&aacute;nh gi&aacute; lại</p>",
+    "audio": "2026-01-20/5.見直し.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>テストは、<ruby>提出<rt>ていしゅつ</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>必<rt>かなら</rt></ruby>ず<span style=\"color:#ef6d13\"><ruby>見</ruby><ruby>直</ruby>し</span>しよう。</p>",
+        "audio": "2026-01-20/5.見直し-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby><span style=\"color:#ef6d13\"><ruby>見</ruby><ruby>直</ruby>し</span>してから、レポートを<ruby>出<rt>だ</rt></ruby>した。</p>",
+        "audio": "2026-01-20/5.見直し-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Trước khi nộp b&agrave;i kiểm tra th&igrave; nhất định h&atilde;y <span style=\"color:#ef6d13\">xem lại </span>nh&eacute;.&nbsp;</p>",
+      "<p>T&ocirc;i đ&atilde; <span style=\"color:#ef6d13\">xem lại</span> nội dung một lần rồi mới nộp b&aacute;o c&aacute;o.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KIẾN TRỰC"
+  },
+  {
+    "word": "<p><ruby>代表</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>だいひょう</p><p>đại diện</p>",
+    "audio": "2026-01-21/7.代表.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>全校<rt>ぜんこう</rt></ruby><ruby>生徒<rt>せいと</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>代表</ruby></span>として、スピーチをする。</p>",
+        "audio": "2026-01-21/7.代表-例1.mp3"
+      },
+      {
+        "example": "<p>オリンピックの<span style=\"color:#ef6d13\"><ruby>代表</ruby></span><ruby>選手<rt>せんしゅ</rt></ruby>に<ruby>選<rt>えら</rt></ruby>ばれた。</p>",
+        "audio": "2026-01-21/7.代表-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Đại diện</span> cho học sinh to&agrave;n trường đọc b&agrave;i ph&aacute;t biểu.</p>",
+      "<p>Được chọn l&agrave; tuyển thủ <span style=\"color:#ef6d13\">đại diện</span> tham gia Olympic.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐẠI BIỂU"
+  },
+  {
+    "word": "<p><ruby>値</ruby><ruby>上</ruby>がり</p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>ねあがり</p><p>gi&aacute;, ph&iacute; tăng</p>",
+    "audio": "2026-01-20/8.値上がり.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>去年<rt>きょねん</rt></ruby>より<ruby>野菜<rt>やさい</rt></ruby>が<span style=\"color:#ef6d13\"><ruby>値</ruby><ruby>上</ruby>がりした</span>。</p>",
+        "audio": "2026-01-20/8.値上がり-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>魚<rt>さかな</rt></ruby>が<span style=\"color:#ef6d13\"><ruby>値</ruby><ruby>上</ruby>がり</span>して、なかなか<ruby>買<rt>か</rt></ruby>えない。</p>",
+        "audio": "2026-01-20/8.値上がり-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Rau&nbsp;đ&atilde;&nbsp;<span style=\"color:#ef6d13\">tăng gi&aacute;</span> hơn so với năm ngo&aacute;i.</p>",
+      "<p>C&aacute; <span style=\"color:#ef6d13\">l&ecirc;n gi&aacute;</span> n&ecirc;n m&atilde;i m&agrave; chưa mua nổi.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỊ THƯỢNG"
+  },
+  {
+    "word": "<p><ruby>待</ruby>ち<ruby>合</ruby>わせ</p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>まちあわせ</p><p>cuộc hẹn, hẹn gặp</p>",
+    "audio": "2026-01-20/9.待ち合わせ.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<span style=\"color:#ef6d13\"><ruby>待</ruby>ち<ruby>合</ruby>わせ</span>て、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>会場<rt>かいじょう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きましょう。</p>",
+        "audio": "2026-01-20/9.待ち合わせ-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Hẹn</span> gặp nhau trước nh&agrave; ga rồi c&ugrave;ng đi đến địa điểm tổ chức nh&eacute;.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐÃI HỢP"
+  },
+  {
+    "word": "<p><ruby>募</ruby><ruby>集</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>ぼしゅう</p><p>tuyển dụng, chi&ecirc;u mộ</p>",
+    "audio": "2026-01-20/10.募集.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>アルバイトを<span style=\"color:#ef6d13\"><ruby>募</ruby><ruby>集</ruby></span>する。</p>",
+        "audio": "2026-01-20/10.募集-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>人<rt>ひと</rt></ruby><ruby>手<rt>で</rt></ruby>が<ruby>足<rt>た</rt></ruby>りないので<ruby>社員<rt>しゃいん</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>募</ruby><ruby>集</ruby></span>をする。</p>",
+        "audio": "2026-01-20/10.募集-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Tuyển </span>người l&agrave;m th&ecirc;m.&nbsp;</p>",
+      "<p>V&igrave; thiếu nh&acirc;n lực n&ecirc;n<span style=\"color:#ef6d13\"> tuyển </span>th&ecirc;m nh&acirc;n vi&ecirc;n.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MỘ TẬP"
+  },
+  {
+    "word": "<p><ruby>応</ruby><ruby>募</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>おうぼ</p><p>đăng k&yacute;, ứng tuyển</p>",
+    "audio": "2026-01-20/11.応募.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>留学生を<ruby>積<rt>せっ</rt></ruby><ruby>極<rt>きょく</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>募<rt>ぼ</rt></ruby><ruby>集<rt>しゅう</rt></ruby>している会社に<span style=\"color:#ef6d13\"><ruby>応</ruby><ruby>募</ruby></span>しようと<ruby>思<rt>おも</rt></ruby>う。</p>",
+        "audio": "2026-01-20/11.応募-例1.mp3"
+      },
+      {
+        "example": "<p>この<ruby>会社<rt>かいしゃ</rt></ruby>は<ruby>給料<rt>きゅうりょう</rt></ruby>がいいので、<ruby>求<rt>きゅう</rt></ruby><ruby>人<rt>じん</rt>を出す</ruby>と<span style=\"color:#ef6d13\"><ruby>応</ruby><ruby>募</ruby></span>がたくさん<ruby>来<rt>く</rt></ruby>る。</p>",
+        "audio": "2026-01-20/11.応募-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>V&igrave; họ đang tuyển du học sinh n&ecirc;n t&ocirc;i định<span style=\"color:#ef6d13\"> ứng tuyển</span>.&nbsp;</p>",
+      "<p>V&igrave; c&ocirc;ng ty n&agrave;y trả lương cao n&ecirc;n hễ cứ đăng tuyển l&agrave; lại c&oacute; rất nhiều người<span style=\"color:#ef6d13\"> nộp đơn</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ỨNG MỘ"
+  },
+  {
+    "word": "<p><ruby>失礼</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ, Tính từ đuôi な, Danh từ",
+    "meaning": "<p>しつれい</p><p>thất lễ, bất lịch sự;</p><p>xin ph&eacute;p</p>",
+    "audio": "2026-01-21/12.失礼.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>あの<ruby>人<rt>ひと</rt></ruby>は、<ruby>目<rt>め</rt></ruby><ruby>上<rt>うえ</rt></ruby>の人に<span style=\"color:#ef6d13\"><ruby>失礼</ruby></span>な<ruby>態度<rt>たいど</rt></ruby>をとる。</p>",
+        "audio": "2026-01-21/12.失礼-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>失礼</ruby></span>ですが、お<ruby>名前<rt>なまえ</rt></ruby>は。</p>",
+        "audio": "2026-01-21/12.失礼-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Người&nbsp;đ&oacute; c&oacute; th&aacute;i độ <span style=\"color:#ef6d13\">v&ocirc; lễ </span>với người bề tr&ecirc;n.&nbsp;</p>",
+      "<p><span style=\"color:#ef6d13\">Xin lỗi</span>, bạn t&ecirc;n l&agrave; g&igrave;?</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THẤT LỄ"
+  },
+  {
+    "word": "<p><ruby>発展</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ, Danh từ",
+    "meaning": "<p>はってん</p><p>ph&aacute;t triển</p>",
+    "audio": "2026-01-21/13.発展.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>AIの<ruby>技<rt>ぎ</rt></ruby><ruby>術<rt>じゅつ</rt></ruby>は、年々<span style=\"color:#ef6d13\">発展</span>のスピードが増している。</p>",
+        "audio": "2026-01-21/13.発展-例1.mp3"
+      },
+      {
+        "example": "<p>ベトナムは<ruby>現在<rt>げんざい</rt></ruby><ruby>大</ruby>きく<span style=\"color:#ef6d13\"><ruby>発展</ruby></span>している。</p>",
+        "audio": "2026-01-21/13.発展-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Tốc độ <span style=\"color:#ef6d13\">ph&aacute;t triển </span>của c&ocirc;ng nghệ AI đang tăng l&ecirc;n theo từng năm.</p>",
+      "<p>Hiện tại Việt Nam đang<span style=\"color:#ef6d13\"> ph&aacute;t triển</span> rất lớn mạnh.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "PHÁT TRIỂN"
+  },
+  {
+    "word": "<p><ruby>仮</ruby><ruby>定</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>かてい</p><p>giả định, giả thiết</p>",
+    "audio": "2026-01-21/14.仮定.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>仮</ruby><ruby>定</ruby></span>の<ruby>話<rt>はなし</rt></ruby>ですが、もし<ruby>宝<rt>たから</rt></ruby>くじが<ruby>当<rt>あ</rt></ruby>たったらどうしますか？</p>",
+        "audio": "2026-01-21/14.仮定-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Giả sử</span> tr&uacute;ng xổ số th&igrave; bạn sẽ l&agrave;m g&igrave;?</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "GIẢ ĐỊNH"
+  },
+  {
+    "word": "<p><ruby>担任</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>たんにん</p><p>(gi&aacute;o vi&ecirc;n) chủ nhiệm, phụ tr&aacute;ch;</p><p>chịu tr&aacute;ch nhiệm</p>",
+    "audio": "2026-01-21/15.担任.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>私<rt>わたし</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>担任</ruby></span>の<ruby>先生<rt>せんせい</rt></ruby>は<ruby>佐藤<rt>さとう</rt></ruby><ruby>先生<rt>せんせい</rt></ruby>です。</p>",
+        "audio": "2026-01-21/15.担任-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Gi&aacute;o vi&ecirc;n chủ nhiệm </span>của t&ocirc;i l&agrave; c&ocirc; Satou.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐAM NHÂM"
+  },
+  {
+    "word": "<p><ruby>面接</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>めんせつ</p><p>phỏng vấn, vấn đ&aacute;p</p>",
+    "audio": "2026-01-21/16.面接.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>大事<rt>だいじ</rt></ruby>な<span style=\"color:#ef6d13\"><ruby>面接</ruby></span>なので、だらしない<ruby>服装<rt>ふくそう</rt></ruby>で<ruby>行<rt>い</rt></ruby>くわけにはいかない。</p>",
+        "audio": "2026-01-21/16.面接-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>V&igrave; đ&acirc;y l&agrave; <span style=\"color:#ef6d13\">buổi phỏng vấn</span> quan trọng n&ecirc;n kh&ocirc;ng thể ăn mặc luộm thuộm được.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DIỆN TIẾP"
+  },
+  {
+    "word": "<p><ruby>退職</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>たいしょく</p><p>nghỉ việc, từ chức</p>",
+    "audio": "2026-01-21/17.退職.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>最近<rt>さいきん</rt></ruby>は<ruby>入社<rt>にゅうしゃ</rt></ruby>してすぐに<span style=\"color:#ef6d13\"><ruby>退職</ruby></span>する<ruby>人<rt>ひと</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いらしい。</p>",
+        "audio": "2026-01-21/17.退職-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Gần đ&acirc;y nghe n&oacute;i c&oacute; nhiều người vừa v&agrave;o c&ocirc;ng ty đ&atilde; <span style=\"color:#ef6d13\">nghỉ việc.</span></p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THOÁI CHỨC"
+  },
+  {
+    "word": "<p><ruby>意</ruby><ruby>識</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>いしき</p><p>&yacute; thức, nhận thức</p>",
+    "audio": "2026-01-21/18.意識.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>事故<rt>じこ</rt></ruby>で<span style=\"color:#ef6d13\"><ruby>意</ruby><ruby>識</ruby></span>を<ruby>失<rt>うしな</rt></ruby>った。</p>",
+        "audio": "2026-01-21/18.意識-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>意</ruby><ruby>識</ruby></span>していないと、<ruby>声<rt>こえ</rt></ruby>が<ruby>小<rt>ちい</rt></ruby>さくなってしまう。</p>",
+        "audio": "2026-01-21/18.意識-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Bị tai nạn mất <span style=\"color:#ef6d13\">&yacute; thức</span>.</p>",
+      "<p>Nếu kh&ocirc;ng <span style=\"color:#ef6d13\">để &yacute;,</span> t&ocirc;i lại n&oacute;i nhỏ đi mất.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "Ý THỨC"
+  },
+  {
+    "word": "<p><ruby>生産</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>せいさん</p><p>sản xuất</p>",
+    "audio": "2026-01-21/19.生産.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>工場<rt>こうじょう</rt></ruby>は<ruby>車<rt>くるま</rt></ruby>を<ruby>毎日<rt>まいにち</rt></ruby>200<ruby>台<rt>だい</rt></ruby><span style=\"color:#ef6d13\"><ruby>生産</ruby></span>している。</p>",
+        "audio": "2026-01-21/19.生産-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>米<rt>こめ</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>生産</ruby></span><ruby>量<rt>りょう</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>多<rt>おお</rt></ruby>い<ruby>国<rt>くに</rt></ruby>は<ruby>中国<rt>ちゅうごく</rt></ruby>だ。</p>",
+        "audio": "2026-01-21/19.生産-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Nh&agrave; m&aacute;y n&agrave;y<span style=\"color:#ef6d13\"> sản xuất </span>200 xe &ocirc; t&ocirc; mỗi ng&agrave;y.&nbsp;</p>",
+      "<p>Trung Quốc l&agrave; quốc gia<span style=\"color:#ef6d13\"> sản xuất </span>gạo lớn nhất (thế giới).</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "SINH SẢN"
+  },
+  {
+    "word": "<p><ruby>応援</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>おうえん</p><p>cổ vũ, ủng hộ</p>",
+    "audio": "2026-01-21/20.応援.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>試合<rt>しあい</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>、<ruby>友達<rt>ともだち</rt></ruby>がずっと<span style=\"color:#ef6d13\"><ruby>応援</ruby></span>してくれていた。</p>",
+        "audio": "2026-01-21/20.応援-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Trong suốt trận đấu, t&ocirc;i đ&atilde; được bạn m&igrave;nh <span style=\"color:#ef6d13\">cổ vũ</span> kh&ocirc;ng ngừng</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ỨNG VIỆN"
+  },
+  {
+    "word": "<p><ruby>登</ruby><ruby>山</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh động từ",
+    "meaning": "<p>とざん</p><p>leo n&uacute;i</p>",
+    "audio": "2026-01-21/21.登山.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>私<rt>わたし</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>登</ruby><ruby>山</ruby></span>で、<ruby>毎<rt>まい</rt></ruby><ruby>月山<rt>つきやま</rt></ruby>に<ruby>登<rt>のぼ</rt></ruby>ります。</p>",
+        "audio": "2026-01-21/21.登山-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i c&oacute; sở th&iacute;ch<span style=\"color:#ef6d13\"> leo n&uacute;i </span>v&agrave; th&aacute;ng n&agrave;o cũng đi.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐĂNG SƠN"
+  },
+  {
+    "word": "<p><ruby>翌</ruby>〜</p>",
+    "word_stress": null,
+    "word_type": "Trợ từ",
+    "meaning": "<p>よく～</p><p>〜 sau/ tiếp theo</p>",
+    "audio": "2026-01-21/22.翌〜.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>翌</ruby></span><ruby>日<rt>じつ</rt></ruby></p>",
+        "audio": "2026-01-21/22.翌〜-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>翌</ruby></span><ruby>年<rt>とし</rt></ruby></p>",
+        "audio": "2026-01-21/22.翌〜-例2.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\">翌</span><ruby>週<rt>しゅう</rt></ruby></p>",
+        "audio": "2026-01-21/22.翌〜-例3.mp3"
+      },
+      {
+        "example": "<p><ruby>けんかした日の<span style=\"color:#ef6d13\">翌</span>朝、彼氏から電話で</ruby><ruby>仲<rt>なか</rt></ruby><ruby>直<rt>なお</rt></ruby>り<ruby>しようと言われた。</ruby></p>",
+        "audio": "2026-01-21/22.翌〜-例4.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>ng&agrave;y h&ocirc;m <span style=\"color:#ef6d13\">sau</span></p>",
+      "<p>năm<span style=\"color:#ef6d13\"> sau</span></p>",
+      "<p>tuần<span style=\"color:#ef6d13\"> sau</span></p>",
+      "<p>V&agrave;o s&aacute;ng h&ocirc;m <span style=\"color:#ef6d13\">sau </span>của ng&agrave;y bọn t&ocirc;i c&atilde;i nhau, bạn trai đ&atilde; gọi điện v&agrave; n&oacute;i rằng muốn l&agrave;m h&ograve;a.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DỰC"
+  },
+  {
+    "word": "<p>〜<ruby>産</ruby></p>",
+    "word_stress": null,
+    "word_type": "Trợ từ",
+    "meaning": "<p>～さん</p><p>sản xuất tại ~ (nơi sản xuất, nu&ocirc;i, trồng,...)</p>",
+    "audio": "2026-01-21/23.〜産.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>アメリカ<span style=\"color:#ef6d13\"><ruby>産</ruby></span></p>",
+        "audio": "2026-01-21/23.〜産-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>北海道<rt>ほっかいどう</rt></ruby><span style=\"color:#ef6d13\"><ruby>産</ruby></span></p>",
+        "audio": "2026-01-21/23.〜産-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Sản xuất tại </span>Mỹ</p>",
+      "<p><span style=\"color:#ef6d13\">Sản xuất tại </span>Hokkaido</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "SẢN"
+  },
+  {
+    "word": "<p>〜<ruby>製</ruby></p>",
+    "word_stress": null,
+    "word_type": "Trợ từ",
+    "meaning": "<p>～せい</p><p>chế tạo tại ~ (nơi lắp r&aacute;p, chế tạo,...)</p>",
+    "audio": "2026-01-21/24.〜製.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>外国<span style=\"color:#ef6d13\"><ruby>製</ruby></span></p>",
+        "audio": "2026-01-21/24.〜製-例1.mp3"
+      },
+      {
+        "example": "<p>中国<span style=\"color:#ef6d13\"><ruby>製</ruby></span></p>",
+        "audio": "2026-01-21/24.〜製-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>H&agrave;ng nước ngo&agrave;i</p>",
+      "<p>H&agrave;ng Trung Quốc</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CHẾ"
+  },
+  {
+    "word": "<p>〜<ruby>倍</ruby></p>",
+    "word_stress": null,
+    "word_type": "Trợ từ",
+    "meaning": "<p>～ばい</p><p>gấp ~ lần</p>",
+    "audio": "2026-01-21/25.〜倍.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>売<rt>う</rt></ruby>り<ruby>上<rt>あ</rt></ruby>げが<ruby>去年<rt>きょねん</rt></ruby>の3<span style=\"color:#ef6d13\"><ruby>倍</ruby></span>になった。</p>",
+        "audio": "2026-01-21/25.〜倍-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Doanh thu đ&atilde; tăng <span style=\"color:#ef6d13\">gấp</span> ba so với năm ngo&aacute;i.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BỘI"
+  },
+  {
+    "word": "<p><ruby>絶対</ruby></p>",
+    "word_stress": null,
+    "word_type": "Phó từ",
+    "meaning": "<p>ぜったい</p><p>tuyệt đối</p>",
+    "audio": "2026-01-21/26.絶対.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>この箱は<span style=\"color:#ef6d13\">絶対</span>に開けないでください。</ruby></p>",
+        "audio": "2026-01-21/26.絶対-例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>絶対</ruby></span>に<ruby>約束<rt>やくそく</rt></ruby>は<ruby>守<rt>まも</rt></ruby>る。</p>",
+        "audio": "2026-01-21/26.絶対-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>C&aacute;i hộp n&agrave;y <span style=\"color:#ef6d13\">tuyệt đối </span>kh&ocirc;ng được mở ra nh&eacute;.</p>",
+      "<p>Tớ <span style=\"color:#ef6d13\">nhất định </span>sẽ giữ lời hứa.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TUYỆT ĐỐI"
+  },
+  {
+    "word": "<p><ruby>直</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>なおす</p><p>sửa chữa, chỉnh sửa</p>",
+    "audio": "2026-01-20/1.直す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>壊<rt>こわ</rt></ruby>れたパソコンを<span style=\"color:#ef6d13\"><ruby>直</ruby>す</span>。</p>",
+        "audio": "2026-01-20/1.直す-例1.mp3"
+      },
+      {
+        "example": "<p>この<ruby>作文<rt>さくぶん</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>直</ruby>して</span>もらえませんか。</p>",
+        "audio": "2026-01-20/1.直す-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Sửa</span> máy tính bị hỏng.",
+      "<p>Bạn c&oacute; thể <span style=\"color:#ef6d13\">sửa</span> b&agrave;i văn n&agrave;y gi&uacute;p t&ocirc;i được kh&ocirc;ng?</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỰC"
+  },
+  {
+    "word": "<p><ruby>他</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ほか</p><p>kh&aacute;c, ngo&agrave;i ra</p>",
+    "audio": "2026-01-21/1. 他.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>私には分からないので<span style=\"color:#ef6d13\"><ruby>他</ruby></span>の人に聞いてください。</p>",
+        "audio": "2026-01-21/1. 他‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi không biết nên cậu hỏi người <span style=\"color:#EF6D13\">khác</span> đi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THA"
+  },
+  {
+    "word": "<p><ruby>他</ruby><ruby>人</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>たにん</p><p>người kh&aacute;c, người kh&ocirc;ng li&ecirc;n quan</p>",
+    "audio": "2026-01-21/2. 他人.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>他</ruby><ruby>人</ruby></span>に<ruby>迷惑<rt>めいわく</rt></ruby>をかけてはいけません。</p>",
+        "audio": "2026-01-21/2. 他人‐例1.mp3"
+      },
+      {
+        "example": "<p>彼は<span style=\"color:#ef6d13\"><ruby>他</ruby><ruby>人</ruby></span>の<ruby>意<rt>い</rt></ruby><ruby>見<rt>けん</rt></ruby>を聞いてばかりで、<ruby>自<rt>じ</rt></ruby><ruby>分<rt>ぶん</rt></ruby>の意見は<ruby>全然<rt>ぜんぜん</rt></ruby>言わない。</p>",
+        "audio": "2025-07-30/2.他人-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Không được gây phiền phức cho <span style=\"color:#EF6D13\">người khác</span>.",
+      "Anh ấy chỉ toàn nghe ý kiến của <span style=\"color:#EF6D13\">người khác</span> mà chẳng bao giờ nói ra ý kiến của mình."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THA NHÂN"
+  },
+  {
+    "word": "<p><ruby>手</ruby><ruby>伝</ruby>い</p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>てつだい</p><p>sự gi&uacute;p đỡ</p>",
+    "audio": "2026-01-21/3. 手伝い.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>息<rt>むす</rt></ruby><ruby>子<rt>こ</rt></ruby>はよく<ruby>家事<rt>かじ</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>手</ruby><ruby>伝</ruby>い</span>をしてくれる。</p>",
+        "audio": "2026-01-21/3. 手伝い‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Con trai hay <span style=\"color:#EF6D13\">giúp</span> tôi làm việc nhà."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỦ TRUYỀN"
+  },
+  {
+    "word": "<p><ruby>信号</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>しんごう</p><p>đ&egrave;n giao th&ocirc;ng</p>",
+    "audio": "2026-01-21/4. 信号.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby><span style=\"color:#ef6d13\">信号</span>が青になったら</ruby><ruby>渡<rt>わた</rt>りましょう。</ruby></p>",
+        "audio": "2026-01-21/4. 信号‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Khi <span style=\"color:#ef6d13\">đ&egrave;n giao th&ocirc;ng </span>chuyển sang m&agrave;u xanh th&igrave; ch&uacute;ng ta h&atilde;y sang đường.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TÍN HÀO"
+  },
+  {
+    "word": "<p><ruby>訳</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>わけ</p><p>l&yacute; do, nguy&ecirc;n nh&acirc;n, &yacute; nghĩa</p>",
+    "audio": "2026-01-21/5. 訳.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼がこんなことをするなんて、<span style=\"color:#ef6d13\">訳</span>がわからない。&nbsp;</p>",
+        "audio": "2025-07-02/5.訳-例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Kh&ocirc;ng hiểu <span style=\"color:#ef6d13\">l&iacute; do</span> tại sao anh ta lại l&agrave;m những việc như thế n&agrave;y.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DỊCH"
+  },
+  {
+    "word": "<p><ruby>体</ruby><ruby>調</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>たいちょう</p><p>t&igrave;nh trạng cơ thể</p>",
+    "audio": "2026-01-21/6. 体調.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>体</ruby><ruby>調</ruby></span>が<ruby>悪<rt>わる</rt></ruby>くて<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>休<rt>やす</rt></ruby>んだ。</p>",
+        "audio": "2026-01-21/6. 体調‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Cảm thấy kh&ocirc;ng khỏe n&ecirc;n t&ocirc;i&nbsp;đ&atilde; xin nghỉ l&agrave;m.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỂ ĐIỀU"
+  },
+  {
+    "word": "<p><ruby>調</ruby><ruby>味</ruby><ruby>料</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ちょうみりょう</p><p>gia vị</p>",
+    "audio": "2026-01-21/7.調味料.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>料<rt>りょう</rt></ruby><ruby>理<rt>り</rt></ruby>に<ruby>使<rt>つか</rt></ruby>う<span style=\"color:#ef6d13\"><ruby>調</ruby><ruby>味</ruby><ruby>料</ruby></span>は、<ruby>塩<rt>しお</rt></ruby>とこしょうだけです。</p>",
+        "audio": "2026-01-21/7.調味料‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Gia vị</span> cho m&oacute;n n&agrave;y, chỉ c&oacute; muối v&agrave; ti&ecirc;u&nbsp;th&ocirc;i.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐIỀU VỊ LIỆU"
+  },
+  {
+    "word": "<p><ruby>羊</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>ひつじ</p><p>con cừu</p>",
+    "audio": "2026-01-21/8. 羊.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>毛<rt>もう</rt></ruby><ruby>布<rt>ふ</rt></ruby>は<ruby>白<rt>しろ</rt></ruby>くてふわふわで、<span style=\"color:#ef6d13\"><ruby>羊</ruby></span>の<ruby>毛<rt>け</rt></ruby>みたいだ。</p>",
+        "audio": "2026-01-21/8. 羊‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Cái chăn này trắng và mềm mịn, giống như lông <span style=\"color:#EF6D13\">cừu</span> vậy."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DƯƠNG"
+  },
+  {
+    "word": "<p><ruby>交</ruby><ruby>差</ruby><ruby>点</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>こうさてん</p><p>ng&atilde; tư, giao lộ</p>",
+    "audio": "2026-01-21/9. 交差点.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<span style=\"color:#ef6d13\"><ruby>交</ruby><ruby>差</ruby><ruby>点</ruby></span>では、よく<ruby>事故<rt>じこ</rt></ruby>が<ruby>起<rt>お</rt></ruby>こります。</p>",
+        "audio": "2026-01-21/9. 交差点‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Ở <span style=\"color:#EF6D13\">ngã tư</span> này thường có tai nạn xảy ra."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "GIAO SAI ĐIỂM"
+  },
+  {
+    "word": "<p><ruby>差</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>さ</p><p>sự kh&aacute;c biệt, khoảng c&aacute;ch</p>",
+    "audio": "2026-01-21/10. 差.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>昼と夜の気温の<span style=\"color:#ef6d13\">差</span>が激しい。</p>",
+        "audio": "2026-01-21/10. 差‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Sự <span style=\"color:#ef6d13\">ch&ecirc;nh lệch</span> nhiệt độ giữa ng&agrave;y v&agrave; đ&ecirc;m rất lớn.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "SAI"
+  },
+  {
+    "word": "<p><ruby>美</ruby><ruby>術</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>びじゅつ</p><p>mỹ thuật</p>",
+    "audio": "2026-01-21/11. 美術.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この<ruby>学校<rt>がっこう</rt></ruby>には<span style=\"color:#ef6d13\"><ruby>美</ruby><ruby>術</ruby></span>の<ruby>専門<rt>せんもん</rt></ruby>クラスがある。</p>",
+        "audio": "2026-01-21/11. 美術‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Trường này có lớp chuyên về <span style=\"color:#EF6D13\">mỹ thuật</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MĨ THUẬT"
+  },
+  {
+    "word": "<p><ruby>美</ruby><ruby>人</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>びじん</p><p>mỹ nh&acirc;n, người đẹp</p>",
+    "audio": "2026-01-21/12. 美人.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>あの<ruby>女<rt>じょ</rt></ruby><ruby>優<rt>ゆう</rt></ruby><ruby>さ</ruby>ん、<ruby>写真<rt>しゃしん</rt></ruby>よりもずっと<span style=\"color:#ef6d13\"><ruby>美</ruby><ruby>人</ruby></span>だね。</p>",
+        "audio": "2026-01-21/12. 美人‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Nữ diễn vi&ecirc;n kia tr&ocirc;ng <span style=\"color:#ef6d13\">xinh</span> hơn nhiều so với trong ảnh.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MĨ NHÂN"
+  },
+  {
+    "word": "<p><ruby>美</ruby><ruby>容院</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>びよういん</p><p>tiệm l&agrave;m t&oacute;c</p>",
+    "audio": "2026-01-21/13. 美容院.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>東<rt>とう</rt></ruby><ruby>京<rt>きょう</rt></ruby>の<ruby>有名<rt>ゆうめい</rt></ruby>な<span style=\"color:#ef6d13\"><ruby>美</ruby><ruby>容院</ruby></span>で<ruby>髪<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>った。</p>",
+        "audio": "2026-01-21/13. 美容院‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã cắt tóc ở <span style=\"color:#EF6D13\">tiệm làm tóc</span> nổi tiếng tại Tokyo."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MĨ DUNG VIỆN"
+  },
+  {
+    "word": "<p><ruby>専門</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>せんもん</p><p>chuy&ecirc;n m&ocirc;n</p>",
+    "audio": "2026-01-21/14. 専門.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>これは私の<span style=\"color:#ef6d13\"><ruby>専門</ruby></span><ruby>外<rt>がい</rt></ruby>のことだ。</p>",
+        "audio": "2026-01-21/14. 専門‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Đ&acirc;y l&agrave; việc nằm ngo&agrave;i <span style=\"color:#ef6d13\">chuy&ecirc;n m&ocirc;n </span>của t&ocirc;i.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CHUYÊN MÔN"
+  },
+  {
+    "word": "<p><ruby>楽器</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>がっき</p><p>nhạc cụ</p>",
+    "audio": "2026-01-21/15. 楽器.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>新<rt>あたら</rt></ruby>しい<span style=\"color:#ef6d13\"><ruby>楽器</ruby></span>を買うために<ruby>貯金<rt>ちょきん</rt></ruby>をしている。</p>",
+        "audio": "2026-01-21/15. 楽器‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi để dành tiền để mua <span style=\"color:#EF6D13\">nhạc cụ</span> mới."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "LẠC KHÍ"
+  },
+  {
+    "word": "<p><ruby>首</ruby><ruby>相</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>しゅしょう</p><p>thủ tướng</p>",
+    "audio": "2026-01-21/16. 首相.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>今の<span style=\"color:#ef6d13\"><ruby>首</ruby><ruby>相</ruby></span>は<ruby>国民<rt>こくみん</rt></ruby>からあまり<ruby>支持<rt>しじ</rt></ruby>されていない。</p>",
+        "audio": "2026-01-21/16. 首相‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Thủ tướng</span> đương nhiệm hiện không nhận được nhiều sự ủng hộ từ phía người dân."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỦ TƯỚNG"
+  },
+  {
+    "word": "<p><ruby>女優</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>じょゆう</p><p>nữ diễn vi&ecirc;n</p>",
+    "audio": "2026-01-21/17. 女優.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>あの<span style=\"color:#ef6d13\"><ruby>女優</ruby></span>はウエストが<ruby>細<rt>ほそ</rt></ruby>くてスタイルがいいですね。</p>",
+        "audio": "2026-01-21/17. 女優‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Nữ diễn vi&ecirc;n ấy</span>&nbsp;eo thon m&agrave; d&aacute;ng cũng đẹp nữa nhỉ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "NỮ ƯU"
+  },
+  {
+    "word": "<p><ruby>俳優</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>はいゆう</p><p>diễn vi&ecirc;n</p>",
+    "audio": "2026-01-21/18. 俳優.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>あの<span style=\"color:#ef6d13\"><ruby>俳優</ruby></span>は<ruby>歌<rt>か</rt></ruby><ruby>手<rt>しゅ</rt></ruby>としても<ruby>活動<rt>かつどう</rt></ruby>している。</p>",
+        "audio": "2026-01-21/18. 俳優‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Diễn vi&ecirc;n</span> đ&oacute; cũng hoạt động như một ca sĩ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BÀI ƯU"
+  },
+  {
+    "word": "<p><ruby>画家</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>がか</p><p>họa sĩ</p>",
+    "audio": "2026-01-21/19. 画家.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>絵<rt>え</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>題名<rt>だいめい</rt></ruby>と<span style=\"color:#ef6d13\"><ruby>画家</ruby></span>の<ruby>名<rt>な</rt></ruby><ruby>前<rt>まえ</rt></ruby>が書いてある。</p>",
+        "audio": "2026-01-21/19. 画家‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Dưới bức tranh c&oacute; ghi t&ecirc;n tựa đề v&agrave; t&ecirc;n <span style=\"color:#ef6d13\">họa sĩ.</span></p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HỌA GIA"
+  },
+  {
+    "word": "<p><ruby>鼻水</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>はなみず</p><p>nước mũi</p>",
+    "audio": "2026-01-21/20. 鼻水.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>目<rt>め</rt></ruby>のかゆみや<span style=\"color:#ef6d13\"><ruby>鼻水</ruby></span>は<ruby>花<rt>か</rt></ruby><ruby>粉<rt>ふん</rt></ruby><ruby>症<rt>しょう</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>だ。</p>",
+        "audio": "2026-01-21/20. 鼻水‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Ngứa mắt và chảy <span style=\"color:#EF6D13\">nước mũi</span> là những triệu chứng của dị ứng phấn hoa."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỊ THỦY"
+  },
+  {
+    "word": "めまい",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "chóng mặt",
+    "audio": "2026-01-21/21. めまい.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>椅子<rt>いす</rt></ruby>から<ruby>立<rt>た</rt></ruby>ち<ruby>上<rt>あ</rt></ruby>がったとき<span style=\"color:#ef6d13\">めまい</span>がした。</p>",
+        "audio": "2026-01-21/21. めまい‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i cảm thấy <span style=\"color:#ef6d13\">ch&oacute;ng mặt</span> khi đứng dậy khỏi ghế.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><ruby>好</ruby>み</p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>このみ</p><p>&yacute; th&iacute;ch, gu, thị hiếu</p>",
+    "audio": "2026-01-21/22. 好み.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>ラテン<ruby>音楽<rt>おんがく</rt></ruby>は私の<span style=\"color:#ef6d13\"><ruby>好</ruby>み</span>ではない。</p>",
+        "audio": "2026-01-21/22. 好み‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Nhạc latinh kh&ocirc;ng phải l&agrave; <span style=\"color:#ef6d13\">gu</span> của t&ocirc;i.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HẢO"
+  },
+  {
+    "word": "<p><ruby>印</ruby><ruby>象</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>いんしょう</p><p>ấn tượng</p>",
+    "audio": "2026-01-21/1. 印象.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼に<ruby>対<rt>たい</rt></ruby>する<ruby>第一<rt>だいいち</rt></ruby><span style=\"color:#ef6d13\"><ruby>印</ruby><ruby>象</ruby></span>は<ruby>良<rt>よ</rt></ruby>くなかった。</p>",
+        "audio": "2025-07-02/26.印象-例1.mp3"
+      },
+      {
+        "example": "<p>あのシーンが<span style=\"color:#ef6d13\"><ruby>印</ruby><ruby>象</ruby></span>に<ruby>残<rt>のこ</rt></ruby>った。</p>",
+        "audio": "2026-01-21/1. 印象‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Ấn tượng</span> đầu tiên của tôi về anh ấy không tốt.",
+      "Cảnh quay đó đã để lại <span style=\"color:#EF6D13\">ấn tượng</span> cho tôi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ẤN TƯỢNG"
+  },
+  {
+    "word": "メッセージ",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "tin nhắn, thông điệp",
+    "audio": "2026-01-21/5. メッセージ.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>友達<rt>ともだち</rt></ruby>からＳＮＳで<span style=\"color:#ef6d13\">メッセージ</span>が<ruby>届<rt>とど</rt></ruby>いた。</p>",
+        "audio": "2026-01-21/5. メッセージ‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi nhận được <span style=\"color:#EF6D13\">tin nhắn</span> từ một người bạn trên SNS."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "message"
+  },
+  {
+    "word": "ヘルメット",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "mũ bảo hiểm",
+    "audio": "2026-01-21/6. ヘルメット.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>バイクに<ruby>乗<rt>の</rt></ruby>る時は、<span style=\"color:#ef6d13\">ヘルメット</span>をかぶらなければならない。</p>",
+        "audio": "2026-01-28/6. ヘルメット‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Khi đi xe m&aacute;y, phải đội <span style=\"color:#ef6d13\">mũ bảo hiểm</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "helmet"
+  },
+  {
+    "word": "ファイル",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>tập tin</p>",
+    "audio": "2026-01-21/7. ファイル.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">ファイル</span>を<ruby>間<rt>まち</rt></ruby><ruby>違<rt>が</rt></ruby>って<ruby>削除<rt>さくじょ</rt></ruby>してしまった。</p>",
+        "audio": "2026-01-21/7. ファイル‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã lỡ xóa nhầm <span style=\"color:#EF6D13\">file</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "file"
+  },
+  {
+    "word": "アルバム",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "album",
+    "audio": "2026-01-21/8. アルバム.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>旅行<rt>りょこう</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>を<span style=\"color:#ef6d13\">アルバム</span>にまとめた。</p>",
+        "audio": "2026-01-21/8. アルバム‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã tổng hợp ảnh chuyến du lịch vào <span style=\"color:#EF6D13\">album</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><ruby>夜</ruby><ruby>中</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>よなか</p><p>nửa đ&ecirc;m, ban đ&ecirc;m</p>",
+    "audio": "2026-01-21/9. 夜中.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>夜</ruby><ruby>中</ruby></span>にゲームをしていて、<ruby>気<rt>き</rt></ruby>づいたら<ruby>朝<rt>あさ</rt></ruby>になっていた。</p>",
+        "audio": "2026-01-21/9. 夜中‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi mải chơi game <span style=\"color:#EF6D13\">suốt đêm</span>, đến khi nhận ra thì trời đã sáng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DẠ TRUNG"
+  },
+  {
+    "word": "<p><ruby>土地</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>とち</p><p>đất đai</p>",
+    "audio": "2026-01-21/10. 土地.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼は<ruby>新<rt>あたら</rt></ruby>しい<span style=\"color:#ef6d13\"><ruby>土地</ruby></span>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>した。</p>",
+        "audio": "2026-01-28/10. 土地‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Anh ấy vừa chuyển đến một <span style=\"color:#EF6D13\">vùng đất</span> mới."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỔ ĐỊA"
+  },
+  {
+    "word": "<p><ruby>観光</ruby><ruby>地</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>かんこうち</p><p>địa điểm du lịch</p>",
+    "audio": "2026-01-21/11. 観光地.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>ハノイのおすすめの<span style=\"color:#ef6d13\"><ruby>観光</ruby><ruby>地</ruby></span>を<ruby>教<rt>おし</rt></ruby>えてください。</p>",
+        "audio": "2026-01-21/11. 観光地‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Bạn có thể gợi ý cho mình vài <span style=\"color:#EF6D13\">địa điểm du lịch</span> ở Hà Nội không?"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "QUAN QUANG ĐỊA"
+  },
+  {
+    "word": "<p><ruby>不思議</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nTính từ な",
+    "meaning": "<p>ふしぎ</p><p>kh&oacute; hiểu, kỳ lạ</p>",
+    "audio": "2026-01-21/13. 不思議.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>このパソコンは<ruby>古<rt>ふる</rt></ruby>いので、いつ<ruby>壊<rt>こわ</rt></ruby>れても<span style=\"color:#ef6d13\"><ruby>不思議</ruby></span>ではない。</p>",
+        "audio": "2026-01-21/13. 不思議‐例1.mp3"
+      },
+      {
+        "example": "<p>この<ruby>教<rt>きょう</rt></ruby><ruby>室<rt>しつ</rt></ruby>では、<span style=\"color:#ef6d13\"><ruby>不思議</ruby>な</span>ことが起こる。</p>",
+        "audio": "2026-01-21/13. 不思議‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Chiếc máy tính này cũ rồi, nên có hỏng lúc nào cũng không có gì <span style=\"color:#EF6D13\">lạ</span>.",
+      "Những chuyện <span style=\"color:#EF6D13\">kỳ lạ</span> xảy ra trong lớp học này."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "BẤT TƯ NGHỊ"
+  },
+  {
+    "word": "プロフェッショナル",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nTính từ な",
+    "meaning": "<p>chuy&ecirc;n nghiệp</p><p>(thường được viết r&uacute;t gọn th&agrave;nh プロ)</p>",
+    "audio": "2026-01-21/14. プロフェッショナル.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>私たちはアマチュアではなく、<span style=\"color:#ef6d13\">プロフェッショナル</span>として<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>をしています。</p>",
+        "audio": "2026-01-28/14. プロフェッショナル‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Ch&uacute;ng t&ocirc;i l&agrave;m việc như những người <span style=\"color:#ef6d13\">chuy&ecirc;n nghiệp</span>, kh&ocirc;ng phải nghiệp dư.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "professional"
+  },
+  {
+    "word": "<p><ruby>一</ruby><ruby>流</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nTính từ な",
+    "meaning": "<p>いちりゅう</p><p>h&agrave;ng đầu, đẳng cấp</p>",
+    "audio": "2026-01-21/15. 一流.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>一</ruby><ruby>流</ruby></span><ruby>企<rt>き</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>に<ruby>勤<rt>つと</rt></ruby>める。</p>",
+        "audio": "2026-01-21/15. 一流‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi làm việc tại công ty <span style=\"color:#EF6D13\">hàng đầu</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "NHẤT LƯU"
+  },
+  {
+    "word": "<p><ruby>伝統的</ruby></p>",
+    "word_stress": null,
+    "word_type": "Tính từ な",
+    "meaning": "<p>でんとうてき</p><p>mang t&iacute;nh truyền thống</p>",
+    "audio": "2026-01-21/16. 伝統的.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>伝統的</ruby>な</span><ruby>文<rt>ぶん</rt></ruby><ruby>化<rt>か</rt></ruby>を<ruby>後世<rt>こうせい</rt></ruby>に<ruby>残<rt>のこ</rt></ruby>したい。</p>",
+        "audio": "2026-01-21/16. 伝統的‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi muốn lưu giữ văn hóa <span style=\"color:#EF6D13\">truyền thống</span> cho thế hệ tương lai."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRUYỀN THỐNG ĐÍCH"
+  },
+  {
+    "word": "<p><ruby>険</ruby>しい</p>",
+    "word_stress": null,
+    "word_type": "Tính từ い",
+    "meaning": "<p>けわしい</p><p>dốc, hiểm trở;</p><p>(n&eacute;t mặt, th&aacute;i độ) nghi&ecirc;m nghị, dữ tợn</p>",
+    "audio": "2026-01-21/17. 険しい.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>険</ruby>しい</span><ruby>山道<rt>やまみち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>く。</p>",
+        "audio": "2026-01-21/17. 険しい‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>部<rt>ぶ</rt></ruby><ruby>長<rt>ちょう</rt></ruby>は<ruby>腕<rt>うで</rt></ruby>を<ruby>組<rt>く</rt></ruby>んで<span style=\"color:#ef6d13\"><ruby>険</ruby>しい</span><ruby>表情<rt>ひょうじょう</rt></ruby>をしている。</p>",
+        "audio": "2026-01-21/17. 険しい‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i đi bộ tr&ecirc;n con đường n&uacute;i <span style=\"color:#ef6d13\">dốc v&agrave; hiểm trở</span>.</p>",
+      "<p>Sếp đang khoanh tay, n&eacute;t mặt tr&ocirc;ng c&oacute; vẻ <span style=\"color:#ef6d13\">gay gắt</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HIỂM"
+  },
+  {
+    "word": "<p><ruby>申</ruby>し<ruby>訳</ruby>ない</p>",
+    "word_stress": null,
+    "word_type": "Tính từ い",
+    "meaning": "<p>もうしわけない</p><p>xin lỗi, thật &aacute;y n&aacute;y</p>",
+    "audio": "2026-01-21/18. 申し訳ない.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼に<ruby>対<rt>たい</rt></ruby>して<span style=\"color:#ef6d13\"><ruby>申</ruby>し<ruby>訳</ruby>ない</span>ことをした。</p>",
+        "audio": "2026-01-21/18. 申し訳ない‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã làm chuyện <span style=\"color:#EF6D13\">có lỗi</span> với anh ấy."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THÂN DỊCH"
+  },
+  {
+    "word": "<p><ruby>伝</ruby>わる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>つたわる</p><p>được truyền đi, lan truyền</p>",
+    "audio": "2026-01-21/19. 伝わる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>明治時<rt>めいじじ</rt></ruby><ruby>代<rt>だい</rt></ruby>に、日本に<ruby>欧米<rt>おうべい</rt></ruby>の<ruby>文<rt>ぶん</rt></ruby><ruby>化<rt>か</rt></ruby>が<span style=\"color:#ef6d13\">伝わった</span>。</p>",
+        "audio": "2026-01-28/19. 伝わる‐例1.mp3"
+      },
+      {
+        "example": "<p>この<ruby>素<rt>そ</rt></ruby><ruby>材<rt>ざい</rt></ruby>は<ruby>熱<rt>ねつ</rt></ruby>がよく<span style=\"color:#ef6d13\"><ruby>伝</ruby>わる</span>。</p>",
+        "audio": "2026-01-21/19. 伝わる‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Văn h&oacute;a &Acirc;u Mỹ đ&atilde; <span style=\"color:#ef6d13\">được truyền b&aacute; </span>v&agrave;o Nhật Bản v&agrave;o thời kỳ Minh Trị.</p>",
+      "Vật liệu này <span style=\"color:#EF6D13\">dẫn</span> nhiệt tốt."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRUYỀN"
+  },
+  {
+    "word": "<p><ruby>似合</ruby>う</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>にあう</p><p>hợp</p>",
+    "audio": "2026-01-21/20. 似合う.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>赤<rt>あか</rt></ruby>い<ruby>服<rt>ふく</rt></ruby>がよく<span style=\"color:#ef6d13\"><ruby>似</ruby>合う</span>。</p>",
+        "audio": "2026-01-28/20. 似合う‐例1.mp3"
+      },
+      {
+        "example": "<p>私の<ruby>祖父<rt>そふ</rt></ruby>は、<ruby>年<rt>とし</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>似合</ruby>わ</span>ず<ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>だ。</p>",
+        "audio": "2026-01-21/20. 似合う‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>C&ocirc; ấy <span style=\"color:#ef6d13\">hợp</span> với&nbsp;quần &aacute;o m&agrave;u đỏ.</p>",
+      "Ông tôi khỏe mạnh hơn so với tuổi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỰ HỢP"
+  },
+  {
+    "word": "<p><ruby>信</ruby>じる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>しんじる</p><p>tin tưởng</p>",
+    "audio": "2026-01-21/21. 信じる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼の<ruby>話<rt>はなし</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>信</ruby>じる</span>。</p>",
+        "audio": "2026-01-21/21. 信じる‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi <span style=\"color:#EF6D13\">tin</span> vào câu chuyện của anh ấy."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TÍN"
+  },
+  {
+    "word": "<p><ruby>訳</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>やくす</p><p>dịch, chuyển ngữ</p>",
+    "audio": "2026-01-21/22. 訳す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>英語をベトナム語に<span style=\"color:#ef6d13\">訳す</span>のは難しい時もある。</p>",
+        "audio": "2026-01-21/22. 訳す‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Đ&ocirc;i khi <span style=\"color:#ef6d13\">dịch </span>tiếng Anh sang tiếng Việt cũng kh&oacute;.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "DỊCH"
+  },
+  {
+    "word": "<p><ruby>許</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>ゆるす</p><p>cho ph&eacute;p; tha thứ</p>",
+    "audio": "2026-01-21/23. 許す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>あなたのことは<ruby>絶対<rt>ぜったい</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>許</ruby>さない</span>。</p>",
+        "audio": "2026-01-21/23. 許す‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>娘<rt>むすめ</rt></ruby>が<ruby>遊<rt>あそ</rt></ruby>びに行くのを<span style=\"color:#ef6d13\"><ruby>許</ruby>した</span>。</p>",
+        "audio": "2026-01-21/23. 許す‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi tuyệt đối không <span style=\"color:#EF6D13\">tha thứ</span> cho bạn.",
+      "<span style=\"color:#EF6D13\">Cho phép</span> con gái đi chơi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HỨA"
+  },
+  {
+    "word": "<p><ruby>差</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>さす</p><p>giương (&ocirc;), chiếu (&aacute;nh s&aacute;ng), nhỏ (thuốc mắt)</p>",
+    "audio": "2026-01-21/24. 差す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>傘を<span style=\"color:#ef6d13\">差して</span>歩く。</p>",
+        "audio": "2026-01-21/24. 差す‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>部屋<rt>へや</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>日<rt>ひ</rt></ruby>が<span style=\"color:#ef6d13\"><ruby>差</ruby>してきた</span>。</p>",
+        "audio": "2026-01-21/24. 差す‐例2.mp3"
+      },
+      {
+        "example": "<p><ruby>目<rt>め</rt></ruby>が<ruby>疲<rt>つか</rt></ruby>れたので<ruby>目<rt>め</rt></ruby><ruby>薬<rt>ぐすり</rt></ruby>を<span style=\"color:#ef6d13\">さす</span>。</p>",
+        "audio": "2026-01-21/24. 差す‐例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i <span style=\"color:#ef6d13\">giương </span>&ocirc; v&agrave; đi bộ.</p>",
+      "<p>Mặt trời <span style=\"color:#ef6d13\">chiếu</span> v&agrave;o trong ph&ograve;ng.</p>",
+      "Mỏi mắt quá nên <span style=\"color:#EF6D13\">nhỏ</span> thuốc nhỏ mắt"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "SAI"
+  },
+  {
+    "word": "<p><ruby>治</ruby>す</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>なおす</p><p>chữa, trị (bệnh)</p>",
+    "audio": "2026-01-21/25. 治す.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>ゆっくり<ruby>休<rt>やす</rt></ruby>んで、<ruby>病<rt>びょう</rt></ruby><ruby>気<rt>き</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>治</ruby>してください</span>。</p>",
+        "audio": "2026-01-21/25. 治す‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Hãy nghỉ ngơi thật tốt và <span style=\"color:#EF6D13\">chữa khỏi</span> bệnh."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRỊ"
+  },
+  {
+    "word": "<p><ruby>飼</ruby>う</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>かう</p><p>nu&ocirc;i, chăm s&oacute;c động vật</p>",
+    "audio": "2026-01-21/26. 飼う.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>このマンションではペットを<span style=\"color:#ef6d13\"><ruby>飼</ruby>う</span>ことができる。</p>",
+        "audio": "2026-01-21/26. 飼う‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Ở chung cư này bạn có thể <span style=\"color:#EF6D13\">nuôi</span> thú cưng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỰ"
+  },
+  {
+    "word": "<p><ruby>謝</ruby>る</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>あやまる</p><p>xin lỗi</p>",
+    "audio": "2026-01-21/27. 謝る.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>日本では<span style=\"color:#ef6d13\"><ruby>謝</ruby>る</span>ときに<ruby>頭<rt>あたま</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げます。</p>",
+        "audio": "2026-01-21/27. 謝る‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Ở Nhật Bản, khi <span style=\"color:#EF6D13\">xin lỗi</span> người ta thường cúi đầu."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TẠ"
+  },
+  {
+    "word": "<p><ruby>転</ruby>ぶ</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>ころぶ</p><p>ng&atilde;, t&eacute;</p>",
+    "audio": "2026-01-21/28. 転ぶ.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>転</ruby>んで</span>足をけがしてしまった。</p>",
+        "audio": "2026-01-21/28. 転ぶ‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã <span style=\"color:#EF6D13\">ngã</span> và bị thương ở chân."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CHUYỂN"
+  },
+  {
+    "word": "<p><ruby>濡</ruby>れる</p>",
+    "word_stress": null,
+    "word_type": "Động từ",
+    "meaning": "<p>ぬれる</p><p>bị ướt</p>",
+    "audio": "2026-01-21/29. 濡れる.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>雨<rt>あめ</rt></ruby>で<ruby>服<rt>ふく</rt></ruby>が<span style=\"color:#ef6d13\"><ruby>濡</ruby>れた</span>。</p>",
+        "audio": "2026-01-21/29. 濡れる‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Quần áo <span style=\"color:#EF6D13\">bị ướt</span> vì trời mưa."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "NHU"
+  },
+  {
+    "word": "<p><ruby>免許</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "<p>めんきょ</p><p>giấy ph&eacute;p, bằng cấp/ cấp ph&eacute;p</p>",
+    "audio": "2026-01-21/12. 免許.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>車を<ruby>運転<rt>うんてん</rt></ruby>するには、<span style=\"color:#ef6d13\">免許</span>が<ruby>必要<rt>ひつよう</rt></ruby>だ。</p>",
+        "audio": "2026-01-28/12. 免許‐例1.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Để l&aacute;i xe &ocirc; t&ocirc; th&igrave; cần c&oacute; <span style=\"color:#ef6d13\">bằng l&aacute;i.</span></p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "MIỄN HỨA"
+  },
+  {
+    "word": "アマチュア",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "nghiệp dư",
+    "audio": "2026-01-21/2. アマチュア.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">アマチュア</span>のスポーツ<ruby>大会<rt>たいかい</rt></ruby>に<ruby>参<rt>さん</rt></ruby><ruby>加<rt>か</rt></ruby>する。</p>",
+        "audio": "2026-01-21/2. アマチュア‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tham gia các giải đấu thể thao <span style=\"color:#EF6D13\">nghiệp dư</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "amateur"
+  },
+  {
+    "word": "コマーシャル",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "thương mại, quảng cáo",
+    "audio": "2026-01-21/3. コマーシャル.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>その<span style=\"color:#ef6d13\">コマーシャル</span>は<ruby>若者<rt>わかもの</rt></ruby>の<ruby>関心<rt>かんしん</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きつけた。</p>",
+        "audio": "2026-01-21/3. コマーシャル‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Quảng c&aacute;o</span> đ&oacute; đ&atilde; thu h&uacute;t sự quan t&acirc;m của giới trẻ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "commercial"
+  },
+  {
+    "word": "タイトル",
+    "word_stress": null,
+    "word_type": "Danh từ",
+    "meaning": "tựa đề, tiêu đề",
+    "audio": "2026-01-21/4. タイトル.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>先<rt>せん</rt></ruby><ruby>週<rt>しゅう</rt></ruby>見た<ruby>映<rt>えい</rt></ruby><ruby>画<rt>が</rt></ruby>の<span style=\"color:#ef6d13\">タイトル</span>を<ruby>忘<rt>わす</rt></ruby>れてしまった。</p>",
+        "audio": "2026-01-21/4. タイトル‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã quên <span style=\"color:#EF6D13\">tên</span> bộ phim tôi xem tuần trước."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "title"
+  },
+  {
+    "word": "<p><ruby>伝言</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>でんごん</p><p>lời nhắn, th&ocirc;ng điệp, truyền lời</p>",
+    "audio": "2026-01-21/1. 伝言.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>不<rt>ふ</rt></ruby><ruby>参<rt>さん</rt></ruby><ruby>加<rt>か</rt></ruby>の人に<span style=\"color:#ef6d13\"><ruby>伝言</ruby></span>をする。</p>",
+        "audio": "2026-01-21/1. 伝言‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>息<rt>むす</rt></ruby><ruby>子<rt>こ</rt></ruby>に<span style=\"color:#ef6d13\"><ruby>伝言</ruby></span>を<ruby>残<rt>のこ</rt></ruby>す。</p>",
+        "audio": "2026-01-21/1. 伝言‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Truyền đạt</span> lại cho những người không tham gia.",
+      "Để lại <span style=\"color:#EF6D13\">lời nhắn</span> cho con trai."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TRUYỀN NGÔN"
+  },
+  {
+    "word": "<p><ruby>自</ruby><ruby>信</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>じしん</p><p>tự tin</p>",
+    "audio": "2026-01-21/2. 自信.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>運動<rt>うんどう</rt></ruby>には<span style=\"color:#ef6d13\"><ruby>自</ruby><ruby>信</ruby></span>がある。</p>",
+        "audio": "2026-01-21/2. 自信‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>失敗<rt>しっぱい</rt></ruby>して、<span style=\"color:#ef6d13\"><ruby>自</ruby><ruby>信</ruby></span>を<ruby>失<rt>うしな</rt></ruby>った。</p>",
+        "audio": "2026-01-21/2. 自信‐例2.mp3"
+      },
+      {
+        "example": "<p><ruby>練<rt>れん</rt></ruby><ruby>習<rt>しゅう</rt></ruby>で<ruby>成功<rt>せいこう</rt></ruby>し、<span style=\"color:#ef6d13\"><ruby>自</ruby><ruby>信</ruby></span>がついた。</p>",
+        "audio": "2026-01-21/2. 自信‐例3.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Tự tin</span> về khả năng vận động.",
+      "Tôi đánh mất <span style=\"color:#EF6D13\">sự tự tin</span> sau thất bại.",
+      "Thành công trong luyện tập giúp tôi có được <span style=\"color:#EF6D13\">sự tự tin</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỰ TÍN"
+  },
+  {
+    "word": "<p><ruby>宣伝</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>せんでん</p><p>tuy&ecirc;n truyền, quảng c&aacute;o</p>",
+    "audio": "2026-01-21/3. 宣伝.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>新<rt>しん</rt></ruby><ruby>商<rt>しょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>宣伝</ruby></span>をする。</p>",
+        "audio": "2026-01-21/3. 宣伝‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Tuyên truyền</span>, quảng bá sản phẩm mới."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TUYÊN TRUYỀN"
+  },
+  {
+    "word": "<p><ruby>信用</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>しんよう</p><p>tin tưởng, t&iacute;n nhiệm</p>",
+    "audio": "2026-01-21/4. 信用.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>友達<rt>ともだち</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>信用</ruby></span>してお金を<ruby>貸<rt>か</rt></ruby>す。</p>",
+        "audio": "2026-01-21/4. 信用‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>調<rt>ちょう</rt></ruby><ruby>査<rt>さ</rt></ruby>の<ruby>結<rt>けっ</rt></ruby><ruby>果<rt>か</rt></ruby>、この<ruby>会社<rt>かいしゃ</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>信用</ruby></span>できないことがわかった。</p>",
+        "audio": "2026-01-21/4. 信用‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi <span style=\"color:#EF6D13\">tin tưởng</span> và cho bạn vay tiền.",
+      "Kết quả điều tra cho thấy không thể <span style=\"color:#EF6D13\">tin tưởng</span> được công ty này."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TÍN DỤNG"
+  },
+  {
+    "word": "<p><ruby>受信</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>じゅしん</p><p>nhận t&iacute;n hiệu (vệ tinh,..);</p><p>nhận tin nhắn, email,...</p>",
+    "audio": "2026-01-21/5. 受信.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>携帯電<rt>けいたいでん</rt></ruby><ruby>話<rt>わ</rt></ruby>は<ruby>無<rt>む</rt></ruby><ruby>線信号<rt>せんしんごう</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>受信</ruby></span>することができる。</p>",
+        "audio": "2026-01-21/5. 受信‐例1.mp3"
+      },
+      {
+        "example": "<p>メールを<span style=\"color:#ef6d13\"><ruby>受信</ruby>した</span>。</p>",
+        "audio": "2026-01-21/5. 受信‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Điện thoại di động có thể <span style=\"color:#EF6D13\">nhận tín hiệu</span> không dây.",
+      "Tôi đã <span style=\"color:#EF6D13\">nhận</span> được email."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THỤ TÍN"
+  },
+  {
+    "word": "<p><ruby>送信</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>そうしん</p><p>gửi t&iacute;n hiệu, gửi tin nhắn</p>",
+    "audio": "2026-01-21/6. 送信.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>SNSでメッセージを<span style=\"color:#ef6d13\"><ruby>送信</ruby>する</span>。</p>",
+        "audio": "2026-01-21/6. 送信‐例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>送信</ruby></span>エラーが<ruby>発生<rt>はっせい</rt></ruby>して、メールが<ruby>送<rt>おく</rt></ruby>れなかった。</p>",
+        "audio": "2026-01-21/6. 送信‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi <span style=\"color:#EF6D13\">gửi</span> tin nhắn qua SNS.",
+      "Có lỗi khi <span style=\"color:#EF6D13\">gửi</span> tin nhắn nên không gửi được."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TỐNG TÍN"
+  },
+  {
+    "word": "<p><ruby>返信</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>へんしん</p><p>phản hồi, hồi &acirc;m</p>",
+    "audio": "2026-01-21/7. 返信.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>佐<rt>さ</rt></ruby><ruby>藤<rt>とう</rt></ruby>さんはいつも<span style=\"color:#ef6d13\"><ruby>返信</ruby></span>が<ruby>早<rt>はや</rt></ruby>い。</p>",
+        "audio": "2026-01-21/7. 返信‐例1.mp3"
+      },
+      {
+        "example": "<p>このメールを見たら、すぐに<span style=\"color:#ef6d13\"><ruby>返信</ruby>して</span>ください。</p>",
+        "audio": "2026-01-21/7. 返信‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Anh Satou luôn <span style=\"color:#EF6D13\">phản hồi</span> nhanh.",
+      "Xem được email thì hãy <span style=\"color:#EF6D13\">phản hồi</span> ngay nhé."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "PHẢN TÍN"
+  },
+  {
+    "word": "<p><ruby>許</ruby><ruby>可</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>きょか</p><p>cấp ph&eacute;p, cho ph&eacute;p</p>",
+    "audio": "2026-01-21/8. 許可.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>息<rt>むす</rt></ruby><ruby>子<rt>こ</rt></ruby>が<ruby>高校<rt>こうこう</rt></ruby>の<ruby>寮<rt>りょう</rt></ruby>に<ruby>入<rt>はい</rt></ruby>るのを<span style=\"color:#ef6d13\"><ruby>許</ruby><ruby>可</ruby>した</span>。</p>",
+        "audio": "2026-01-21/8. 許可‐例1.mp3"
+      },
+      {
+        "example": "<p>アルバイトをするには<ruby>親<rt>おや</rt></ruby>の<span style=\"color:#ef6d13\"><ruby>許</ruby><ruby>可</ruby></span>が<ruby>必要<rt>ひつよう</rt></ruby>です。</p>",
+        "audio": "2026-01-21/8. 許可‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã <span style=\"color:#EF6D13\">cho phép</span> con trai vào ký túc xá của trường trung học.",
+      "Cần có <span style=\"color:#EF6D13\">sự cho phép</span> của phụ huynh để được đi làm part-time."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "HỨA KHẢ"
+  },
+  {
+    "word": "<p><ruby>通訳</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>つうやく</p><p>th&ocirc;ng dịch, phi&ecirc;n dịch</p>",
+    "audio": "2026-01-21/9. 通訳.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>日本語からベトナム語への<span style=\"color:#ef6d13\"><ruby>通訳</ruby></span>をする。</p>",
+        "audio": "2026-01-21/9. 通訳‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>将<rt>しょう</rt></ruby><ruby>来<rt>らい</rt></ruby>は、<span style=\"color:#ef6d13\"><ruby>通訳</ruby></span>の<ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby>をしたい。</p>",
+        "audio": "2026-01-21/9. 通訳‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Phi&ecirc;n dịch</span> từ tiếng Nhật sang tiếng Việt.</p>",
+      "Tương lai tôi muốn làm công việc <span style=\"color:#EF6D13\">phiên dịch</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "THÔNG DỊCH"
+  },
+  {
+    "word": "<p><ruby>翻訳</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>ほんやく</p><p>bi&ecirc;n dịch, dịch văn bản</p>",
+    "audio": "2026-01-21/10. 翻訳.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>ベトナム語の<ruby>教<rt>きょう</rt></ruby><ruby>科<rt>か</rt></ruby><ruby>書<rt>しょ</rt></ruby>を、英語に<span style=\"color:#ef6d13\"><ruby>翻訳</ruby></span>する。</p>",
+        "audio": "2026-01-21/10. 翻訳‐例1.mp3"
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>翻訳</ruby></span><ruby>者<rt>しゃ</rt></ruby>として<ruby>働<rt>はたら</rt></ruby>く。</p>",
+        "audio": "2026-01-21/10. 翻訳‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Dịch</span> sách giáo khoa tiếng Việt sang tiếng Anh.",
+      "Làm việc với tư cách <span style=\"color:#EF6D13\">biên dịch</span>."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "PHIÊN DỊCH"
+  },
+  {
+    "word": "<p><ruby>強調</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>きょうちょう</p><p>nhấn mạnh, l&agrave;m nổi bật</p>",
+    "audio": "2026-01-21/11. 強調.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>社<rt>しゃ</rt></ruby><ruby>長<rt>ちょう</rt></ruby>は<ruby>会<rt>かい</rt></ruby><ruby>議<rt>ぎ</rt></ruby>の<ruby>重<rt>じゅう</rt></ruby><ruby>要性<rt>ようせい</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>強調</ruby>した</span>。</p>",
+        "audio": "2026-01-21/11. 強調‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Giám đốc <span style=\"color:#EF6D13\">nhấn mạnh</span> tầm quan trọng của cuộc họp."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "CƯỜNG ĐIỆU"
+  },
+  {
+    "word": "<p><ruby>調</ruby><ruby>整</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>ちょうせい</p><p>điều chỉnh, sắp xếp (để cho ph&ugrave; hợp)</p>",
+    "audio": "2026-01-21/12. 調整.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>スケジュールの<span style=\"color:#ef6d13\"><ruby>調</ruby><ruby>整</ruby></span>に時間がかかる。</p>",
+        "audio": "2026-01-21/12. 調整‐例1.mp3"
+      },
+      {
+        "example": "<p>テレビの<ruby>位置<rt>いち</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>調</ruby><ruby>整</ruby>した</span>。</p>",
+        "audio": "2026-01-21/12. 調整‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Mất thời gian <span style=\"color:#EF6D13\">điều chỉnh</span> lịch trình.",
+      "<span style=\"color:#EF6D13\">Sắp xếp</span> lại vị trí của ti vi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ĐIỀU CHỈNH"
+  },
+  {
+    "word": "<p><ruby>選択</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>せんたく</p><p>lựa chọn</p>",
+    "audio": "2026-01-21/13. 選択.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>テストは<span style=\"color:#ef6d13\"><ruby>選択</ruby></span><ruby>問題<rt>もんだい</rt></ruby>なので、日本語が書けなくても<ruby>大<rt>だい</rt></ruby><ruby>丈<rt>じょう</rt></ruby><ruby>夫<rt>ぶ</rt></ruby>だ。</p>",
+        "audio": "2026-01-21/13. 選択‐例1.mp3"
+      },
+      {
+        "example": "<p>高くても、<ruby>環境<rt>かんきょう</rt></ruby>に優しい<ruby>商品<rt>しょうひん</rt></ruby>を<span style=\"color:#ef6d13\">選択</span>する。</p>",
+        "audio": "2026-01-21/13. 選択‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Vì bài kiểm tra là dạng trắc nghiệm nên không biết viết tiếng Nhật cũng không sao.",
+      "<p>D&ugrave; đắt, t&ocirc;i vẫn sẽ<span style=\"color:#ef6d13\"> lựa chọn </span>sản phẩm th&acirc;n thiện với m&ocirc;i trường.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "TUYỂN TRẠCH"
+  },
+  {
+    "word": "<p><ruby>発生</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>はっせい</p><p>ph&aacute;t sinh, xảy ra</p>",
+    "audio": "2026-01-21/14. 発生.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>このカーブで<ruby>交通<rt>こうつう</rt></ruby><ruby>事故<rt>じこ</rt></ruby>がよく<span style=\"color:#ef6d13\"><ruby>発生</ruby>する</span>らしい。</p>",
+        "audio": "2026-01-21/14. 発生‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Có vẻ như thường xuyên <span style=\"color:#EF6D13\">xảy ra</span> tai nạn giao thông ở khúc cua này."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "PHÁT SINH"
+  },
+  {
+    "word": "セット",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "bộ; ván (hiệp đấu); thiết lập",
+    "audio": "2026-01-21/15. セット.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">セット</span>メニューにはお<ruby>飲<rt>の</rt></ruby>み<ruby>物<rt>もの</rt></ruby>も<ruby>付<rt>つ</rt></ruby>いています。</p>",
+        "audio": "2026-01-21/15. セット‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>目覚<rt>めざ</rt></ruby>まし<ruby>時<rt>と</rt></ruby><ruby>計<rt>けい</rt></ruby>を７時に<span style=\"color:#ef6d13\">セット</span>した。</p>",
+        "audio": "2026-01-21/15. セット‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Thực đơn <span style=\"color:#ef6d13\">c&oacute; sẵn</span> cũng bao gồm đồ uống.</p>",
+      "<p>Đ&atilde; <span style=\"color:#ef6d13\">c&agrave;i</span> đồng hồ b&aacute;o thức l&uacute;c 7 giờ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><ruby>広告</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>こうこく</p><p>quảng c&aacute;o</p>",
+    "audio": "2026-01-21/17. 広告.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>新<rt>あたら</rt></ruby>しい<ruby>商<rt>しょう</rt></ruby><ruby>品<rt>ひん</rt></ruby>を<ruby>紹<rt>しょう</rt></ruby><ruby>介<rt>かい</rt></ruby>するための<span style=\"color:#ef6d13\"><ruby>広告</ruby></span>を<ruby>作<rt>つく</rt></ruby>った。</p>",
+        "audio": "2026-01-21/17. 広告-例1.mp3"
+      },
+      {
+        "example": "<p><ruby>新<rt>あたら</rt></ruby>しいスマホの<span style=\"color:#ef6d13\"><ruby>広告</ruby></span>がテレビで<ruby>流<rt>なが</rt></ruby>れている。</p>",
+        "audio": "2026-01-21/17. 広告-例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Tôi làm <span style=\"color:#EF6D13\">quảng cáo</span> để giới thiệu sản phẩm mới.",
+      "<span style=\"color:#EF6D13\">Quảng cáo</span> điện thoại mới đang phát trên tivi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "カット",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "cắt",
+    "audio": "2026-01-21/16. カット.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>ケーキを<ruby>人数<rt>にんずう</rt></ruby><ruby>分<rt>ぶん</rt></ruby>に<span style=\"color:#ef6d13\">カットする</span>。</p>",
+        "audio": "2026-01-21/16. カット‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Chia</span> bánh kem đủ số lượng người."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><ruby>建築</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>けんちく</p><p>kiến tr&uacute;c/ x&acirc;y dựng</p>",
+    "audio": "2026-01-28/18. 建築.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この家は<ruby>木造<rt>もくぞう</rt></ruby><span style=\"color:#ef6d13\"><ruby>建築</ruby></span>だ。</p>",
+        "audio": "2026-01-21/18. 建築‐例1.mp3"
+      },
+      {
+        "example": "<p>新しいビルを<span style=\"color:#ef6d13\">建築</span>する。</p>",
+        "audio": "2026-01-21/18. 建築‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Ngôi nhà là <span style=\"color:#EF6D13\">kiến trúc</span> bằng gỗ.",
+      "<p><span style=\"color:#ef6d13\">X&acirc;y </span>t&ograve;a nh&agrave; mới.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "KIẾN TRÚC"
+  },
+  {
+    "word": "<p><ruby>監督</ruby></p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>かんとく</p><p>gi&aacute;m s&aacute;t, chỉ đạo;</p><p>đạo diễn, huấn luyện vi&ecirc;n</p>",
+    "audio": "2026-01-21/19. 監督.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>事故<rt>じこ</rt></ruby>がないように、<ruby>工<rt>こう</rt></ruby><ruby>事<rt>じ</rt></ruby><ruby>現<rt>げん</rt></ruby><ruby>場<rt>ば</rt></ruby>を<span style=\"color:#ef6d13\"><ruby>監督</ruby>する</span>。</p>",
+        "audio": "2026-01-21/19. 監督‐例1.mp3"
+      },
+      {
+        "example": "<p><ruby>野<rt>や</rt></ruby><ruby>球<rt>きゅう</rt></ruby>チームの<span style=\"color:#ef6d13\"><ruby>監督</ruby></span>を<ruby>務<rt>つと</rt></ruby>めている。</p>",
+        "audio": "2026-01-21/19. 監督‐例2.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Giám sát trực tiếp tại nhà máy để đảm bảo không có sự cố.",
+      "<p>T&ocirc;i l&agrave;m <span style=\"color:#ef6d13\">huấn luyện vi&ecirc;n</span>&nbsp;đội b&oacute;ng ch&agrave;y.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "GIÁM ĐỐC"
+  },
+  {
+    "word": "あくび",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "ngáp",
+    "audio": "2026-01-21/20. あくび.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>授<rt>じゅ</rt></ruby><ruby>業中<rt>ぎょうちゅう</rt></ruby>に<span style=\"color:#ef6d13\">あくび</span>をするのは<ruby>失礼<rt>しつれい</rt></ruby>です。</p>",
+        "audio": "2026-01-21/20. あくび‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Ngáp</span> trong giờ học là thất lễ."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "くしゃみ",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "sổ mũi, hắt hơi",
+    "audio": "2026-01-21/21. くしゃみ.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">くしゃみ</span>が<ruby>出<rt>で</rt></ruby>そうだったので、<ruby>腕<rt>うで</rt></ruby>で<ruby>口<rt>くち</rt></ruby>を<ruby>覆<rt>おお</rt></ruby>った。</p>",
+        "audio": "2026-01-21/21. くしゃみ‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Vì sắp <span style=\"color:#EF6D13\">hắt hơi</span> nên tôi đã dùng cánh tay che miệng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><ruby>居</ruby><ruby>眠</ruby>り</p>",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "<p>いねむり</p><p>ngủ gật</p>",
+    "audio": "2026-01-21/22. 居眠り.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>事故<rt>じこ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>は<span style=\"color:#ef6d13\"><ruby>居</ruby><ruby>眠</ruby>り</span><ruby>運転<rt>うんてん</rt></ruby>だった。</p>",
+        "audio": "2026-01-21/22. 居眠り‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>Nguy&ecirc;n nh&acirc;n vụ tai nạn l&agrave; do l&aacute;i xe trong t&igrave;nh trạng <span style=\"color:#ef6d13\">buồn ngủ</span>.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "うがい",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "súc miệng",
+    "audio": "2026-01-21/23. うがい.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>食<rt>しょく</rt></ruby><ruby>事<rt>じ</rt></ruby>の<ruby>後<rt>あと</rt></ruby>は、<span style=\"color:#ef6d13\">うがい</span>をして口の中をきれいにしましょう。</p>",
+        "audio": "2026-01-21/23. うがい‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "Sau khi ăn, hãy <span style=\"color:#EF6D13\">súc miệng</span> để làm sạch miệng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "しゃっくり",
+    "word_stress": null,
+    "word_type": "Danh từ\r\nĐộng từ",
+    "meaning": "nấc cụt",
+    "audio": "2026-01-21/24. しゃっくり.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">しゃっくり</span>が<ruby>止<rt>と</rt></ruby>まらなくて、<ruby>困<rt>こま</rt></ruby>っています。</p>",
+        "audio": "2026-01-21/24. しゃっくり‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<p>T&ocirc;i kh&ocirc;ng thể ngừng <span style=\"color:#ef6d13\">nấc cụt</span>, thật l&agrave; phiền phức.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "まだまだ",
+    "word_stress": null,
+    "word_type": "Phó từ",
+    "meaning": "vẫn còn, chưa đâu",
+    "audio": "2026-01-21/25. まだまだ.mp3",
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">まだまだ</span><ruby>頑<rt>がん</rt></ruby><ruby>張<rt>ば</rt></ruby>らなければなりません。</p>",
+        "audio": "2026-01-21/25. まだまだ‐例.mp3"
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Còn</span> phải cố gắng nhiều nữa."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  }
+]
