@@ -1,0 +1,1077 @@
+[
+  {
+    "word": "回",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "HỒI",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">回</span>す",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">回</span>る",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">回</span>収",
+        "audio": null
+      },
+      {
+        "example": "次<span style=\"color:#EF6D13\">回</span>",
+        "audio": null
+      },
+      {
+        "example": "遠<span style=\"color:#EF6D13\">回</span>り",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>回<rt>まわ</rt></ruby></span>す - xoay, vặn, chuyền, chuyển</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>回<rt>まわ</rt></ruby></span>る - xoay quanh, đi v&ograve;ng quanh, quay</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>回<rt>かい</rt></ruby></span><ruby>収<rt>しゅう</rt></ruby> - thu hồi, thu gom</p>",
+      "<p><ruby>次<rt>じ</rt></ruby><span style=\"color:#ef6d13\"><ruby>回<rt>かい</rt></ruby></span> - lần sau, lần tiếp theo</p>",
+      "<p><ruby>遠<rt>とお</rt></ruby><span style=\"color:#ef6d13\"><ruby>回<rt>まわ</rt></ruby></span>り -&nbsp; đi đường v&ograve;ng, v&ograve;ng vo</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "xoay, lần, quay lại"
+  },
+  {
+    "word": "因",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "NHÂN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "原<span style=\"color:#EF6D13\">因</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>原<rt>げん</rt></ruby><span style=\"color:#ef6d13\"><ruby>因<rt>いん</rt></ruby></span> - nguy&ecirc;n nh&acirc;n, l&yacute; do</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "nguyên nhân, lý do"
+  },
+  {
+    "word": "困",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "KHỐN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">困</span>る",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">困</span>難",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>困<rt>こま</rt></ruby></span>る - gặp<span style=\"color:#ef6d13\"> </span>kh&oacute; khăn, rắc rối, bối rối</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>困<rt>こん</rt></ruby></span><ruby>難<rt>なん</rt></ruby> - kh&oacute; khăn, gian nan</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "khó khăn, khốn khổ"
+  },
+  {
+    "word": "恥",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "SỈ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">恥</span>ずかしい",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>恥<rt>は</rt></ruby></span>ずかしい - xấu hổ</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "xấu hổ"
+  },
+  {
+    "word": "取",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "THỦ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">取</span>る",
+        "audio": null
+      },
+      {
+        "example": "<p>やり<span style=\"color:#ef6d13\">取</span>り</p>",
+        "audio": null
+      },
+      {
+        "example": "受け<span style=\"color:#EF6D13\">取</span>る",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>取<rt>と</rt></ruby></span>る - lấy, giữ; đạt được, gi&agrave;nh được;&nbsp;loại bỏ, bỏ đi</p>",
+      "<p>やり<span style=\"color:#ef6d13\"><ruby>取<rt>と</rt></ruby></span>り - trao đổi qua lại, đối đ&aacute;p</p>",
+      "<p>受け<span style=\"color:#ef6d13\"><ruby>取<rt>と</rt></ruby></span>る - nhận, tiếp nhận, hiểu được</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "lấy, nắm, nhận"
+  },
+  {
+    "word": "最",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TỐI",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">最</span>も",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">最</span>高",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">最</span>初",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>最<rt>もっと</rt></ruby></span>も - nhất, v&ocirc; c&ugrave;ng, cực kỳ</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>最<rt>さい</rt></ruby></span><ruby>高<rt>こう</rt></ruby> - cao nhất, nhất; tuyệt vời, tuyệt nhất</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>最<rt>さい</rt></ruby></span><ruby>初<rt>しょ</rt></ruby> - đầu ti&ecirc;n, ban đầu, l&uacute;c đầu</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "nhất"
+  },
+  {
+    "word": "亡",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "VONG",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>亡</ruby></span>くす</p>",
+        "audio": null
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>亡</ruby></span>くなる</p>",
+        "audio": null
+      },
+      {
+        "example": "<p><ruby>死</ruby><span style=\"color:#ef6d13\"><ruby>亡</ruby></span></p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>亡<rt>な</rt></ruby></span>くす - mất đi, đ&aacute;nh mất</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>亡<rt>な</rt></ruby></span>くなる - qua đời, mất</p>",
+      "<p><ruby>死<rt>し</rt></ruby><span style=\"color:#ef6d13\"><ruby>亡<rt>ぼう</rt></ruby></span> - tử vong, qua đời</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "chết, mất"
+  },
+  {
+    "word": "忘",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "VONG",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">忘</span>れる",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">忘</span>れ物",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">忘</span>年会",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>忘<rt>わす</rt></ruby></span>れる - qu&ecirc;n, bỏ qu&ecirc;n, kh&ocirc;ng nhớ</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>忘<rt>わす</rt></ruby></span>れ<ruby>物<rt>もの</rt></ruby> - đồ bị bỏ qu&ecirc;n, đồ thất lạc</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>忘<rt>ぼう</rt></ruby></span><ruby>年会<rt>ねんかい</rt></ruby> - tiệc tất ni&ecirc;n, tiệc cuối năm</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "quên"
+  },
+  {
+    "word": "望",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "VỌNG",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">望</span>む</p>",
+        "audio": null
+      },
+      {
+        "example": "<p>希<span style=\"color:#ef6d13\">望</span></p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>望<rt>のぞ</rt></ruby></span>む - mong muốn, kỳ vọng, hy vọng</p>",
+      "<p><ruby>希<rt>き</rt></ruby><span style=\"color:#ef6d13\"><ruby>望<rt>ぼう</rt></ruby></span> - hy vọng, mong muốn, nguyện vọng</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "mong muốn, hy vọng"
+  },
+  {
+    "word": "忙",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "MANG",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">忙</span>しい",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>忙<rt>いそが</rt></ruby></span>しい - bận rộn</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "bận rộn"
+  },
+  {
+    "word": "慣",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "QUÁN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">慣</span>れる",
+        "audio": null
+      },
+      {
+        "example": "習<span style=\"color:#EF6D13\">慣</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>慣<rt>な</rt></ruby></span>れる - th&iacute;ch nghi với, quen với</p>",
+      "<p><ruby>習<rt>しゅう</rt></ruby><span style=\"color:#ef6d13\"><ruby>慣<rt>かん</rt></ruby></span> - th&oacute;i quen, tập qu&aacute;n, phong tục</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "quen thuộc, tập quán"
+  },
+  {
+    "word": "情",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TÌNH",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "感<span style=\"color:#EF6D13\">情</span>",
+        "audio": null
+      },
+      {
+        "example": "事<span style=\"color:#EF6D13\">情</span>",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">情</span>報",
+        "audio": null
+      },
+      {
+        "example": "表<span style=\"color:#EF6D13\">情</span>",
+        "audio": null
+      },
+      {
+        "example": "友<span style=\"color:#EF6D13\">情</span>",
+        "audio": null
+      },
+      {
+        "example": "感<span style=\"color:#EF6D13\">情</span>的",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>感<rt>かん</rt></ruby><span style=\"color:#ef6d13\"><ruby>情<rt>じょう</rt></ruby></span>&nbsp;- cảm x&uacute;c, t&igrave;nh cảm</p>",
+      "<p><ruby>事<rt>じ</rt></ruby><span style=\"color:#ef6d13\"><ruby>情<rt>じょう</rt></ruby></span> - sự t&igrave;nh, ho&agrave;n cảnh, t&igrave;nh h&igrave;nh, l&yacute; do</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>情<rt>じょう</rt></ruby></span><ruby>報<rt>ほう</rt></ruby> - th&ocirc;ng tin, tin tức</p>",
+      "<p><ruby>表<rt>ひょう</rt></ruby><span style=\"color:#ef6d13\"><ruby>情<rt>じょう</rt></ruby></span> - biểu cảm, n&eacute;t mặt, vẻ mặt</p>",
+      "<p><ruby>友<rt>ゆう</rt></ruby><span style=\"color:#ef6d13\"><ruby>情<rt>じょう</rt></ruby></span> - t&igrave;nh bạn, t&igrave;nh hữu nghị</p>",
+      "<p><ruby>感<rt>かん</rt></ruby><span style=\"color:#ef6d13\"><ruby>情<rt>じょう</rt></ruby></span><ruby>的<rt>てき</rt></ruby> - mang t&iacute;nh cảm x&uacute;c, dễ x&uacute;c động, thi&ecirc;n về cảm x&uacute;c</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "cảm xúc, tình cảm"
+  },
+  {
+    "word": "刀",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "ĐAO",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">刀</span></p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>刀<rt>かたな</rt></ruby></span> - kiếm</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "dao, kiếm"
+  },
+  {
+    "word": "初",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "SƠ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">初</span>め",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">初</span>めて",
+        "audio": null
+      },
+      {
+        "example": "最<span style=\"color:#EF6D13\">初</span>",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">初</span>心者",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>初<rt>はじ</rt></ruby></span>め - l&uacute;c đầu, khởi đầu, phần đầu</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>初<rt>はじ</rt></ruby></span>めて - lần đầu ti&ecirc;n, lần đầu trải nghiệm điều g&igrave; đ&oacute;</p>",
+      "<p><ruby>最<rt>さい</rt></ruby><span style=\"color:#ef6d13\"><ruby>初<rt>しょ</rt></ruby></span> - đầu ti&ecirc;n, ban đầu</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>初<rt>しょ</rt></ruby></span><ruby>心者<rt>しんしゃ</rt></ruby> - người mới bắt đầu, người chưa c&oacute; kinh nghiệm</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "đầu tiên, khởi đầu"
+  },
+  {
+    "word": "券",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "KHOÁN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">券</span>",
+        "audio": null
+      },
+      {
+        "example": "～<span style=\"color:#EF6D13\">券</span>",
+        "audio": null
+      },
+      {
+        "example": "商品<span style=\"color:#EF6D13\">券</span>",
+        "audio": null
+      },
+      {
+        "example": "入場<span style=\"color:#EF6D13\">券</span>",
+        "audio": null
+      },
+      {
+        "example": "割引<span style=\"color:#EF6D13\">券</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>券<rt>けん</rt></ruby></span> - v&eacute;, phiếu, cuống v&eacute;</p>",
+      "<p>～<span style=\"color:#ef6d13\"><ruby>券<rt>けん</rt></ruby></span> - v&eacute;～, phiếu～</p>",
+      "<p><ruby>商<rt>しょう</rt></ruby><ruby>品<rt>ひん</rt></ruby><span style=\"color:#ef6d13\"><ruby>券<rt>けん</rt></ruby></span> - phiếu qu&agrave; tặng, voucher mua sắm</p>",
+      "<p><ruby>入場<rt>にゅうじょう</rt></ruby><span style=\"color:#ef6d13\"><ruby>券<rt>けん</rt></ruby></span> - v&eacute; v&agrave;o cửa, v&eacute; v&agrave;o cổng</p>",
+      "<p><ruby>割引<rt>わりびき</rt></ruby><span style=\"color:#ef6d13\"><ruby>券<rt>けん</rt></ruby></span> - phiếu giảm gi&aacute;, coupon giảm gi&aacute;</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "vé, phiếu"
+  },
+  {
+    "word": "則",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TẮC",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "法<span style=\"color:#EF6D13\">則</span>",
+        "audio": null
+      },
+      {
+        "example": "規<span style=\"color:#EF6D13\">則</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>法<rt>ほう</rt></ruby><span style=\"color:#ef6d13\"><ruby>則<rt>そく</rt></ruby></span> - quy luật, định luật</p>",
+      "<p><ruby>規<rt>き</rt></ruby><span style=\"color:#ef6d13\"><ruby>則<rt>そく</rt></ruby></span> - quy tắc, nội quy</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "quy tắc, luật lệ"
+  },
+  {
+    "word": "側",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TRẮC",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "内<span style=\"color:#EF6D13\">側</span>",
+        "audio": null
+      },
+      {
+        "example": "裏<span style=\"color:#EF6D13\">側</span>",
+        "audio": null
+      },
+      {
+        "example": "窓<span style=\"color:#EF6D13\">側</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>内<rt>うち</rt></ruby><span style=\"color:#ef6d13\"><ruby>側<rt>がわ</rt></ruby></span> - b&ecirc;n trong, ph&iacute;a trong</p>",
+      "<p><ruby>裏<rt>うら</rt></ruby><span style=\"color:#ef6d13\"><ruby>側<rt>がわ</rt></ruby></span> - mặt sau, ph&iacute;a sau, mặt tr&aacute;i</p>",
+      "<p><ruby>窓<rt>まど</rt></ruby><span style=\"color:#ef6d13\"><ruby>側<rt>がわ</rt></ruby></span> - ph&iacute;a cửa sổ</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "bên cạnh, phía"
+  },
+  {
+    "word": "測",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TRẮC",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>測</ruby></span>る</p>",
+        "audio": null
+      },
+      {
+        "example": "<p><ruby>予</ruby><span style=\"color:#ef6d13\"><ruby>測</ruby></span></p>",
+        "audio": null
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>測</ruby></span><ruby>定</ruby></p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>測<rt>はか</rt></ruby></span>る - đo, đo lường</p>",
+      "<p><ruby>予<rt>よ</rt></ruby><span style=\"color:#ef6d13\"><ruby>測<rt>そく</rt></ruby></span> - dự đo&aacute;n, ti&ecirc;n đo&aacute;n, ước t&iacute;nh trước</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>測<rt>そく</rt></ruby></span><ruby>定<rt>てい</rt></ruby> - đo đạc, đo lường</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "đo lường, ước lượng"
+  },
+  {
+    "word": "制",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "CHẾ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>制</ruby></span><ruby>服</ruby></p>",
+        "audio": null
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\"><ruby>制</ruby></span><ruby>限</ruby></p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>制<rt>せい</rt></ruby></span><ruby>服<rt>ふく</rt></ruby> - đồng phục</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>制<rt>せい</rt></ruby></span><ruby>限<rt>げん</rt></ruby> - hạn chế, giới hạn, quy định về mức độ n&agrave;o đ&oacute;</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "hạn chế, chế độ"
+  },
+  {
+    "word": "割",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "CÁT",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">割</span>れる</p>",
+        "audio": null
+      },
+      {
+        "example": "<p><span style=\"color:#ef6d13\">割</span>る</p>",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">割</span>り算",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">割</span>引",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">割</span>引券",
+        "audio": null
+      },
+      {
+        "example": "時間<span style=\"color:#EF6D13\">割</span>",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">割</span>合",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>割<rt>わ</rt></ruby></span>れる - vỡ, bể, nứt ra, chia t&aacute;ch</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>割<rt>わ</rt></ruby></span>る - l&agrave;m vỡ, chia nhỏ, chia t&aacute;ch</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>割<rt>わ</rt></ruby></span>り<ruby>算<rt>ざん</rt></ruby> - ph&eacute;p chia trong to&aacute;n học</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>割<rt>わり</rt></ruby></span><ruby>引<rt>びき</rt></ruby> - giảm gi&aacute;, chiết khấu</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>割<rt>わり</rt></ruby></span><ruby>引<rt>びき</rt></ruby><ruby>券<rt>けん</rt></ruby> - phiếu giảm gi&aacute;, coupon giảm gi&aacute;</p>",
+      "<p><ruby>時<rt>じ</rt></ruby><ruby>間<rt>かん</rt></ruby><span style=\"color:#ef6d13\"><ruby>割<rt>わり</rt></ruby></span> - thời kh&oacute;a biểu, lịch học</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>割<rt>わり</rt></ruby></span><ruby>合<rt>あい</rt></ruby> - tỷ lệ, phần trăm, tương đối</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "chia, cắt giảm"
+  },
+  {
+    "word": "判",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "PHÁN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">判</span>断",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>判<rt>はん</rt></ruby></span><ruby>断<rt>だん</rt></ruby> - ph&aacute;n đo&aacute;n, đ&aacute;nh gi&aacute;, quyết định</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "phán đoán, quyết định"
+  },
+  {
+    "word": "到",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "ĐÁO",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">到</span>着</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>到<rt>とう</rt></ruby></span><ruby>着<rt>ちゃく</rt></ruby> - đến nơi, đến đ&iacute;ch</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "đến nơi"
+  },
+  {
+    "word": "倒",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "ĐẢO",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">倒</span>れる",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">倒</span>す",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">倒</span>産",
+        "audio": null
+      },
+      {
+        "example": "面<span style=\"color:#EF6D13\">倒</span>",
+        "audio": null
+      },
+      {
+        "example": "面<span style=\"color:#EF6D13\">倒</span>臭い",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>倒<rt>たお</rt></ruby></span>れる - ng&atilde;, đổ, gục ng&atilde;, ph&aacute; sản</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>倒<rt>たお</rt></ruby></span>す - l&agrave;m đổ, đ&aacute;nh bại, hạ gục</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>倒<rt>とう</rt></ruby></span><ruby>産<rt>さん</rt></ruby> - ph&aacute; sản, sụp đổ doanh nghiệp</p>",
+      "<p><ruby>面<rt>めん</rt></ruby><span style=\"color:#ef6d13\"><ruby>倒<rt>どう</rt></ruby></span> - phiền phức, rắc rối;&nbsp;chăm s&oacute;c ai đ&oacute;</p>",
+      "<p><ruby>面<rt>めん</rt></ruby><span style=\"color:#ef6d13\"><ruby>倒<rt>どう</rt></ruby></span><ruby>臭<rt>くさ</rt></ruby>い - rất phiền phức, rắc rối, lười biếng l&agrave;m g&igrave; đ&oacute;</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ngã, đổ"
+  },
+  {
+    "word": "争",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TRANH",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">争</span>う",
+        "audio": null
+      },
+      {
+        "example": "競<span style=\"color:#EF6D13\">争</span>",
+        "audio": null
+      },
+      {
+        "example": "戦<span style=\"color:#EF6D13\">争</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>争<rt>あらそ</rt></ruby></span>う - tranh chấp, đấu tranh, tranh gi&agrave;nh, c&atilde;i v&atilde;</p>",
+      "<p><ruby>競<rt>きょう</rt></ruby><span style=\"color:#ef6d13\"><ruby>争<rt>そう</rt></ruby></span> - cạnh tranh, ganh đua</p>",
+      "<p><ruby>戦<rt>せん</rt></ruby><span style=\"color:#ef6d13\"><ruby>争<rt>そう</rt></ruby></span> - chiến tranh, cuộc chiến</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "tranh chấp, cạnh tranh"
+  },
+  {
+    "word": "危",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "NGUY",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">危</span>ない",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">危</span>険",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>危<rt>あぶ</rt></ruby></span>ない - nguy hiểm, kh&ocirc;ng an to&agrave;n, c&oacute; thể xảy ra rủi ro</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>危<rt>き</rt></ruby></span><ruby>険<rt>けん</rt></ruby> - nguy hiểm</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "nguy hiểm"
+  },
+  {
+    "word": "残",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TÀN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">残</span>す",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">残</span>る",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">残</span>り",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">残</span>業",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">残</span>念",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>残<rt>のこ</rt></ruby></span>す - để lại, chừa lại</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>残<rt>のこ</rt></ruby></span>る - c&ograve;n lại, s&oacute;t lại, vẫn c&ograve;n</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>残<rt>のこ</rt></ruby></span>り - phần c&ograve;n lại, dư lại, c&ograve;n thừa</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>残<rt>ざん</rt></ruby></span><ruby>業<rt>ぎょう</rt></ruby> - tăng ca, l&agrave;m th&ecirc;m giờ</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>残<rt>ざん</rt></ruby></span><ruby>念<rt>ねん</rt></ruby> - đ&aacute;ng tiếc, thất vọng</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "còn lại, sót lại"
+  },
+  {
+    "word": "列",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "LIỆT",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">列</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>列<rt>れつ</rt></ruby></span> - h&agrave;ng, d&atilde;y, cột, h&agrave;ng lối</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "hàng, dãy"
+  },
+  {
+    "word": "例",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "LỆ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">例</span>外",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">例</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>例<rt>れい</rt></ruby></span><ruby>外<rt>がい</rt></ruby> - ngoại lệ, trường hợp đặc biệt kh&ocirc;ng theo quy tắc chung</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>例<rt>れい</rt></ruby></span> - v&iacute; dụ</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ví dụ"
+  },
+  {
+    "word": "浅",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "THIỂN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">浅</span>い",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>浅<rt>あさ</rt></ruby></span>い - n&ocirc;ng, cạn, n&ocirc;ng cạn</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "nông, cạn"
+  },
+  {
+    "word": "湖",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "HỒ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">湖</span></p>",
+        "audio": null
+      },
+      {
+        "example": "<p>琵琶<span style=\"color:#ef6d13\">湖</span></p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>湖<rt>みずうみ</rt></ruby></span> - hồ, ao lớn</p>",
+      "<p><ruby>琵琶<rt>びわ</rt></ruby><span style=\"color:#ef6d13\"><ruby>湖<rt>こ</rt></ruby></span> - hồ Biwa</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "hồ"
+  },
+  {
+    "word": "滞",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TRỆ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">滞</span>在",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>滞<rt>たい</rt></ruby></span><ruby>在<rt>ざい</rt></ruby> - lưu tr&uacute;, ở lại tạm thời</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "trì hoãn, đọng lại"
+  },
+  {
+    "word": "洗",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TẨY",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">洗</span>う",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">洗</span>濯機",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">洗</span>濯物",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">洗</span>剤",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>洗<rt>あら</rt></ruby></span>う - rửa, giặt, tẩy, l&agrave;m sạch</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>洗<rt>せん</rt></ruby></span><ruby>濯<rt>たく</rt></ruby><ruby>機<rt>き</rt></ruby> - m&aacute;y giặt</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>洗<rt>せん</rt></ruby></span><ruby>濯物<rt>たくもの</rt></ruby> - quần &aacute;o giặt, đồ giặt</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>洗<rt>せん</rt></ruby></span><ruby>剤<rt>ざい</rt></ruby> - chất tẩy rửa, bột giặt, x&agrave; ph&ograve;ng</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "rửa"
+  },
+  {
+    "word": "汚",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Ô",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">汚</span>す",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">汚</span>れる",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">汚</span>れ",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">汚</span>い",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>汚<rt>よご</rt></ruby></span>す - l&agrave;m bẩn, l&agrave;m dơ</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>汚<rt>よご</rt></ruby></span>れる - bị bẩn, bị dơ, vấy bẩn</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>汚<rt>よご</rt></ruby></span>れ - vết bẩn, vết dơ, vết nhơ</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>汚<rt>きたな</rt></ruby></span>い - bẩn, dơ, bừa bộn, tục tĩu</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "bẩn, ô nhiễm"
+  },
+  {
+    "word": "法",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "PHÁP",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "方<span style=\"color:#EF6D13\">法</span>",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">法</span>律",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">法</span>則",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>方<rt>ほう</rt></ruby><span style=\"color:#ef6d13\"><ruby>法<rt>ほう</rt></ruby></span> - phương ph&aacute;p, c&aacute;ch l&agrave;m, c&aacute;ch thức</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>法<rt>ほう</rt></ruby></span><ruby>律<rt>りつ</rt></ruby> - ph&aacute;p luật, luật ph&aacute;p, quy định ph&aacute;p l&yacute;</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>法<rt>ほう</rt></ruby></span><ruby>則<rt>そく</rt></ruby> - quy luật, định luật</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "pháp luật, phương pháp"
+  },
+  {
+    "word": "温",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "ÔN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">温</span>まる",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">温</span>める",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">温</span>かい",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">温</span>度",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>温<rt>あたた</rt></ruby></span>まる - ấm l&ecirc;n, trở n&ecirc;n ấm</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>温<rt>あたた</rt></ruby></span>める - l&agrave;m ấm, h&acirc;m n&oacute;ng</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>温<rt>あたた</rt></ruby></span>かい - ấm &aacute;p</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>温<rt>おん</rt></ruby></span><ruby>度<rt>ど</rt></ruby> - nhiệt độ</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "ấm áp"
+  },
+  {
+    "word": "消",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TIÊU",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">消</span>す",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">消</span>える",
+        "audio": null
+      },
+      {
+        "example": "取り<span style=\"color:#EF6D13\">消</span>す",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">消</span>費量",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>消<rt>け</rt></ruby></span>す - tắt, x&oacute;a, dập tắt</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>消<rt>き</rt></ruby></span>える - bị tắt, biến mất, tan biến, mất dấu</p>",
+      "<p><ruby>取<rt>と</rt></ruby>り<span style=\"color:#ef6d13\"><ruby>消<rt>け</rt></ruby></span>す - hủy bỏ, x&oacute;a bỏ</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>消<rt>しょう</rt></ruby></span><ruby>費<rt>ひ</rt></ruby><ruby>量<rt>りょう</rt></ruby> - lượng ti&ecirc;u thụ, mức ti&ecirc;u d&ugrave;ng</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "dập tắt, biến mất"
+  },
+  {
+    "word": "液",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "DỊCH",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "血<span style=\"color:#EF6D13\">液</span>",
+        "audio": null
+      },
+      {
+        "example": "血<span style=\"color:#EF6D13\">液</span>型",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>血<rt>けつ</rt></ruby><span style=\"color:#ef6d13\"><ruby>液<rt>えき</rt></ruby></span> - m&aacute;u, huyết dịch</p>",
+      "<p><ruby>血<rt>けつ</rt></ruby><span style=\"color:#ef6d13\"><ruby>液<rt>えき</rt></ruby></span><ruby>型<rt>がた</rt></ruby> - nh&oacute;m m&aacute;u</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "chất lỏng, dịch"
+  }
+]
