@@ -1,0 +1,442 @@
+[
+  {
+    "word": "<p><span style=\"font-size:48px\">〜ば〜ほど</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Càng... càng...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>あの人のことを<ruby>知<rt>し</rt></ruby>れ<span style=\"color:#ef6d13\">ば</span><ruby>知<rt>し</rt></ruby>る<span style=\"color:#ef6d13\">ほど</span>好きになる。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Càng</span> biết về người đó thì tôi lại <span style=\"color:#EF6D13\">càng</span> thích hơn."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～ようなら</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Nếu như...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>遅<rt>おく</rt></ruby>れる<span style=\"color:#ef6d13\">ようなら</span>、<ruby>連絡<rt>れんらく</rt></ruby>してください。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Nếu</span> bạn đến trễ thì hãy liên lạc với tôi nhé!"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:64px\">～ように</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>Để V/</p><p>Để kh&ocirc;ng V</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この薬は<ruby>子<rt>こ</rt></ruby><ruby>供<rt>ども</rt></ruby>でも飲める<span style=\"color:#ef6d13\">ように</span><ruby>甘<rt>あま</rt></ruby>い<ruby>味<rt>あじ</rt></ruby>がついています。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p>Loại thuốc n&agrave;y được tạo vị ngọt <span style=\"color:#ef6d13\">để</span> ngay cả trẻ em cũng c&oacute; thể uống được.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～ようにする</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>(Sẽ) Cố gắng V/</p><p>kh&ocirc;ng V</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>もう大人なんですから、<ruby>遅<rt>ち</rt></ruby><ruby>刻<rt>こく</rt></ruby>し<span style=\"color:#ef6d13\">ないようにしましょう</span>。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Vì đã là người lớn rồi thì <span style=\"color:#EF6D13\">cố gắng đừng</span> đi muộn nữa."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">～ようにしている</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p><span style=\"font-size:36px\">Cố gắng (duy tr&igrave; th&oacute;i quen) l&agrave;m/</span></p><p><span style=\"font-size:36px\">kh&ocirc;ng l&agrave;m V</span></p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>健<rt>けん</rt></ruby><ruby>康<rt>こう</rt></ruby>のために、毎日<ruby>野<rt>や</rt></ruby><ruby>菜<rt>さい</rt></ruby>を食べる<span style=\"color:#ef6d13\">ようにしています</span>。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Để khoẻ mạnh, tôi <span style=\"color:#EF6D13\">cố gắng duy trì thói quen</span> ăn rau hàng ngày."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">V る + ところだ</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>Sắp sửa/</p><p>chuẩn bị V</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "これからご飯を<span style=\"color:#EF6D13\">食べるところです</span>。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Tôi <span style=\"color:#EF6D13\">chuẩn bị ăn</span> cơm giờ đây."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">V ている + ところだ</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Đúng lúc đang V",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "ちょうど今ご飯を<span style=\"color:#EF6D13\">食べているところです</span>。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\">Đ&uacute;ng l&uacute;c</span> t&ocirc;i <span style=\"color:#ef6d13\">đang</span> ăn cơm b&acirc;y giờ.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">V た + ところだ</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Vừa mới V",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "（たった）今<span style=\"color:#EF6D13\">帰ったところです</span>。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Bây giờ tôi <span style=\"color:#EF6D13\">vừa mới về</span> xong."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～たばかり</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Vừa mới V",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>さっき<span style=\"color:#ef6d13\">聞いたばかり</span>のことを、もう<ruby>忘<rt>わす</rt></ruby>れちゃったの？</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Vừa mới nghe</span> lúc nãy mà cậu đã quên rồi á?"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p style=\"text-align: left;\">～って（1）</p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p><span style=\"font-size:48px\">Thể hiện chủ đề c&acirc;u</span></p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "すみません、会社のパーティー<span style=\"color:#EF6D13\">って</span>いつですか。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p style=\"text-align: left;\">Xin lỗi, tiệc c&ocirc;ng ty <span style=\"color:#ef6d13\">l&agrave;</span> khi n&agrave;o vậy ạ?</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p style=\"text-align: left;\">～って（2）</p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Nghe nói là...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼女はN3に<ruby>合<rt>ごう</rt></ruby><ruby>格<rt>かく</rt></ruby>したんだ<span style=\"color:#ef6d13\">って</span>。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p style=\"text-align: left;\"><span style=\"color:#ef6d13\">Nghe n&oacute;i</span> c&ocirc; ấy đỗ N3 rồi.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p style=\"text-align: left;\">～って（3）</p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p><span style=\"font-size:36px\">thay cho と(思う／言う／書いてある)</span></p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "「よくできたよ」<span style=\"color:#EF6D13\">って</span>ほめてくれた。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p style=\"text-align: left;\">T&ocirc;i đ&atilde; được khen <span style=\"color:#ef6d13\">l&agrave;</span> &ldquo;Con đ&atilde; l&agrave;m rất tốt&rdquo; đấy!</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～って（4）/</span></p><p><span style=\"font-size:48px\">という</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Được gọi là...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "私は日本<span style=\"color:#EF6D13\">という</span>国から来ました。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p style=\"text-align: left;\">T&ocirc;i từ một đất nước <span style=\"color:#ef6d13\">t&ecirc;n l&agrave;</span> Nhật Bản đến đ&acirc;y.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p>～らしい</p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>Ra d&aacute;ng/</p><p>đậm chất/</p><p>chuẩn...</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "今日は夏<span style=\"color:#EF6D13\">らしい</span>日だね。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Hôm nay là một ngày <span style=\"color:#EF6D13\">đúng kiểu</span> mùa hè nhỉ!"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p style=\"text-align: left;\">～を<ruby>中<rt>ちゅう</rt></ruby><ruby>心<rt>しん</rt></ruby></p><p><ruby><rt></rt></ruby></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>M&agrave; chủ yếu l&agrave;~ /</p><p>trọng t&acirc;m l&agrave;...</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>発<rt>はつ</rt></ruby><ruby>音<rt>おん</rt></ruby><span style=\"color:#ef6d13\">を<ruby>中心<rt>ちゅうしん</rt></ruby>として</span>日本語について研究しています。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p style=\"text-align: left;\">T&ocirc;i đang nghi&ecirc;n cứu tiếng Nhật m&agrave; <span style=\"color:#ef6d13\">trọng t&acirc;m l&agrave;</span> ph&aacute;t &acirc;m.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～について</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Về...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>今、大学院で日本語<ruby>教<rt>きょう</rt></ruby><ruby>育<rt>いく</rt></ruby><span style=\"color:#ef6d13\">について</span>研究しています。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Hiện giờ, tôi đang nghiên cứu <span style=\"color:#EF6D13\">về</span> giáo dục tiếng Nhật ở cao học."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p>～において</p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>Ở... /</p><p>Tại... /</p><p>Trong...</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "今の日本<span style=\"color:#EF6D13\">において</span>、タバコを吸える店はほとんどない。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Ở</span> Nhật Bản hiện nay, hầu như không còn cửa hàng có thể hút thuốc."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p>～にとって</p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Đối với...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>お金は会社<span style=\"color:#ef6d13\">にとって</span><ruby>血<rt>ち</rt></ruby>ともいえる。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Có thể nói rằng tiền là máu <span style=\"color:#EF6D13\">đối với</span> công ty."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">～に<ruby>対<rt>たい</rt></ruby></span><span style=\"font-size:36px\">して（１）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>Đối với... /</p><p>với...</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼は女<span style=\"color:#ef6d13\">に<ruby>対<rt>たい</rt></ruby>して</span>いつも<ruby>優<rt>やさ</rt></ruby>しいです。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p>Anh ấy l&uacute;c n&agrave;o cũng tốt <span style=\"color:#ef6d13\">với</span> phụ nữ</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～に<ruby>対<rt>たい</rt></ruby></span><span style=\"font-size:48px\">して（2）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>Tr&aacute;i với/</p><p>so với...</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>兄は<ruby>背<rt>せ</rt></ruby>が高いの<span style=\"color:#ef6d13\">に<ruby>対<rt>たい</rt></ruby>して</span>、私は<ruby>背<rt>せ</rt></ruby>が低い。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Trái với</span> anh trai cao ráo thì tôi lại thấp bé."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">～に<ruby>従<rt>したが</rt></ruby></span><span style=\"font-size:36px\">って（1）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>Tu&acirc;n theo/</p><p>Theo đ&uacute;ng như...</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>子どもの<ruby>頃<rt>ころ</rt></ruby>から、母の言葉<span style=\"color:#ef6d13\">に<ruby>従<rt>したが</rt></ruby>って</span><ruby>生<rt>い</rt></ruby>きてきた。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Từ nhỏ, tôi đã sống <span style=\"color:#EF6D13\">theo những lời</span> mẹ dặn."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">～に<ruby>従<rt>したが</rt></ruby></span><span style=\"font-size:36px\">って（2）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p><span style=\"font-size:36px\">C&ugrave;ng với... th&igrave;... / </span></p><p><span style=\"font-size:36px\">A c&agrave;ng... th&igrave; B cũng c&agrave;ng...</span></p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>太<rt>たい</rt></ruby><ruby>陽<rt>よう</rt></ruby>が<ruby>昇<rt>のぼ</rt></ruby>る<span style=\"color:#ef6d13\">に<ruby>従<rt>したが</rt></ruby>って</span>、<ruby>気<rt>き</rt></ruby><ruby>温<rt>おん</rt></ruby>も高くなる。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p>Mặt trời <span style=\"color:#ef6d13\">c&agrave;ng</span> l&ecirc;n cao th&igrave; nhiệt độ <span style=\"color:#ef6d13\">c&agrave;ng</span> n&oacute;ng l&ecirc;n.</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  }
+]
