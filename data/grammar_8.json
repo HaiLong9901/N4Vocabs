@@ -1,0 +1,122 @@
+[
+  {
+    "word": "<p><span style=\"font-size:48px\">～につき（1）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Cứ mỗi N thì...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "入場料は一人<span style=\"color:#EF6D13\">につき</span>千円です。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Phí vào cổng là 1.000 yên cho <span style=\"color:#EF6D13\">mỗi</span> người."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～につき（2）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Vì, do...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>点<rt>てん</rt></ruby><ruby>検<rt>けん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby><span style=\"color:#ef6d13\">につき</span>、エレベーターを一時<ruby>使<rt>し</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>禁<rt>きん</rt></ruby><ruby>止<rt>し</rt></ruby>する。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Do</span> đang tiến hành kiểm tra nên thang máy tạm thời bị cấm sử dụng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">～もの / ～もん</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Thì là bởi vì...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "ごめん、知らなかったん<span style=\"color:#EF6D13\">だもん</span>。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Xin lỗi cậu, <span style=\"color:#EF6D13\">tại vì</span> tớ không biết ấy."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:28px\">～ものだから /～もので</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Vì lí do là...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>宿<rt>しゅく</rt></ruby><ruby>題<rt>だい</rt></ruby>を忘れた<span style=\"color:#ef6d13\">もので</span>、先生に<ruby>怒<rt>おこ</rt></ruby>られてしまった。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Vì</span> quên làm bài tập nên tôi bị thầy/ cô giáo mắng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:28px\">～をきっかけに /</span></p><p><span style=\"font-size:28px\">～がきっかけで</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Nhân dịp N.../ N là cơ duyên để...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "結婚したのを<span style=\"color:#EF6D13\">きっかけに</span>、たばこをやめました。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Nhân dịp</span> kết hôn, tôi đã bỏ thuốc lá."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">〜ことになっている</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Được quyết định/ quy định V/ không V",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>ベトナムでは、車は道の<ruby>右<rt>みぎ</rt></ruby><ruby>側<rt>がわ</rt></ruby>を走る<span style=\"color:#ef6d13\">ことになっている</span>。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Ở Việt Nam, xe cộ <span style=\"color:#EF6D13\">được quy định là</span> chạy bên phải đường."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  }
+]
