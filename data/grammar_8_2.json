@@ -1,0 +1,122 @@
+[
+  {
+    "word": "<p><span style=\"font-size:28px\">〜かねる / ～かねない</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "+ Khó có thể/ không thể V\r\n+ Có thể V",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>申<rt>もう</rt></ruby>し<ruby>訳<rt>わけ</rt></ruby>ございません。お<ruby>客<rt>きゃく</rt></ruby><ruby>様<rt>さま</rt></ruby>のご<ruby>質<rt>しつ</rt></ruby><ruby>問<rt>もん</rt></ruby>にお答え<span style=\"color:#ef6d13\">しかねます</span>。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Thành thật xin lỗi. Tôi <span style=\"color:#EF6D13\">không thể</span> trả lời câu hỏi của quý khách."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "〜がたい",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Khó V/ Không thể V",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>彼女が仕事を<ruby>辞<rt>や</rt></ruby>めるなんて、<ruby>信<rt>しん</rt></ruby>じ<span style=\"color:#ef6d13\">がたい</span>。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Việc cô ấy nghỉ việc thật <span style=\"color:#EF6D13\">khó</span> tin."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "〜っこない",
+    "word_stress": "",
+    "word_type": null,
+    "audio": null,
+    "front_image": null,
+    "example": [
+      {
+        "example": "こんな難しい問題、分かり<span style=\"color:#EF6D13\">っこないよ</span>。",
+        "audio": null
+      }
+    ],
+    "meaning": "Không thể nào mà V",
+    "back_image": null,
+    "meaning_example": [
+      "Với câu hỏi khó như thế này thì tôi <span style=\"color:#EF6D13\">không thể</span> hiểu nổi đâu!"
+    ],
+    "quiz_question": null,
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:28px\">A<s>い</s>／N＋っぽい（1）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Có vẻ.../ cảm giác...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "このかばんは安<span style=\"color:#EF6D13\">っぽい</span>。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Chiếc cặp này <span style=\"color:#EF6D13\">có vẻ</span> rẻ tiền."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">Nっぽい（2）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Nhiều/ Thiên về N",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><span style=\"color:#ef6d13\">油っぽい</span>食べ物ばかり食べていると<ruby>太<rt>ふと</rt></ruby>るよ。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Nếu cứ ăn toàn những món (<span style=\"color:#EF6D13\">nhiều</span>) dầu mỡ thì sẽ béo đấy!"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">Vますっぽい（3）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Hay V/ Dễ V",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "父は昔から<span style=\"color:#EF6D13\">怒りっぽい</span>。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Bố tôi <span style=\"color:#EF6D13\">dễ nổi nóng</span> (nóng tính) từ hồi xưa rồi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  }
+]
