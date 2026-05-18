@@ -1,0 +1,377 @@
+[
+  {
+    "word": "昨",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TẠC",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">昨</span>日",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">昨</span>年",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">昨</span>夜",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby><span style=\"color:#ef6d13\">昨</span>日<rt>きのう</rt></ruby> - h&ocirc;m qua</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>昨<rt>さく</rt></ruby></span><ruby>年<rt>ねん</rt></ruby> - năm ngo&aacute;i</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>昨<rt>さく</rt></ruby></span><ruby>夜<rt>や</rt></ruby> - tối qua, đ&ecirc;m qua</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "hôm qua, trước đây"
+  },
+  {
+    "word": "普",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "PHỔ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">普</span>通",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">普</span>段",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>普<rt>ふ</rt></ruby></span><ruby>通<rt>つう</rt></ruby> - b&igrave;nh thường</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>普<rt>ふ</rt></ruby></span><ruby>段<rt>だん</rt></ruby> - thường ng&agrave;y, th&ocirc;ng thường</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "phổ thông, thông thường"
+  },
+  {
+    "word": "増",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TĂNG",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">増</span>える",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">増</span>やす",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">増</span>加",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">増</span>減",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>増<rt>ふ</rt></ruby></span>える - tăng l&ecirc;n</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>増<rt>ふ</rt></ruby></span>やす - l&agrave;m tăng, th&ecirc;m v&agrave;o</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>増<rt>ぞう</rt></ruby></span><ruby>加<rt>か</rt></ruby> - sự gia tăng</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>増<rt>ぞう</rt></ruby></span><ruby>減<rt>げん</rt></ruby> - sự tăng giảm</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "tăng lên"
+  },
+  {
+    "word": "量",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "LƯỢNG",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">量</span>る",
+        "audio": null
+      },
+      {
+        "example": "大<span style=\"color:#EF6D13\">量</span>",
+        "audio": null
+      },
+      {
+        "example": "多<span style=\"color:#EF6D13\">量</span>",
+        "audio": null
+      },
+      {
+        "example": "～<span style=\"color:#EF6D13\">量</span>",
+        "audio": null
+      },
+      {
+        "example": "運動<span style=\"color:#EF6D13\">量</span>",
+        "audio": null
+      },
+      {
+        "example": "仕事<span style=\"color:#EF6D13\">量</span>",
+        "audio": null
+      },
+      {
+        "example": "消費<span style=\"color:#EF6D13\">量</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>量<rt>はか</rt></ruby></span>る - đo lường, c&acirc;n đo</p>",
+      "<p><ruby>大<rt>たい</rt></ruby><span style=\"color:#ef6d13\"><ruby>量<rt>りょう</rt></ruby></span> - số lượng lớn</p>",
+      "<p><ruby>多<rt>た</rt></ruby><span style=\"color:#ef6d13\"><ruby>量<rt>りょう</rt></ruby></span> - lượng nhiều</p>",
+      "<p>～<span style=\"color:#ef6d13\"><ruby>量<rt>りょう</rt></ruby></span> - lượng ～</p>",
+      "<p><ruby>運動<rt>うんどう</rt></ruby><span style=\"color:#ef6d13\"><ruby>量<rt>りょう</rt></ruby></span> - lượng vận động</p>",
+      "<p><ruby>仕<rt>し</rt></ruby><ruby>事<rt>ごと</rt></ruby><span style=\"color:#ef6d13\"><ruby>量<rt>りょう</rt></ruby></span> - lượng c&ocirc;ng việc</p>",
+      "<p><ruby>消<rt>しょう</rt></ruby><ruby>費<rt>ひ</rt></ruby><span style=\"color:#ef6d13\"><ruby>量<rt>りょう</rt></ruby></span> - lượng ti&ecirc;u d&ugrave;ng</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "số lượng, khối lượng"
+  },
+  {
+    "word": "裏",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "LÝ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">裏</span>",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">裏</span>側",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>裏<rt>うら</rt></ruby></span> - mặt sau, ph&iacute;a sau</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>裏<rt>うら</rt></ruby></span><ruby>側<rt>がわ</rt></ruby> - mặt sau, ph&iacute;a tr&aacute;i ngược</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "mặt trái, phía sau"
+  },
+  {
+    "word": "確",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "XÁC",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">確</span>かめる",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">確</span>か",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">確</span>かに",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">確</span>認",
+        "audio": null
+      },
+      {
+        "example": "正<span style=\"color:#EF6D13\">確</span>",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">確</span>実",
+        "audio": null
+      },
+      {
+        "example": "明<span style=\"color:#EF6D13\">確</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>確<rt>たし</rt></ruby></span>かめる - x&aacute;c nhận, kiểm tra</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>確<rt>たし</rt></ruby></span>か - (t&iacute;nh từ) chắc chắn;&nbsp;(trạng từ) h&igrave;nh như, nếu kh&ocirc;ng nhầm th&igrave;</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>確<rt>たし</rt></ruby></span>かに - chắc chắn l&agrave;, c&ocirc;ng nhận l&agrave;</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>確<rt>かく</rt></ruby></span><ruby>認<rt>にん</rt></ruby> - x&aacute;c nhận</p>",
+      "<p><ruby>正<rt>せい</rt></ruby><span style=\"color:#ef6d13\"><ruby>確<rt>かく</rt></ruby></span> - ch&iacute;nh x&aacute;c</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>確<rt>かく</rt></ruby></span><ruby>実<rt>じつ</rt></ruby> - chắc chắn</p>",
+      "<p><ruby>明<rt>めい</rt></ruby><span style=\"color:#ef6d13\"><ruby>確<rt>かく</rt></ruby></span> - r&otilde; r&agrave;ng, minh bạch</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "xác nhận, chính xác"
+  },
+  {
+    "word": "岩",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "NHAM",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">岩</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>岩<rt>いわ</rt></ruby></span> - đ&aacute;, tảng đ&aacute;</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "đá, nham thạch"
+  },
+  {
+    "word": "官",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "QUAN",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "警<span style=\"color:#EF6D13\">官</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>警<rt>けい</rt></ruby><span style=\"color:#ef6d13\"><ruby>官<rt>かん</rt></ruby></span> - cảnh s&aacute;t</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "quan chức, chính quyền"
+  },
+  {
+    "word": "追",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "TRUY",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">追</span>う",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">追</span>い越す",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">追</span>いつく",
+        "audio": null
+      },
+      {
+        "example": "<span style=\"color:#EF6D13\">追</span>い抜く",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>追<rt>お</rt></ruby></span>う - đuổi theo, theo đuổi</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>追<rt>お</rt></ruby></span>い<ruby>越<rt>こ</rt></ruby>す - vượt qua</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>追<rt>お</rt></ruby></span>いつく - đuổi kịp</p>",
+      "<p><span style=\"color:#ef6d13\"><ruby>追<rt>お</rt></ruby></span>い<ruby>抜<rt>ぬ</rt></ruby>く - vượt mặt, vượt qua</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "đuổi theo, theo đuổi"
+  },
+  {
+    "word": "師",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "SƯ",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "医<span style=\"color:#EF6D13\">師</span>",
+        "audio": null
+      },
+      {
+        "example": "教<span style=\"color:#EF6D13\">師</span>",
+        "audio": null
+      },
+      {
+        "example": "美容<span style=\"color:#EF6D13\">師</span>",
+        "audio": null
+      },
+      {
+        "example": "看護<span style=\"color:#EF6D13\">師</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>医<rt>い</rt></ruby><span style=\"color:#ef6d13\"><ruby>師<rt>し</rt></ruby></span> - b&aacute;c sĩ</p>",
+      "<p><ruby>教<rt>きょう</rt></ruby><span style=\"color:#ef6d13\"><ruby>師<rt>し</rt></ruby></span> - gi&aacute;o vi&ecirc;n</p>",
+      "<p><ruby>美<rt>び</rt></ruby><ruby>容<rt>よう</rt></ruby><span style=\"color:#ef6d13\"><ruby>師<rt>し</rt></ruby></span> - chuy&ecirc;n vi&ecirc;n thẩm mỹ, thợ l&agrave;m t&oacute;c</p>",
+      "<p><ruby>看<rt>かん</rt></ruby><ruby>護<rt>ご</rt></ruby><span style=\"color:#ef6d13\"><ruby>師<rt>し</rt></ruby></span> - y t&aacute;, điều dưỡng</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "thầy, giáo viên"
+  },
+  {
+    "word": "形",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "HÌNH",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<span style=\"color:#EF6D13\">形</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><span style=\"color:#ef6d13\"><ruby>形<rt>かたち</rt></ruby></span> - h&igrave;nh dạng</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "hình dáng, hình thức"
+  },
+  {
+    "word": "型",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "HÌNH",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "血液<span style=\"color:#EF6D13\">型</span>",
+        "audio": null
+      },
+      {
+        "example": "大<span style=\"color:#EF6D13\">型</span>",
+        "audio": null
+      },
+      {
+        "example": "髪<span style=\"color:#EF6D13\">型</span>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<p><ruby>血液<rt>けつえき</rt></ruby><span style=\"color:#ef6d13\"><ruby>型<rt>がた</rt></ruby></span> - nh&oacute;m m&aacute;u</p>",
+      "<p><ruby>大<rt>おお</rt></ruby><span style=\"color:#ef6d13\"><ruby>型<rt>がた</rt></ruby></span> - loại lớn, cỡ lớn</p>",
+      "<p><ruby>髪<rt>かみ</rt></ruby><span style=\"color:#ef6d13\"><ruby>型<rt>がた</rt></ruby></span> - kiểu t&oacute;c</p>"
+    ],
+    "quiz_question": [],
+    "kanji_meaning": "kiểu, mẫu"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "word": "<p><span style=\"font-size:48px\">～ていく（1）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Thể hiện sự thay đổi, quá trình từ quá khứ/ hiện tại đến về sau",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "これから、もっと寒くなっ<span style=\"color:#EF6D13\">ていく</span>と思います。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Tôi nghĩ rằng từ giờ trở đi trời sẽ <span style=\"color:#EF6D13\">ngày càng</span> lạnh hơn."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～ていく（2）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Thể hiện hành động có hướng di chuyển ra xa người nói",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "これから駅まで歩い<span style=\"color:#EF6D13\">ていく</span>。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Tôi sẽ <span style=\"color:#EF6D13\">đi</span> bộ <span style=\"color:#EF6D13\">đến</span> ga từ bây giờ."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～てくる（1）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Thể hiện sự thay đổi, quá trình từ quá khứ đến hiện tại",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p><ruby>最<rt>さい</rt></ruby><ruby>近<rt>きん</rt></ruby>はとても暑くな<span style=\"color:#ef6d13\">ってきた</span>。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Gần đây trời <span style=\"color:#EF6D13\">trở nên</span> rất nóng."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:48px\">～てくる（2）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Thể hiện hành động có hướng di chuyển gần lại người nói",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "弟が学校から帰っ<span style=\"color:#EF6D13\">てきた</span>。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Em trai tôi đã từ trường <span style=\"color:#EF6D13\">về đến</span> nhà ."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">N+とともに（1）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Cùng.../ Cùng với...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "家族<span style=\"color:#EF6D13\">とともに</span>、海外で新しい生活を始めた。",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Tôi đã bắt đầu một cuộc sống mới ở nước ngoài <span style=\"color:#EF6D13\">cùng với</span> gia đình."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">～とともに（2）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "<p>Đồng thời.../</p><p>Vừa... vừa...</p>",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>大人は、自由である<span style=\"color:#ef6d13\">とともに</span><ruby>責<rt>せき</rt></ruby><ruby>任<rt>にん</rt></ruby>もある。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Người lớn <span style=\"color:#EF6D13\">vừa</span> có tự do, <span style=\"color:#EF6D13\">vừa</span> có trách nhiệm."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:28px\">N/ Vる＋とともに（3）</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Càng... càng.../ Cùng với... thì...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>AIの<ruby>発<rt>はっ</rt></ruby><ruby>達<rt>たつ</rt></ruby><span style=\"color:#ef6d13\">とともに</span>、<ruby>人<rt>にん</rt></ruby><ruby>間<rt>げん</rt></ruby>の働き方も変わっていくだろう。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Cùng với</span> sự phát triển của AI, cách con người làm việc cũng sẽ thay đổi."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p>～につれて</p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Cùng với... thì...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>経済の<ruby>発<rt>はっ</rt></ruby><ruby>展<rt>てん</rt></ruby><span style=\"color:#ef6d13\">につれて</span>、人々の生活<ruby>水<rt>すい</rt></ruby><ruby>準<rt>じゅん</rt></ruby>も<ruby>向<rt>こう</rt></ruby><ruby>上<rt>じょう</rt></ruby>した。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "<span style=\"color:#EF6D13\">Cùng với</span> sự phát triển của kinh tế, mức sống của người dân cũng được nâng cao."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  },
+  {
+    "word": "<p><span style=\"font-size:36px\">N1も〜ば、N2も〜</span></p>",
+    "word_stress": null,
+    "word_type": null,
+    "meaning": "Cả N1, N2 đều...",
+    "audio": null,
+    "front_image": null,
+    "back_image": null,
+    "example": [
+      {
+        "example": "<p>この町には、コンビニ<span style=\"color:#ef6d13\">も</span>なけれ<span style=\"color:#ef6d13\">ば</span>、スーパー<span style=\"color:#ef6d13\">も</span>ない。</p>",
+        "audio": null
+      }
+    ],
+    "meaning_example": [
+      "Ở thị trấn này, không có <span style=\"color:#EF6D13\">cả</span> cửa hàng tiện lợi <span style=\"color:#EF6D13\">lẫn</span> siêu thị."
+    ],
+    "quiz_question": [],
+    "kanji_meaning": null
+  }
+]
